@@ -30,7 +30,7 @@
 ## 资金管理
 
 * [提现](fund-management/withdrawmoneymd.md)
-* [transactionfee](fund-management/transactionfee.md)
+* [交易服务费说明](fund-management/transactionfee.md)
 
 ## 买手APP
 
