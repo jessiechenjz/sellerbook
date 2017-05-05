@@ -30,7 +30,7 @@
   * [码头大哥话跨境07－519大促，你准备好了吗？](recruitment/ymatoumeat/ymatoumeat7.md)
   * [码头大哥话跨境08－519大促复盘会](recruitment/ymatoumeat/ymatoumeat8.md)
   * [码头大哥话跨境09－打造进阶版跨境网红](recruitment/ymatoumeat/ymatoumeat9.md)
-  * [ymatoumeat10](recruitment/ymatoumeat/ymatoumeat10.md)
+  * [码头大哥话跨境10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
 
 ## Platform Rules
 
