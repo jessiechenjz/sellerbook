@@ -22,6 +22,7 @@
   * [successstories1.md](recruitment/success-stories/successstories1md.md)
 * [码头干货](recruitment/ymatoumeat.md)
   * [码头大哥话跨境01－跨境税改](recruitment/ymatoumeat/ymatoumeat1.md)
+  * [码头大哥话跨境02－税改调整方案沟通](recruitment/ymatoumeat/ymatoumeat2.md)
 
 ## Platform Rules
 
