@@ -50,3 +50,7 @@
 * [工作台介绍](sellerapp/dashboard.md)
 * [创建直播](sellerapp/liveshow.md)
 
+## pspseller
+
+* [pspintro](pspseller/pspintro.md)
+
