@@ -50,7 +50,3 @@
 * [工作台介绍](sellerapp/dashboard.md)
 * [创建直播](sellerapp/liveshow.md)
 
-## 优选买手
-
-* [优选买手业务介绍](you-xuan-mai-shou/you-xuan-mai-shou-ye-wu-jie-shao.md)
-
