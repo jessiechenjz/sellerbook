@@ -19,7 +19,9 @@
 ## 买手招募
 
 * [Success Stories](recruitment/success-stories.md)
-  * [successstories1.md](recruitment/success-stories/successstories1md.md)
+  * [买手故事1](recruitment/success-stories/successstories1md.md)
+  * [买手故事2](recruitment/success-stories/successstories2.md)
+  * successtories3
 * [码头干货](recruitment/ymatoumeat.md)
   * [码头大哥话跨境01－跨境税改](recruitment/ymatoumeat/ymatoumeat1.md)
   * [码头大哥话跨境02－税改调整方案沟通](recruitment/ymatoumeat/ymatoumeat2.md)
