@@ -24,7 +24,8 @@
   * [码头大哥话跨境01－跨境税改](recruitment/ymatoumeat/ymatoumeat1.md)
   * [码头大哥话跨境02－税改调整方案沟通](recruitment/ymatoumeat/ymatoumeat2.md)
   * [码头大哥话跨境03－码头新规解读和服务支持](recruitment/ymatoumeat/ymatoumeat3.md)
-  * ymatoumeat4
+  * [码头大哥话跨境04－买手自我营销与粉丝管理](recruitment/ymatoumeat/ymatoumeat4.md)
+  * ymatoumeat5
 
 ## Platform Rules
 
