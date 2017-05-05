@@ -27,6 +27,8 @@
   * [码头大哥话跨境04－买手自我营销与粉丝管理](recruitment/ymatoumeat/ymatoumeat4.md)
   * [码头大哥话跨境05－技术军团邀您谈需求聊功能](recruitment/ymatoumeat/ymatoumeat5.md)
   * [码头大哥话跨境06－解读信用分数DSR与买手等级](recruitment/ymatoumeat/ymatoumeat6.md)
+  * ymatoumeat7
+  * ymatoumeat8
 
 ## Platform Rules
 
