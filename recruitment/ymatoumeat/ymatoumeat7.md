@@ -2,7 +2,7 @@
 
 ---
 
-![](/recruitment/images/ymatoumeat1-header.jpg)
+![](/recruitment/images/ymatoumeat7-header.jpg)
 
 ### 第一部分-热门问题解答
 
@@ -176,7 +176,7 @@ _A_
 
 码头大哥：按照实际交易金额申报。这个已经和贝海关务交代过了。
 
-### \#最佳问题\#
+### \#最佳问题\
 
 节目的最后，码头大哥评出了他心目中的本场最佳问题：
 
