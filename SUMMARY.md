@@ -28,7 +28,7 @@
   * [码头大哥话跨境05－技术军团邀您谈需求聊功能](recruitment/ymatoumeat/ymatoumeat5.md)
   * [码头大哥话跨境06－解读信用分数DSR与买手等级](recruitment/ymatoumeat/ymatoumeat6.md)
   * [码头大哥话跨境07－519大促，你准备好了吗？](recruitment/ymatoumeat/ymatoumeat7.md)
-  * [ymatoumeat8](recruitment/ymatoumeat/ymatoumeat8.md)
+  * [码头大哥话跨境08－519大促复盘会](recruitment/ymatoumeat/ymatoumeat8.md)
 
 ## Platform Rules
 
