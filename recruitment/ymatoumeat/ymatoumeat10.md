@@ -1,8 +1,8 @@
-[码头大哥话跨境10－买手自营销的时代来了](http://sellerhub.ymatou.com/pc/hot-articles.html#hot10)
+### 码头大哥话跨境10－买手自营销的时代来了
 
 ---
 
-![](http://sellerhub.ymatou.com/hotarticles/img/f2f-pc-10.jpg)
+![](/recruitment/images/ymatoumeat6-header.jpg)
 
 ### 第一部分-热门问题解答
 
@@ -146,7 +146,7 @@ _A_
 
 焕哥：可以的 发布的时候可以选商家本土退货。现在发布的商品 要修改下退货退款的类型。
 
-### \#节目最后的总结\#
+### \#节目最后的总结\
 
 那我还是要总结下今天的话题
 
