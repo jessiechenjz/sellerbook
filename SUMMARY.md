@@ -54,10 +54,10 @@
 
 * [pspintro](pspseller/pspintro.md)
 
-## precision marketing
+## 码头精准营销
 
-* [precision markting intro](precision-marketing/precision-markting-intro.md)
-* [commission setting](precision-marketing/commission-setting.md)
+* [precision markting intr精准营销介绍](precision-marketing/precision-markting-intro.md)
+* [精准营销计费说明](precision-marketing/commission-setting.md)
 
 ## commision setting
 
