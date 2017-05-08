@@ -12,10 +12,6 @@
 
 
 
-
-
-
-
 * 点击评价列表，可看的所有的评价内容
 
 ![](/order-management/images/orderrate3.png)
