@@ -79,4 +79,5 @@
   * [同步商品库存](openapi/updateproductstock.md)
   * [同步商品价格](openapi/updateproductprice.md)
   * [常见问题解答](openapi/faq.md)
+* [apilists](openapi/apilists.md)
 
