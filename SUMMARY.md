@@ -6,7 +6,7 @@
 
 ## 买手招募
 
-* [Success Stories](recruitment/success-stories.md)
+* [买手成功故事](recruitment/success-stories.md)
   * [买手故事1](recruitment/success-stories/successstories1md.md)
   * [买手故事2](recruitment/success-stories/successstories2.md)
   * [买手故事3](recruitment/success-stories/successtories3.md)
