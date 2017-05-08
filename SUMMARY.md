@@ -30,12 +30,12 @@
 ## Product Management
 
 * addproduct
-* addliveshow
+* [addliveshow](product-management/addliveshow.md)
 
 ## Order Management
 
-* ordershipment
-* [orderrating](order-management/orderrating.md)
+* [订单发货](order-management/ordershipment.md)
+* [订单评价](order-management/orderrating.md)
 
 ## 资金管理
 
