@@ -54,7 +54,7 @@
 
 ## pspseller
 
-* [pspintro](pspseller/pspintro.md)
+* [优选商品介绍](pspseller/pspintro.md)
 
 ## 码头精准营销
 
