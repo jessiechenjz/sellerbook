@@ -26,8 +26,9 @@
 
 ## 平台规则
 
-* [平台规则](platform-rules/service-standards.md)
-* [punishment](platform-rules/punishment.md)
+* [平台规范](platform-rules/service-standards.md)
+  * [return policy](platform-rules/service-standards/return-policy.md)
+* [买手处罚规则](platform-rules/punishment.md)
 
 ## 买手培训课程
 
