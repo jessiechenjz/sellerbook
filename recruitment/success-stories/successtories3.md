@@ -6,15 +6,18 @@
 
 其实读书于我，只是一种经历，一个家庭为我定下的人生轨迹。我的内心真正渴望的是实践社会带来挑战，我渴望更大舞台，来重新定义自己的人生。抱着这样的想法，我任性告别过去，投身跨境买手行列。
 
-![](http://sellerhub.ymatou.com/pc/img/sellerhub/buyer3_1.png)
+![]![](/recruitment/images/story_buyer3_1.png)
+
 
 业务初期，我经营的产品主要是保健品。初衷很简单，我的专业一直是研究辅酶Q10，保健品更容易和客户解释。后来受”牛嫂“影响开始转向中高档包包，开始精准定位SKU，服务也更加人性化，就这样短短半年时间，我的买手小店积累了超过3万名粉丝。
 
-![](http://sellerhub.ymatou.com/pc/img/sellerhub/buyer3_2.png)
+![]![](/recruitment/images/story_buyer3_2.png)
+
 
 买手的生活充满挑战和不确定，市场的波动，货源的不稳定，业务量的起起落落。但每一次和客户的沟通，每一个打包发出的货，每一个客户的好评，每赚到的一份钱，都让我感到务必踏实，离梦想更近一步。这些，是实验室里每天对着瓶瓶罐罐无法感受到的。
 
-![](http://sellerhub.ymatou.com/pc/img/sellerhub/buyer3_3.png)
+![]![](/recruitment/images/story_buyer3_3.png)
+
 
 现在，我和 “牛嫂”的创业第一战顺利告捷，除了挖到创业第一桶金，积累了数万个忠实粉丝以外，我的内心有着前所唯有的坚定，因为我知道，我离梦想更近了。
 
