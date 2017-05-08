@@ -56,7 +56,7 @@
 
 ## 码头精准营销
 
-* [precision markting intr精准营销介绍](precision-marketing/precision-markting-intro.md)
+* [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
 * [精准营销计费说明](precision-marketing/commission-setting.md)
 
 ## commision setting
