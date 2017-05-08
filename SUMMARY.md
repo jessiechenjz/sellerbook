@@ -51,6 +51,7 @@
 * [工作台介绍](sellerapp/dashboard.md)
 * [创建直播](sellerapp/liveshow.md)
 * [商品操作](sellerapp/editproduct.md)
+* [messages](sellerapp/messages.md)
 
 ## pspseller
 
