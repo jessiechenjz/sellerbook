@@ -12,7 +12,7 @@
 
 ![](/order-management/images/orderrate2.png)
 
-* 点击评价列表，可看的所有的评价内容
+* 点击评价列表，可看的所有的评价内容，买手对评价的回复内容
 
 ![](/order-management/images/orderrate3.png)
 
