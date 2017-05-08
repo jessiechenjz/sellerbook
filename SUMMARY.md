@@ -2,19 +2,7 @@
 
 ## Introduction
 
-* [Introduction](README.md)
-* [使用买手APP](sellerapp/README.md)
-  * [商品操作](sellerapp/editproduct.md)
-* [平台规则](rules/README.md)
-* [OPEN API](openapi/README.md)
-  * [服务介绍](openapi/README.md)
-  * [获取单个订单](openapi/getorderdetail.md)
-  * [获取订单列表](openapi/getorderlist.md)
-  * [订单发货](openapi/sendlogistics.md)
-  * [获取平台物流公司信息](openapi/getlogisticscompanies.md)
-  * [同步商品库存](openapi/updateproductstock.md)
-  * [同步商品价格](openapi/updateproductprice.md)
-  * [常见问题解答](openapi/faq.md)
+* [平台介绍](README.md)
 
 ## 买手招募
 
@@ -36,7 +24,6 @@
   * [码头大哥话跨境11－解析发布商品趋势，获取流量红利](recruitment/ymatoumeat/ymatoumeat11.md)
 
 ## Platform Rules
-
 * [Service Standards](platform-rules/service-standards.md)
 
 ## 资金管理
@@ -49,7 +36,8 @@
 
 * [工作台介绍](sellerapp/dashboard.md)
 * [创建直播](sellerapp/liveshow.md)
-
+* [商品操作](sellerapp/editproduct.md)
+ 
 ## pspseller
 
 * [pspintro](pspseller/pspintro.md)
@@ -59,5 +47,15 @@
 * [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
 * [精准营销计费说明](precision-marketing/commission-setting.md)
 
-## commision setting
+## 开放平台
+* [OPEN API](openapi/README.md)
+  * [服务介绍](openapi/README.md)
+  * [获取单个订单](openapi/getorderdetail.md)
+  * [获取订单列表](openapi/getorderlist.md)
+  * [订单发货](openapi/sendlogistics.md)
+  * [获取平台物流公司信息](openapi/getlogisticscompanies.md)
+  * [同步商品库存](openapi/updateproductstock.md)
+  * [同步商品价格](openapi/updateproductprice.md)
+  * [常见问题解答](openapi/faq.md)
+
 
