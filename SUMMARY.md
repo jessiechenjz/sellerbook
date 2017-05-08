@@ -27,9 +27,9 @@
 
 * [平台规则](platform-rules/service-standards.md)
 
-## seller training course
+## 买手培训课程
 
-* [courselist](seller-training-course/courselist.md)
+* [课程列表](seller-training-course/courselist.md)
 
 ## 商品管理
 
