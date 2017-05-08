@@ -32,7 +32,7 @@
 * [addproduct](product-management/addproduct.md)
 * [addliveshow](product-management/addliveshow.md)
 
-## Order Management
+## 订单管理
 
 * [订单发货](order-management/ordershipment.md)
 * [订单评价](order-management/orderrating.md)
