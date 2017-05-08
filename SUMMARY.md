@@ -23,11 +23,11 @@
   * [码头大哥话跨境10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
   * [码头大哥话跨境11－解析发布商品趋势，获取流量红利](recruitment/ymatoumeat/ymatoumeat11.md)
 
-## Platform Rules
+## 平台规则
 
 * [Service Standards](platform-rules/service-standards.md)
 
-## Product Management
+## 商品管理
 
 * [addproduct](product-management/addproduct.md)
 * [addliveshow](product-management/addliveshow.md)
