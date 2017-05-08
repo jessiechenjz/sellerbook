@@ -55,6 +55,10 @@
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 
+## logistics
+
+* xlobo logistics
+
 ## 买手APP
 
 * [工作台介绍](sellerapp/dashboard.md)
