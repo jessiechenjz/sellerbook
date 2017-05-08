@@ -54,3 +54,9 @@
 
 * [pspintro](pspseller/pspintro.md)
 
+## precision marketing
+
+* [commission setting](precision-marketing/commission-setting.md)
+
+## commision setting
+
