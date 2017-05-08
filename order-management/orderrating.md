@@ -10,11 +10,9 @@
 
 * 评价@商品详情页
 
-* ![](/order-management/images/orderrate2.png)
+* 
+* 
 
-* ![](/order-management/images/orderrate2.png)
-
-* ![](/order-management/images/orderrate2.png)
 
 * 点击评价列表，可看的所有的评价内容
 
