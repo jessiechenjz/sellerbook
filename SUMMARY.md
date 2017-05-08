@@ -25,7 +25,7 @@
 
 ## 平台规则
 
-* [Service Standards](platform-rules/service-standards.md)
+* [平台规则](platform-rules/service-standards.md)
 
 ## 商品管理
 
