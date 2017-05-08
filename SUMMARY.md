@@ -37,6 +37,10 @@
 * [订单发货](order-management/ordershipment.md)
 * [订单评价](order-management/orderrating.md)
 
+## liveshow management
+
+* addliveshow
+
 ## 资金管理
 
 * [提现](fund-management/withdrawmoneymd.md)
