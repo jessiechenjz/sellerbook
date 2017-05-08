@@ -71,6 +71,7 @@
 ## 开放平台
 
 * [OPEN API](openapi/README.md)
+  * intro
 * [apilists](openapi/apilists.md)
   * [获取单个订单](openapi/getorderdetail.md)
   * [获取订单列表](openapi/getorderlist.md)
