@@ -16,33 +16,33 @@
 
 app添加商品可以选择商品库商品，app端可以发布小视频功能。
 
-youtube播放
+[youtube播放](https://www.youtube.com/watch?v=gJxEM26HXjQ)
 
-优酷播放
+[优酷播放](http://v.youku.com/v_show/id_XMTY3MDk4MTc0OA==.html)
 
 * ##### 买手沟通工具优化与满减促销功能
 
 买手沟通工具优化和子账号功能介绍，PC端营销工具-满减促销使用说明。
 
-youtube播放
+[youtube播放](https://www.youtube.com/watch?v=S000kWDPFhI)
 
-优酷播放
+[优酷播放](http://v.youku.com/v_show/id_XMTY3MDk3NzAzNg==.html)
 
 * ##### 洋码头买手版3.0更新培训
 
 PC端可发布直播，商品库功能上线，app直播功能优化。
 
-youtube播放
+[youtube播放](https://www.youtube.com/watch?v=OY4E0jHz0f4)
 
-优酷播放
+[优酷播放](http://v.youku.com/v_show/id_XMTY3MTA2ODYyOA==.html)
 
 * ##### 购物车与数据罗盘解读
 
 购物车功能介绍，数据罗盘使用说明。
 
-youtube播放
+[youtube播放](https://www.youtube.com/watch?v=pLgtlm55gMs)
 
-优酷播放
+[优酷播放](http://i.youku.com/u/creative_center)
 
 ---
 
