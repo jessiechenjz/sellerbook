@@ -29,7 +29,7 @@
 
 ## Product Management
 
-* addproduct
+* [addproduct](product-management/addproduct.md)
 * [addliveshow](product-management/addliveshow.md)
 
 ## Order Management
