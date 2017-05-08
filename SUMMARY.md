@@ -57,7 +57,11 @@
 
 ## logistics
 
-* xlobo logistics
+* [xlobo logistics](logistics/xlobo-logistics.md)
+  * [direct mail](logistics/xlobo-logistics/direct-logistic.md)
+    * [create shipment bill](logistics/xlobo-logistics/direct-logistic/create-shipment-bill.md)
+  * [oversee warehouse](logistics/xlobo-logistics/oversee-warehouse.md)
+* [third party logistics](logistics/third-party-logistics.md)
 
 ## 买手APP
 
