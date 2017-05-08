@@ -2,7 +2,19 @@
 
 ---
 
-* #### 黑五系列培训之六-粉丝营销技巧
+#### 产品培训
+
+* ##### 买手后台新版本解读
+
+包括PC版新首页和APP 3.3版本的功能解读。
+
+[youtube播放](https://youtu.be/hYRRrYk88c4)
+
+[优酷播放](http://v.youku.com/v_show/id_XMTczMjY5OTE4OA==.html)
+
+#### 运营技巧
+
+* ##### 黑五系列培训之六-粉丝营销技巧
 
 所谓得粉丝者得天下，玩转内容营销，提升吸粉能力，增加粉丝得粘性，提高复购率，激活沉睡粉丝！
 
@@ -10,7 +22,7 @@
 
 [优酷播放](http://v.youku.com/v_show/id_XMTc2NTIwMDQ5Ng==.html "优酷播放")
 
-* #### 黑五系列培训之五-服务技能提升
+* ##### 黑五系列培训之五-服务技能提升
 
 服务很重要，而且服务对DSR影响很大， 做好服务，也可以为店铺树立良好的口碑！
 
@@ -33,14 +45,6 @@
 [youtube播放](https://youtu.be/JAbs9_PMyas)
 
 [优酷播放](http://v.youku.com/v_show/id_XMTc0MDA3Njk0MA==.html)
-
-* #### 买手后台新版本解读
-
-包括PC版新首页和APP 3.3版本的功能解读。
-
-youtube播放
-
-优酷播放
 
 * #### 流量提升技巧
 
