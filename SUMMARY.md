@@ -24,7 +24,18 @@
   * [码头大哥话跨境11－解析发布商品趋势，获取流量红利](recruitment/ymatoumeat/ymatoumeat11.md)
 
 ## Platform Rules
+
 * [Service Standards](platform-rules/service-standards.md)
+
+## Product Management
+
+* addproduct
+* addliveshow
+
+## Order Management
+
+* ordershipment
+* [orderrating](order-management/orderrating.md)
 
 ## 资金管理
 
@@ -37,7 +48,7 @@
 * [工作台介绍](sellerapp/dashboard.md)
 * [创建直播](sellerapp/liveshow.md)
 * [商品操作](sellerapp/editproduct.md)
- 
+
 ## pspseller
 
 * [pspintro](pspseller/pspintro.md)
@@ -48,6 +59,7 @@
 * [精准营销计费说明](precision-marketing/commission-setting.md)
 
 ## 开放平台
+
 * [OPEN API](openapi/README.md)
   * [服务介绍](openapi/README.md)
   * [获取单个订单](openapi/getorderdetail.md)
@@ -57,5 +69,4 @@
   * [同步商品库存](openapi/updateproductstock.md)
   * [同步商品价格](openapi/updateproductprice.md)
   * [常见问题解答](openapi/faq.md)
-
 
