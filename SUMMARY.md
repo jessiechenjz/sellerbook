@@ -27,6 +27,10 @@
 
 * [平台规则](platform-rules/service-standards.md)
 
+## seller training course
+
+* [courselist](seller-training-course/courselist.md)
+
 ## 商品管理
 
 * [商品发布](product-management/addproduct.md)
