@@ -2,7 +2,7 @@
 
 ---
 
-![](/recruitment/images/ymatoumeat6-header.jpg)
+![](/recruitment/images/ymatoumeat10-header.jpg)
 
 ### 第一部分-热门问题解答
 
