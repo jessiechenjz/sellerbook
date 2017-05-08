@@ -38,7 +38,7 @@
 
 ## liveshow management
 
-* addliveshow
+* [addliveshow](liveshow-management/addliveshow.md)
 
 ## 资金管理
 
