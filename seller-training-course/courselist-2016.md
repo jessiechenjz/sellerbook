@@ -12,6 +12,40 @@
 
 [优酷播放](http://v.youku.com/v_show/id_XMTczMjY5OTE4OA==.html)
 
+* ##### 洋码头买手版3.1 更新培训
+
+app添加商品可以选择商品库商品，app端可以发布小视频功能。
+
+youtube播放
+
+优酷播放
+
+* ##### 买手沟通工具优化与满减促销功能
+
+买手沟通工具优化和子账号功能介绍，PC端营销工具-满减促销使用说明。
+
+youtube播放
+
+优酷播放
+
+* ##### 洋码头买手版3.0更新培训
+
+PC端可发布直播，商品库功能上线，app直播功能优化。
+
+youtube播放
+
+优酷播放
+
+* ##### 购物车与数据罗盘解读
+
+购物车功能介绍，数据罗盘使用说明。
+
+youtube播放
+
+优酷播放
+
+---
+
 #### 运营技巧
 
 * ##### 黑五系列培训之六-粉丝营销技巧
@@ -58,55 +92,27 @@
 
 黑五集训营系列课程之一。阐述数据分析的重要性，通过真实案例分析，教你提高店铺收益！
 
-youtube播放
+[youtube播放](https://youtu.be/Zs3AvPERLio)
 
-优酷播放
+[优酷播放](http://v.youku.com/v_show/id_XMTczMTUxMjYwMA==.html)
 
-* #### 八月大促，这样玩才对!
+* ##### 八月大促，这样玩才对!
 
 直播短视频，满减促销，图片文描，你准备好了吗？
 
-youtube播放
+[youtube播放](https://www.youtube.com/watch?v=GA72kRX_zZE&feature=youtu.be)
 
-优酷播放
+[优酷播放](http://v.youku.com/v_show/id_XMTY4ODYwOTQ2MA==.html)
 
 * #### 8月大促活动准备培训
 
 8月大促来袭，准备要到位，流量提升技巧，干货等你来拿！
 
-youtube播放
+[youtube播放](https://youtu.be/mhe1KGTOE_c)
 
-优酷播放
+[优酷播放](http://v.youku.com/v_show/id_XMTY4MDY1OTczNg==.html)
 
-* #### 洋码头买手版3.1 更新培训
+* #### 
 
-app添加商品可以选择商品库商品，app端可以发布小视频功能。
 
-youtube播放
-
-优酷播放
-
-* #### 买手沟通工具优化与满减促销功能
-
-买手沟通工具优化和子账号功能介绍，PC端营销工具-满减促销使用说明。
-
-youtube播放
-
-优酷播放
-
-* #### 洋码头买手版3.0更新培训
-
-PC端可发布直播，商品库功能上线，app直播功能优化。
-
-youtube播放
-
-优酷播放
-
-* #### 购物车与数据罗盘解读
-
-购物车功能介绍，数据罗盘使用说明。
-
-youtube播放
-
-优酷播放
 
