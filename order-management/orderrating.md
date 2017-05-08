@@ -4,11 +4,17 @@
 
 #### 什么是订单评价
 
-订单评价是用户确认收货后，对购买的商品和买手提供的服务进行主动打分的行为。洋码头的订单评价采用5分制打分，
+订单评价是用户确认收货后，对购买的商品和买手提供的服务进行主动打分的行为。洋码头的订单评价采用5分制打分，分别对订单的订单商品、物流速度、买手的服务态度进行打分。
 
 #### 评价内容前台显示
 
-* 评价出现在商品详情页![](/order-management/images/orderrate2.png)
+* 评价@商品详情页
+
+* ![](/order-management/images/orderrate2.png)
+
+* ![](/order-management/images/orderrate2.png)
+
+* ![](/order-management/images/orderrate2.png)
 
 * 点击评价列表，可看的所有的评价内容
 
@@ -19,8 +25,6 @@
 ![](/order-management/images/orderrate4.png)
 
 #### 评价常见问题解答
-
-
 
 
 
