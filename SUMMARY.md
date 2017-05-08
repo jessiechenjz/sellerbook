@@ -36,7 +36,7 @@
 * [订单发货](order-management/ordershipment.md)
 * [订单评价](order-management/orderrating.md)
 
-## liveshow management
+## 直播管理
 
 * [addliveshow](liveshow-management/addliveshow.md)
 
