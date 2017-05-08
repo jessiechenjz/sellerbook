@@ -12,7 +12,7 @@
 
 | 名称 | 类型 | 必须 | 描述 |
 | :--- | :--- | :---: | :--- |
-| method | String | 必须 | API名称 |
+| method | String | 是 | API名称 |
 | app\_key | String | 是 | 洋码头分配给买手的AppKey。 |
 | sign\_method | String | 是 | 签名的摘要算法，可选值为：md5。 |
 | sign | String | 是 | API输入参数签名结果，签名算法介绍请[点击这里](//openapi/README.md#signmethod)。 |
