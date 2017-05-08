@@ -30,7 +30,7 @@
 ## 商品管理
 
 * [addproduct](product-management/addproduct.md)
-* [addliveshow](product-management/addliveshow.md)
+* [直播管理](product-management/addliveshow.md)
 
 ## 订单管理
 
