@@ -6,6 +6,8 @@ Jolin:
 
 我是三个孩子的妈妈，十年前随丈夫来到澳大利亚，虽然家境无忧，但却过着前所未有的孤独生活，没有朋友，语言不通，只能宅在家里当主妇，生活就只剩下了三个儿子和无止境的shopping。两年前的某一天，我在和儿子又一次的Shopping以后，儿子突然童言无忌的问我：“为什么别人的妈妈都要工作，而你怎么不去工作呢”。那一刻，我真的被彻底触动了。
 
+![](/recruitment/images/story_buyer1_1.png)
+
 ![](http://sellerhub.ymatou.com/pc/img/sellerhub/buyer1_1.png)
 
 ![](http://sellerhub.ymatou.com/pc/img/sellerhub/buyer1_2.png)
