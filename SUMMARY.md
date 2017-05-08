@@ -30,7 +30,6 @@
 ## 商品管理
 
 * [商品发布](product-management/addproduct.md)
-* [直播管理](product-management/addliveshow.md)
 
 ## 订单管理
 
