@@ -2,7 +2,7 @@
 
 ---
 
-### ![](http://sellerhub.ymatou.com/hotarticles/img/f2f-pc-01.jpg)
+![](/recruitment/images/ymatoumeat1-header.jpg)
 
 ### 第一部分-热门问题解答
 
