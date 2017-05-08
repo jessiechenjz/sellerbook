@@ -72,12 +72,12 @@
 
 * [OPEN API](openapi/README.md)
   * [服务介绍](openapi/README.md)
+* [apilists](openapi/apilists.md)
   * [获取单个订单](openapi/getorderdetail.md)
   * [获取订单列表](openapi/getorderlist.md)
   * [订单发货](openapi/sendlogistics.md)
   * [获取平台物流公司信息](openapi/getlogisticscompanies.md)
   * [同步商品库存](openapi/updateproductstock.md)
   * [同步商品价格](openapi/updateproductprice.md)
-  * [常见问题解答](openapi/faq.md)
-* [apilists](openapi/apilists.md)
+ * [常见问题解答](openapi/faq.md)
 
