@@ -10,8 +10,6 @@
 
 * 评价出现在商品详情页![](/order-management/images/orderrate2.png)
 
-
-
 * 点击评价列表，可看的所有的评价内容
 
 ![](/order-management/images/orderrate3.png)
@@ -20,7 +18,9 @@
 
 ![](/order-management/images/orderrate4.png)
 
-* 评价常见问题解答
+#### 评价常见问题解答
+
+
 
 
 
