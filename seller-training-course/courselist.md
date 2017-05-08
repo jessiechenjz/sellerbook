@@ -22,17 +22,17 @@
 
 服务很重要，而且服务对DSR影响很大， 做好服务，也可以为店铺树立良好的口碑！
 
-[youtube播放](#)
+[youtube播放](https://youtu.be/SFtsddI_gnE)
 
-[优酷播放](#)
+[优酷播放](http://v.youku.com/v_show/id_XMTc1ODkwNzE0OA==.html)
 
 * #### 黑五系列培训之四-图文详情转化提升技巧
 
 获得流量以后，最后的转化主要还取决于商品详情页。 商品详情页的质量会影响买家的购买决策！
 
-[youtube播放](#)
+[youtube播放](https://youtu.be/X06NAGyAbqs)
 
-[优酷播放](#)
+[优酷播放](http://v.youku.com/v_show/id_XMTc1NjEzNjYwOA==.html)
 
 
 
