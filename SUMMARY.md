@@ -56,6 +56,7 @@
 
 ## precision marketing
 
+* [precision markting intro](precision-marketing/precision-markting-intro.md)
 * [commission setting](precision-marketing/commission-setting.md)
 
 ## commision setting
