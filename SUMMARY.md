@@ -3,7 +3,7 @@
 ## Introduction
 
 * [平台介绍](README.md)
-* [ymtnews](ymtnews.md)
+* [最新公告](ymtnews.md)
 
 ## 买手招募
 
