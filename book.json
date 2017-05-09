@@ -1,13 +1,18 @@
 {
-  "title": "洋码头买手运营手册",
-  "description": "本网站提供买手运营的培训文档，主要是码头产品的功能介绍、变动通知和业务运营策略",
-  "language": "zh",
-  "plugins": [
-    "ga"
-  ],
-  "pluginsConfig": {
-    "ga":{
-      "token": "UA-XXXX-Y" 
-    }
-  }
+	"title": "洋码头买手运营手册",
+	"description": "本网站提供买手运营的培训文档，主要是码头产品的功能介绍、变动通知和业务运营策略",
+	"language": "zh",
+	"plugins": [
+		"ga",
+		"favicon"
+	],
+	"pluginsConfig": {
+		"ga": {
+			"token": "UA-XXXX-Y"
+		}
+		"favicon": {
+			"shortcut": "assets/images/favicon.ico",
+			"bookmark": "assets/images/favicon.ico"
+		}
+	}
 }
