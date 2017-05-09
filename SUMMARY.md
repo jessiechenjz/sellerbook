@@ -40,11 +40,12 @@
 
 * [普通商品发布](product-management/addproduct.md)
 * [发布贝海保税商品](product-management/publish-fbx-product.md)
+* [pre-sale product](product-management/pre-sale-product.md)
 * [商品发布说明](product-management/product-explained.md)
-  * [品牌品类填写规范](product-management/product-explained/brand-and-category.md)
+  * [品牌品类](product-management/product-explained/brand-and-category.md)
   * [商品名称](product-management/product-explained/product-title.md)
   * [商品主图](product-management/product-explained/shang-pin-zhu-tu.md)
-  * [product description](product-management/product-explained/product-description.md)
+  * [商品描述](product-management/product-explained/product-description.md)
 
 ## 订单管理
 
