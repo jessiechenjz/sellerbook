@@ -58,6 +58,7 @@
 ## 直播管理
 
 * [直播发布](liveshow-management/addliveshow.md)
+* [fine live show](liveshow-management/fine-live-show.md)
 
 ## 资金管理
 
