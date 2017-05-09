@@ -92,7 +92,7 @@
 
 ## promotion tools
 
-* coupons
+* 买手优惠券
 
 ## OPEN API
 
