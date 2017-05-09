@@ -90,6 +90,10 @@
   * [退货退款](sellerapp/order-refund.md)
 * [消息管理](sellerapp/messages.md)
 
+## seller promotion
+
+* seller coupons
+
 ## OPEN API
 
 * [服务说明](openapi/README.md)
