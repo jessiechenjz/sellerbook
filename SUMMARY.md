@@ -37,7 +37,7 @@
   * [洋码头隐私权规则](platform-rules/service-standards/privacy-policy.md)
 * [买手处罚规则](platform-rules/punishment.md)
 
-## seller platform
+## 买手业务后台
 
 * [main page](seller-platform/main-page.md)
 * 数据罗盘
