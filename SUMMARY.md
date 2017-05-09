@@ -72,15 +72,6 @@
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 
-## 买手APP
-
-* [工作台介绍](sellerapp/dashboard.md)
-* [创建直播](sellerapp/liveshow.md)
-* [商品操作](sellerapp/editproduct.md)
-* [订单管理](sellerapp/order-management.md)
-  * [退货退款](sellerapp/order-refund.md)
-* [消息管理](sellerapp/messages.md)
-
 ## 优选商品
 
 * [优选商品介绍](pspseller/pspintro.md)
@@ -93,6 +84,16 @@
 ## promotion tools
 
 * 买手优惠券
+
+## 买手APP
+
+* [工作台介绍](sellerapp/dashboard.md)
+* [创建直播](sellerapp/liveshow.md)
+* [商品操作](sellerapp/editproduct.md)
+* [订单管理](sellerapp/order-management.md)
+  * [退货退款](sellerapp/order-refund.md)
+* [消息管理](sellerapp/messages.md)
+
 
 ## OPEN API
 
