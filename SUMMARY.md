@@ -58,7 +58,7 @@
 ## 直播管理
 
 * [直播发布](liveshow-management/addliveshow.md)
-* [fine live show](liveshow-management/fine-live-show.md)
+* [精品直播](liveshow-management/fine-live-show.md)
 
 ## 资金管理
 
@@ -71,9 +71,9 @@
 * [工作台介绍](sellerapp/dashboard.md)
 * [创建直播](sellerapp/liveshow.md)
 * [商品操作](sellerapp/editproduct.md)
-* [消息管理](sellerapp/messages.md)
-* order management
+* [订单管理](sellerapp/order-management.md)
   * [退货退款](sellerapp/order-refund.md)
+* [消息管理](sellerapp/messages.md)
 
 ## 优选商品
 
