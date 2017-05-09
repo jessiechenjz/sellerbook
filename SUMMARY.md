@@ -63,15 +63,6 @@
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 
-## logistics
-
-* [xlobo logistics](logistics/xlobo-logistics.md)
-  * [direct mail](logistics/xlobo-logistics/direct-logistic.md)
-    * [create shipment bill](logistics/xlobo-logistics/direct-logistic/create-shipment-bill.md)
-  * [oversee warehouse](logistics/xlobo-logistics/oversee-warehouse.md)
-    * [merchandise library](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
-* [third party logistics](logistics/third-party-logistics.md)
-
 ## 买手APP
 
 * [工作台介绍](sellerapp/dashboard.md)
@@ -101,3 +92,11 @@
   * [同步商品价格](openapi/updateproductprice.md)
 * [常见问题](openapi/faq.md)
 
+## logistics
+
+* [xlobo logistics](logistics/xlobo-logistics.md)
+  * [direct mail](logistics/xlobo-logistics/direct-logistic.md)
+    * [create shipment bill](logistics/xlobo-logistics/direct-logistic/create-shipment-bill.md)
+  * [oversee warehouse](logistics/xlobo-logistics/oversee-warehouse.md)
+    * [merchandise library](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
+* [third party logistics](logistics/third-party-logistics.md)
