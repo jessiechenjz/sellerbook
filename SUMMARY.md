@@ -38,9 +38,9 @@
 
 ## 商品管理
 
-* [普通商品发布](product-management/addproduct.md)
-* [发布贝海保税商品](product-management/publish-fbx-product.md)
-* [pre-sale product](product-management/pre-sale-product.md)
+* [普通商品](product-management/addproduct.md)
+* [贝海保税商品](product-management/publish-fbx-product.md)
+* [预订商品](product-management/pre-sale-product.md)
 * [商品发布说明](product-management/product-explained.md)
   * [品牌品类](product-management/product-explained/brand-and-category.md)
   * [商品名称](product-management/product-explained/product-title.md)
