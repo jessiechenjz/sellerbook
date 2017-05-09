@@ -70,7 +70,7 @@
 * [商品操作](sellerapp/editproduct.md)
 * [消息管理](sellerapp/messages.md)
 
-## pspseller
+## 优选商品
 
 * [优选商品介绍](pspseller/pspintro.md)
 
@@ -92,11 +92,14 @@
   * [同步商品价格](openapi/updateproductprice.md)
 * [常见问题](openapi/faq.md)
 
-## logistics
+## 贝海物流
 
-* [xlobo logistics](logistics/xlobo-logistics.md)
-  * [direct mail](logistics/xlobo-logistics/direct-logistic.md)
-    * [create shipment bill](logistics/xlobo-logistics/direct-logistic/create-shipment-bill.md)
+* [贝海物流操作](logistics/xlobo-logistics.md)
+  * [贝海直邮](logistics/xlobo-logistics/direct-logistic.md)
+    * [创建寄送运单](logistics/xlobo-logistics/direct-logistic/create-shipment-bill.md)
+    * [第三方订单导入](logistics/xlobo-logistics/direct-logistic/import-other-orders.md)
+    * [物流状态解释](logistics/xlobo-logistics/direct-logistic/tracking-status.md)
   * [oversee warehouse](logistics/xlobo-logistics/oversee-warehouse.md)
     * [merchandise library](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
 * [third party logistics](logistics/third-party-logistics.md)
+
