@@ -103,7 +103,8 @@
     * [保税发货](logistics/xlobo-logistics/direct-logistic/bonded-orders.md)
   * [oversee warehouse](logistics/xlobo-logistics/oversee-warehouse.md)
     * [merchandise library](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
-  * [clearance process](logistics/xlobo-logistics/clearance-process.md)
-  * [declare rules](logistics/xlobo-logistics/declare-rules.md)
+    * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
+  * [清关流程](logistics/xlobo-logistics/clearance-process.md)
+  * [申报规范](logistics/xlobo-logistics/declare-rules.md)
 * [third party logistics](logistics/third-party-logistics.md)
 
