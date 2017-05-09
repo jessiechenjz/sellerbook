@@ -40,8 +40,7 @@
 ## seller platform
 
 * [main page](seller-platform/main-page.md)
-* data compass
-
+* 数据罗盘
 
 ## 商品管理
 
@@ -54,7 +53,6 @@
   * [商品主图](product-management/product-explained/shang-pin-zhu-tu.md)
   * [商品描述](product-management/product-explained/product-description.md)
 * [商品发布FAQ](product-management/product-faqs.md)
-
 
 ## 订单管理
 
