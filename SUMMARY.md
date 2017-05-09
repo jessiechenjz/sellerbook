@@ -3,7 +3,7 @@
 ## 洋码头买手平台
 
 * [平台介绍](README.md)
-* [ymtbenifits](ymtbenifits.md)
+* [平台优势](ymtbenifits.md)
 * [最新公告](ymtnews.md)
 
 ## 买手招募
