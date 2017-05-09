@@ -49,6 +49,11 @@
   * [商品描述](product-management/product-explained/product-description.md)
 * [商品发布FAQ](product-management/product-faqs.md)
 
+## seller platform
+
+* [main page](seller-platform/main-page.md)
+* data compass
+
 ## 订单管理
 
 * [订单查询](order-management/order-list.md)
