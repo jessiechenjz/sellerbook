@@ -33,8 +33,9 @@
 
 ## 买手培训课程
 
-* [2017年课程列表](seller-training-course/courselist-2017.md)
-* [2016年课程列表](seller-training-course/courselist-2016.md)
+* [2017年课程](seller-training-course/courselist-2017.md)
+* [2016年课程](seller-training-course/courselist-2016.md)
+* [新买手视频](seller-training-course/new-seller-training-videos.md)
 
 ## 商品管理
 
