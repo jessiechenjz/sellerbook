@@ -68,7 +68,7 @@
 
 ## 资金管理
 
-* [提现](fund-management/withdrawmoneymd.md)
+* [资金提现](fund-management/withdrawmoneymd.md)
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 
