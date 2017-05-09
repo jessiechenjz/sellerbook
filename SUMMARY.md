@@ -1,6 +1,6 @@
 # Summary
 
-## Introduction
+## 洋码头买手平台
 
 * [平台介绍](README.md)
 * [最新公告](ymtnews.md)
@@ -8,9 +8,9 @@
 ## 买手招募
 
 * [买手成功故事](recruitment/success-stories.md)
-  * [ 买手 Jolin 故事](recruitment/success-stories/successstories1md.md)
-  * [ 买手 Corria & Tony 故事](recruitment/success-stories/successstories2.md)
-  * [买手 牛哥 故事](recruitment/success-stories/successtories3.md)
+  * [ 买手 “Jolin” 故事](recruitment/success-stories/successstories1md.md)
+  * [ 买手 “Corria & Tony” 故事](recruitment/success-stories/successstories2.md)
+  * [买手 “牛哥” 故事](recruitment/success-stories/successtories3.md)
 * [码头大哥话跨境](recruitment/ymatoumeat.md)
   * [01－跨境税改](recruitment/ymatoumeat/ymatoumeat1.md)
   * [02－税改调整方案沟通](recruitment/ymatoumeat/ymatoumeat2.md)
@@ -24,6 +24,12 @@
   * [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
   * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
 
+## 买手培训
+
+* [2017年课程](seller-training-course/courselist-2017.md)
+* [2016年课程](seller-training-course/courselist-2016.md)
+* [新买手视频](seller-training-course/new-seller-training-videos.md)
+
 ## 平台规则
 
 * [平台规范](platform-rules/service-standards.md)
@@ -31,11 +37,11 @@
   * [洋码头隐私权规则](platform-rules/service-standards/privacy-policy.md)
 * [买手处罚规则](platform-rules/punishment.md)
 
-## 买手培训课程
+## seller platform
 
-* [2017年课程](seller-training-course/courselist-2017.md)
-* [2016年课程](seller-training-course/courselist-2016.md)
-* [新买手视频](seller-training-course/new-seller-training-videos.md)
+* [main page](seller-platform/main-page.md)
+* data compass
+
 
 ## 商品管理
 
@@ -49,10 +55,6 @@
   * [商品描述](product-management/product-explained/product-description.md)
 * [商品发布FAQ](product-management/product-faqs.md)
 
-## seller platform
-
-* [main page](seller-platform/main-page.md)
-* data compass
 
 ## 订单管理
 
