@@ -83,7 +83,7 @@
 
 ## seller promotions
 
-* [promotion 1](seller-promotions/seller-coupons.md)
+* [买手优惠券](seller-promotions/seller-coupons.md)
 * [promotion 2](seller-promotions/promotion-2.md)
 
 ## 买手APP
