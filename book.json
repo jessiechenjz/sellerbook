@@ -3,7 +3,7 @@
 	"description": "本网站提供买手运营的培训文档，主要是码头产品的功能介绍、变动通知和业务运营策略",
 	"language": "zh",
 	"styles": {
-        "website": "assets/styles/website.css"
+        "website": "/assets/styles/website.css"
    }, 
 	"plugins": [
 		"ga",
@@ -17,8 +17,8 @@
 			"token": "UA-XXXX-Y"
 		},
 		"favicon": {
-			"shortcut": "assets/images/favicon.ico",
-			"bookmark": "assets/images/favicon.ico"
+			"shortcut": "/assets/images/favicon.ico",
+			"bookmark": "/assets/images/favicon.ico"
 		},
 		"tbfed-pagefooter": {
 			"copyright": "Copyright &copy ymatou.com 2017",
