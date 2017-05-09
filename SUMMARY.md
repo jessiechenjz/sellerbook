@@ -44,7 +44,7 @@
 
 * [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
-* [user settings](seller-platform/user-settings.md)
+* [系统设置](seller-platform/user-settings.md)
 
 ## 商品管理
 
