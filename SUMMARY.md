@@ -11,7 +11,7 @@
   * [ 买手 “Jolin” 故事](recruitment/success-stories/successstories1md.md)
   * [ 买手 “Corria & Tony” 故事](recruitment/success-stories/successstories2.md)
   * [买手 “牛哥” 故事](recruitment/success-stories/successtories3.md)
-* apply to seller
+* [apply to seller](recruitment/apply-to-seller.md)
 * yearly review
 
 ## 买手培训
