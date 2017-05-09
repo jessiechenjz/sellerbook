@@ -12,7 +12,7 @@
   * [ 买手 “Corria & Tony” 故事](recruitment/success-stories/successstories2.md)
   * [买手 “牛哥” 故事](recruitment/success-stories/successtories3.md)
 * [apply to seller](recruitment/apply-to-seller.md)
-* yearly review
+* [yearly review](recruitment/yearly-review.md)
 
 ## 买手培训
 
