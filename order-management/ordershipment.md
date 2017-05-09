@@ -13,7 +13,7 @@
   物流发货方式  
   1、贝海直邮:前往贝海（www.xlobo.com），登陆贝海账户创建运单，完成运单创建和订单发货。
 
-  > 使用贝海，[查看发货直播](/logistics/xlobo-logistics/direct-logistic.md)
+  > 使用贝海物流服务，[查看发货指南](/logistics/xlobo-logistics/direct-logistic.md)
 
 * Tips:贝海的运单在生成10天内需要填写至码头订单中，否则无法填写。  
   贝海做单：在贝海系统中怎么做单  
