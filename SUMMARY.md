@@ -39,8 +39,9 @@
 
 ## 买手业务后台
 
-* [main page](seller-platform/main-page.md)
+* [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
+* [user settings](seller-platform/user-settings.md)
 
 ## 商品管理
 
