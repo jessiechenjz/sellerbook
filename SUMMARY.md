@@ -40,7 +40,7 @@
 ## 买手业务后台
 
 * [main page](seller-platform/main-page.md)
-* 数据罗盘
+* [数据罗盘](seller-platform/data-compass.md)
 
 ## 商品管理
 
