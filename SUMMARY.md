@@ -104,5 +104,6 @@
   * [oversee warehouse](logistics/xlobo-logistics/oversee-warehouse.md)
     * [merchandise library](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
   * [clearance process](logistics/xlobo-logistics/clearance-process.md)
+  * [declare rules](logistics/xlobo-logistics/declare-rules.md)
 * [third party logistics](logistics/third-party-logistics.md)
 
