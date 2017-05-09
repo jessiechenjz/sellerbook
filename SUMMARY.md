@@ -99,6 +99,7 @@
     * [创建寄送运单](logistics/xlobo-logistics/direct-logistic/create-shipment-bill.md)
     * [第三方订单导入](logistics/xlobo-logistics/direct-logistic/import-other-orders.md)
     * [物流状态解释](logistics/xlobo-logistics/direct-logistic/tracking-status.md)
+    * [send orders](logistics/xlobo-logistics/direct-logistic/send-orders.md)
   * [oversee warehouse](logistics/xlobo-logistics/oversee-warehouse.md)
     * [merchandise library](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
 * [third party logistics](logistics/third-party-logistics.md)
