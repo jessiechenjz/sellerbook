@@ -3,6 +3,7 @@
 ---
 
 
+
 {% raw %}
 
 <video id="my-video" class="video-js" controls preload="auto" width="100%"
