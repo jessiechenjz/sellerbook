@@ -52,6 +52,7 @@
 
 * [订单发货](order-management/ordershipment.md)
 * [订单评价](order-management/orderrating.md)
+* [order refund](order-management/order-refund.md)
 
 ## 直播管理
 
@@ -69,6 +70,8 @@
 * [创建直播](sellerapp/liveshow.md)
 * [商品操作](sellerapp/editproduct.md)
 * [消息管理](sellerapp/messages.md)
+* order management
+  * [退货退款](sellerapp/order-refund.md)
 
 ## 优选商品
 
