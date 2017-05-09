@@ -81,6 +81,10 @@
 * [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
 * [精准营销计费说明](precision-marketing/commission-setting.md)
 
+## seller promotions
+
+* promotion 1
+
 ## 买手APP
 
 * [工作台介绍](sellerapp/dashboard.md)
