@@ -81,10 +81,6 @@
 * [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
 * [精准营销计费说明](precision-marketing/commission-setting.md)
 
-## promotion tools
-
-* 买手优惠券
-
 ## 买手APP
 
 * [工作台介绍](sellerapp/dashboard.md)
@@ -93,7 +89,6 @@
 * [订单管理](sellerapp/order-management.md)
   * [退货退款](sellerapp/order-refund.md)
 * [消息管理](sellerapp/messages.md)
-
 
 ## OPEN API
 
