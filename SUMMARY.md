@@ -8,9 +8,9 @@
 ## 买手招募
 
 * [买手成功故事](recruitment/success-stories.md)
-  * [ 买手"Jolin"故事](recruitment/success-stories/successstories1md.md)
-  * [ 买手"Corria & Tony"故事](recruitment/success-stories/successstories2.md)
-  * [买手"牛哥"故事](recruitment/success-stories/successtories3.md)
+  * [ 买手 Jolin 故事](recruitment/success-stories/successstories1md.md)
+  * [ 买手 Corria & Tony 故事](recruitment/success-stories/successstories2.md)
+  * [买手 牛哥 故事](recruitment/success-stories/successtories3.md)
 * [码头干货](recruitment/ymatoumeat.md)
   * [码头大哥话跨境01－跨境税改](recruitment/ymatoumeat/ymatoumeat1.md)
   * [码头大哥话跨境02－税改调整方案沟通](recruitment/ymatoumeat/ymatoumeat2.md)
