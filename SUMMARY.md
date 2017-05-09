@@ -29,7 +29,7 @@
   * [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
   * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
 * 视频教程
-  * how to
+  * [how to](recruitment/how-to.md)
 * [新买手视频](seller-training-course/new-seller-training-videos.md)
 * [2017年课程](seller-training-course/courselist-2017.md)
 * [2016年课程](seller-training-course/courselist-2016.md)
