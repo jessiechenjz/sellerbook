@@ -81,7 +81,7 @@
 * [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
 * [精准营销计费说明](precision-marketing/commission-setting.md)
 
-## seller promotions
+## 买手促销
 
 * [买手优惠券](seller-promotions/seller-coupons.md)
 * [满减促销](seller-promotions/promotion-2.md)
