@@ -21,17 +21,20 @@
 买手可在发布商品期间开启预订功能
 
 * 单规格商品场景
+  
 ![](/product-management/images/presale-2.png)
 
 * 多规格商品场景
+
 ![](/product-management/images/presale-3.png)
 
 * 上架设置
+
 ![](/product-management/images/presale-4.png)
 
-* 商品列表，有预订商品的标签
-![](/product-management/images/presale-5.png)
+* 商品列表，有预订商品的标签  
 
+![](/product-management/images/presale-5.png)
 
 #### 四、预订商品买家端展示
 
@@ -39,14 +42,12 @@
 
 ![](/product-management/images/presale-6.png)
 
-
-
 * 购物车中预订商品展示
+
 ![](/product-management/images/presale-7.png)
 
-
-
 * 订单页面预订商品展示
+
 ![](/product-management/images/presale-8.png)
 
 
@@ -56,7 +57,6 @@
 * 预订商品不能报名平台活动；（限制到商品层级，一个商品存在部分规格为预订，即不可报名平台活动）
 * 预订商品可以使用商品限购、提示砍单风险、加入直播、设置为新品相关功能，由买手自行设置；
 * 预订商品上架后，168小时后自动下架，预订商品下架后，买手需编辑上架时间才能重新上架；
-
 
 #### 采购发货周期
 
