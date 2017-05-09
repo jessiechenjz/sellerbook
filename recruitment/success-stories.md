@@ -2,10 +2,15 @@
 
 ---
 
-| ![](/recruitment/images/buyer_1.png) |  |
-| :--- | :--- |
-| ![](/recruitment/images/buyer_2.png) |  |
-| ![](/recruitment/images/buyer_3.png) |  |
+![](/recruitment/images/buyer_1.png)
 
 
 
+![](/recruitment/images/buyer_2.png)
+买手 
+- 2014年，我还在美国攻读会计硕士，Tony辞去了IT工程师的工作，我们一起在洋码头上成立了买手品牌Boston Express。问到这背后的原因，我想主要是不甘于美国中产阶级一眼望得到头的生活方式，希望20年后自己还是活在这个时代的最前沿。
+
+![](/recruitment/images/buyer_3.png)
+**买手 牛哥**
+- 002年我来到美国，苦读十年从世界闻名的UCLA拿下了生化学博士学位，并且留校任教。 
+- 现在，我是洋码头的TOP买手，常人眼中的不可思议，于我看来，我却离梦想更近了
