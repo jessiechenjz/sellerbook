@@ -30,7 +30,7 @@
   * [09－打造进阶版跨境网红](recruitment/ymatoumeat/ymatoumeat9.md)
   * [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
   * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
-* 视频教程
+* [视频教程](recruitment/shi-pin-jiao-cheng.md)
   * [新买手视频](seller-training-course/new-seller-training-videos.md)
   * [2017年课程](seller-training-course/courselist-2017.md)
   * [2016年课程](seller-training-course/courselist-2016.md)
@@ -56,19 +56,17 @@
 * [商品发布说明](product-management/product-explained.md)
   * [品牌品类](product-management/product-explained/brand-and-category.md)
   * [商品名称](product-management/product-explained/product-title.md)
-  * [商品主图](product-management/product-explained/product-picture.md)
+  * [商品主图](product-management/product-explained/shang-pin-zhu-tu.md)
   * [商品描述](product-management/product-explained/product-description.md)
 * [商品发布FAQ](product-management/product-faqs.md)
 
 ## 订单管理
 
 * [订单查询](order-management/order-list.md)
-* [订单发货](order-management/ordershipment.md)
 * [订单评价](order-management/orderrating.md)
+* [订单发货](order-management/ordershipment.md)
 * [退货退款](order-management/order-refund.md)
-* [订单修改](order-management/order-modify.md)
-* [取消订单](order-management/cancel.md)
-* [常见问题](order-management/order-faqs.md)
+* [订单发布FAQ](order-management/order-faqs.md)
 
 ## 直播管理
 
@@ -81,11 +79,9 @@
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 
-## 码头优选
+## 优选商品
 
-* [业务介绍](pspseller/pspintro.md)
-* [申请流程](pspseller/apply-for-psp.md)
-* [业务运营指导](pspseller/oper-requirement.md)
+* [优选商品介绍](pspseller/pspintro.md)
 
 ## 码头精准营销
 
@@ -103,8 +99,9 @@
 * [创建直播](sellerapp/liveshow.md)
 * [商品操作](sellerapp/editproduct.md)
 * [订单管理](sellerapp/order-management.md)
-  * [修改订单](sellerapp/modify-order.md)
   * [退货退款](sellerapp/order-refund.md)
+  * [订单修改](order-management/order-modify.md)
+  * [取消订单](order-management/cancel.md)
 * [消息管理](sellerapp/messages.md)
 
 ## OPEN API

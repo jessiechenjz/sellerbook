@@ -22,9 +22,9 @@
   **举例：**MK秋季新款千鸟格条纹时尚无袖黑色连衣裙  
   Coach专柜新款全皮黑色中号时尚气质杀手包
 
-  ![](http://sellerhub.ymatou.com/helpview/img/spmc_1.jpg)
+  ![](/product-management/images/spmc_1.jpg)
 
-  ![](http://sellerhub.ymatou.com/helpview/img/spmc_2.jpg)
+  ![](/product-management/images/spmc_2.jpg)
 
 * 只有没作弊的商品，才可能排名靠前
 
@@ -34,7 +34,7 @@
 
   **举例：**图片是包，商品名称写的是凉鞋，这种就是关键词作弊
 
-  ![](http://sellerhub.ymatou.com/helpview/img/spmc_3.jpg)
+  ![](/product-management/images/spmc_3.jpg)
 
 
 

@@ -2,8 +2,7 @@
 
 ---
 
-* ##### 工作台点击“退货退款”按钮
-
+* 工作台点击“退货退款”按钮
 
 ![](http://sellerhub.ymatou.com/helpview/img/thtk_1.png)
 
@@ -20,8 +19,4 @@
 ![](http://sellerhub.ymatou.com/helpview/img/thtk_3.png)
 
 ![](http://sellerhub.ymatou.com/helpview/img/thtk_4.png)
-
-
-
-
 
