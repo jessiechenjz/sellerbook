@@ -81,6 +81,7 @@
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 * [Settlement value-added services](fund-management/settlement-value-added-services.md)
+* [fund management](fund-management/fund-management.md)
 
 ## 码头优选
 
