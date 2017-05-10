@@ -2,30 +2,28 @@
 
 ---
 
-### 添加商品
-
 * 添加商品流程
 
   进入直播管理界面，可查看所有创建成功的直播。  
   选择需要添加商品的直播，点击下方的“添加商品”，进入添加商品页面。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_1_2.png)
+  ![](/sellerapp/images/fbsp_1_2.png)
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_1_1.png)
+  ![](/sellerapp/images/fbsp_1_1.png)
 
 * 填写商品信息
 
   1、“商品名称”须包含中英文品牌+商品品名；“商品介绍”补充说明“商品名称”，包括材质、尺寸、规格以及卖点等信息；正确填写品牌品类有利于商品搜索以及曝光
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_2.jpg)
+  ![](/sellerapp/images/fbsp_2.jpg)
 
   2、将最吸引眼球的照片放在第一张，剩余的图片也需要精心挑选，图片聚焦商品。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_3.jpg)
+  ![](/sellerapp/images/fbsp_3.jpg)
 
   3、“商品规格”适用于多规格商品填写； 单一规格的商品，直接填写售价、VIP价、新客价以及库存。 在价格方面，建议填写VIP价以及新客价，针对不同客户在价格上进行引流和刺激消费； 库存数量务必按照真实库存填写。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_4.jpg)
+  ![](/sellerapp/images/fbsp_4.jpg)
 
   a）多规格商品填写 最多设置2种规格，可添加相应规格的商品图片。
 
