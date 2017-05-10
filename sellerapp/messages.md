@@ -24,7 +24,7 @@
 
   在历史消息页面，可查看所有账号（主账号与子账号）联系人记录，并可以根据买家ID进行搜索。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xxgl_6.jpg)
+  ![](/sellerapp/images/xxgl_6.jpg)
 
 
 
