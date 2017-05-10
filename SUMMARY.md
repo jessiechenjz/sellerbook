@@ -66,10 +66,9 @@
 * [订单发货](order-management/ordershipment.md)
 * [订单评价](order-management/orderrating.md)
 * [退货退款](order-management/order-refund.md)
-* [常见问题](order-management/order-faqs.md)
 * [订单修改](order-management/order-modify.md)
 * [取消订单](order-management/cancel.md)
-* [接单补款](order-management/order-receving-and-addtions.md)
+* [常见问题](order-management/order-faqs.md)
 
 ## 直播管理
 
