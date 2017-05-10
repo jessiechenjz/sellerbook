@@ -17,7 +17,6 @@
 
 | 接口名称 | 接口描述 |
 | :--- | :--- |
-| xlobo.catalogue.get |  |
 |xlobo.labels.createNoVerification  |任意发件人不使用商品编码做单接口  |
 | xlobo.labels.file.getFileA4 / xlobo.labels.file.getFile10x15 | 获取面单文件 |
 | xlobo.idcard.add | 身份证上传|
