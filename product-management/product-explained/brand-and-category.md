@@ -6,15 +6,15 @@
 
   1.请正确选择分类和品牌，有利于商品搜索以及增加曝光量。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/sptxgf1.png)
+  ![](/product-management/images/sptxgf1.png)
 
   2.如系统中没有您需要添加的品牌，请点击页面右侧的洋管家申请添加。需将品牌英文名、中文名，品牌介绍，LOGO图片告知洋管家。洋管家添加品牌以后，再在系统中选择此标准品牌，发布商品。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/sptxgf2.png)
+  ![](/product-management/images/sptxgf2.png)
 
   3.如商品本身无品牌，请选择“other/其他品牌”。同时请在标题中将关键词清晰标出，便于搜索露出。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/sptxgf3.png)
+  ![](/product-management/images/sptxgf3.png)
 
   4.如为特殊链接（运费或商品补差价链接），请选择其他分类 - 其他品牌。
 
@@ -22,7 +22,6 @@
 
   5.如错放品牌可能导致被巡检下架并处罚
 
-* 
 * 品牌填写常见问题：
 
   1.品牌应该怎么选？
