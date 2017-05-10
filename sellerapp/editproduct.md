@@ -27,27 +27,27 @@
 
   a）多规格商品填写 最多设置2种规格，可添加相应规格的商品图片。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_5.jpg)
+  ![](/sellerapp/images/fbsp_5.jpg)
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_6.jpg)
+  ![](/sellerapp/images/fbsp_6.jpg)
 
   b）单一规格填写 填写该规格的价格以及真实库存即可
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_7.jpg)
+  ![](/sellerapp/images/fbsp_7.jpg)
 
   4、限购：针对活动商品，限制每位客户此商品的购买数量 提示买家砍单风险：库存紧张商品，客户下单时会提示有可能取消订单
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_8.jpg)
+  ![](/sellerapp/images/fbsp_8.jpg)
 
   5、包邮包税，更有利于成交；必须支持本土退货，可选择退货至洋码头仓库，或自己国内仓库；可选择是否支持7天无理由退货
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_9.jpg)
+  ![](/sellerapp/images/fbsp_9.jpg)
 
   6、可选择是否发布为现货商品销售，选择后该商品将作为现货商品长期售卖，与直播销售不冲突；
 
   推荐该商品：推荐后可显示在本场直播最顶端
 
-  ![](http://sellerhub.ymatou.com/helpview/img/fbsp_10.jpg)
+  ![](/sellerapp/images/fbsp_10.jpg)
 
 
 
