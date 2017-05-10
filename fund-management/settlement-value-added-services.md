@@ -28,7 +28,3 @@
 
 
 
-  ![](http://sellerhub.ymatou.com/helpview/img/jszzfwsm_2.png)
-
-
-
