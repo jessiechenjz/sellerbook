@@ -14,7 +14,7 @@
 
 #### 二、预订商品流程
 
-![](/product-management/images/presale-1.png)
+![](/product-management/images/presale-2.png)
 
 #### 三、预订商品发布流程
 
