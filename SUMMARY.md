@@ -69,6 +69,7 @@
 * [常见问题](order-management/order-faqs.md)
 * [订单修改](order-management/order-modify.md)
 * [取消订单](order-management/cancel.md)
+* order receving and addtions
 
 ## 直播管理
 
