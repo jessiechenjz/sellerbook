@@ -66,6 +66,7 @@
 * [订单发货](order-management/ordershipment.md)
 * [订单评价](order-management/orderrating.md)
 * [退货退款](order-management/order-refund.md)
+* [order faqs](order-management/order-faqs.md)
 
 ## 直播管理
 
