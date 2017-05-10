@@ -36,7 +36,7 @@ a、店铺访问：
 
 订单贡献：买家在浏览过程中对商品进行点击操作（如查看详情、加购物车、直接购买等）后，当天购买（完成支付）该商品的转化情况。如一个用户一天内对同一商品进行多次点击操作，不重复计。
 
-![](http://sellerhub.ymatou.com/helpview/img/sellerdata_4.png)
+![](/seller-platform/images/sellerdata_4.png)
 
 b、全站曝光：
 
@@ -46,7 +46,7 @@ b、全站曝光：
 
 搜索曝光：买家通过关键词查看了你的买手主页或商品，获得了曝光。
 
-![](http://sellerhub.ymatou.com/helpview/img/sellerdata_5.png)
+![](/seller-platform/images/sellerdata_5.png)
 
 **4、类目分析：展示近期（以北京时间计，截止昨天）各类目下的商品销售情况。**
 
@@ -62,9 +62,9 @@ b、全站曝光：
 
 过低：库存过多，效率不高
 
-![](http://sellerhub.ymatou.com/helpview/img/sellerdata_6.png)
+![](/seller-platform/images/sellerdata_6.png)
 
-![](http://sellerhub.ymatou.com/helpview/img/sellerdata_7.png)
+![](/seller-platform/images/sellerdata_7.png)
 
 **5、我的月度热销单品：展示最近30天（以北京时间计，截止昨天）销量前十的商品信息。**
 
