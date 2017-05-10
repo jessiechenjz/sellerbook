@@ -101,8 +101,8 @@
 * [创建直播](sellerapp/liveshow.md)
 * [商品操作](sellerapp/editproduct.md)
 * [订单管理](sellerapp/order-management.md)
+  * [修改订单](sellerapp/modify-order.md)
   * [退货退款](sellerapp/order-refund.md)
-* [modify order](sellerapp/modify-order.md)
 * [消息管理](sellerapp/messages.md)
 
 ## OPEN API
