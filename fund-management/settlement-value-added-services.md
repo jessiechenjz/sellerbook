@@ -26,7 +26,7 @@
 
   操作:
 
-  ![](http://sellerhub.ymatou.com/helpview/img/jszzfwsm_1.png)
+
 
   ![](http://sellerhub.ymatou.com/helpview/img/jszzfwsm_2.png)
 
