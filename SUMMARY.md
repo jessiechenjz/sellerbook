@@ -117,7 +117,7 @@
   * [同步商品库存](openapi/updateproductstock.md)
   * [同步商品价格](openapi/updateproductprice.md)
   * [获取面单文件](openapi/get-label-file.md)
-  * [get catalogue](openapi/get-catalogue.md)
+  * [获取申报分类](openapi/get-catalogue.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
