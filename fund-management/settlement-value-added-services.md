@@ -26,5 +26,7 @@
 
   操作:
 
+![](/fund-management/images/jszzfwsm_1.png)
 
+![](/fund-management/images/jszzfwsm_2.png)
 
