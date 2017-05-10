@@ -72,5 +72,5 @@ b、全站曝光：
 
 商品售价：商品的当前价格区间。
 
-![](http://sellerhub.ymatou.com/helpview/img/sellerdata_8.png)
+![](/seller-platform/images/sellerdata_8.png)
 
