@@ -17,7 +17,6 @@
 ![](http://sellerhub.ymatou.com/helpview/img/thtk_7.png)
 
 
-
 * **Tips：**
 
   在点击“同意退款”时，请先确认退款的金额，点击后，退款金额将无法修改。买家可在买手未审核前修改退款金额。

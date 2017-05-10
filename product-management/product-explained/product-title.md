@@ -26,7 +26,6 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/spmc_2.jpg)
 
-* 
 * 只有没作弊的商品，才可能排名靠前
 
   **作弊行为：**作堆砌和商品本身无关的关键词、重复铺货等。
