@@ -30,7 +30,7 @@
   * [09－打造进阶版跨境网红](recruitment/ymatoumeat/ymatoumeat9.md)
   * [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
   * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
-* 视频教程
+* [视频教程](recruitment/shi-pin-jiao-cheng.md)
   * [新买手视频](seller-training-course/new-seller-training-videos.md)
   * [2017年课程](seller-training-course/courselist-2017.md)
   * [2016年课程](seller-training-course/courselist-2016.md)
@@ -66,7 +66,7 @@
 * [订单评价](order-management/orderrating.md)
 * [订单发货](order-management/ordershipment.md)
 * [退货退款](order-management/order-refund.md)
-* [常见问题](order-management/order-faqs.md)
+* [订单发布FAQ](order-management/order-faqs.md)
 
 ## 直播管理
 
