@@ -54,17 +54,6 @@ http request
 http request with signature
 ```
 
-#### 接口一览表
-
-| 接口名称 | 接口描述 |
-| :--- | :--- |
-| [ymatou.skus.stock.update](/openapi/updateproductstock.md) | 批量更新商品库存数量 |
-| [ymatou.skus.price.update](/openapi/updateproductprice.md) | 批量更新商品价格 |
-| [ymatou.order.list.get](/openapi/getorderlist.md) | 获取订单列表信息 |
-| [ymatou.order.detail.get](/openapi/getorderdetail.md) | 获取单个订单详情 |
-| [ymatou.logistics.send](/openapi/sendlogistics.md) | 订单发货接口 |
-| [ymatou.logistics.companies.get](/openapi/getlogisticscompanies.md) | 获取平台物流公司信息 |
-
 #### 合作厂商
 
 | 厂商名称 | 厂商官网地址 | 厂商联系人 | 支持状态 |
