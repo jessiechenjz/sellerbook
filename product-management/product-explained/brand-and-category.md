@@ -18,7 +18,7 @@
 
   4.如为特殊链接（运费或商品补差价链接），请选择其他分类 - 其他品牌。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/sptxgf4.png)
+  ![](/product-management/images/sptxgf4.png)
 
   5.如错放品牌可能导致被巡检下架并处罚
 
