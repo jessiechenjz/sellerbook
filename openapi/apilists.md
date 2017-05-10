@@ -18,9 +18,9 @@
 | 接口名称 | 接口描述 |
 | :--- | :--- |
 | xlobo.labels.createNoVerification | 任意发件人不使用商品编码做单接口 |
-| xlobo.labels.file.getFileA4 / xlobo.labels.file.getFile10x15 | 获取面单文件 |
-| xlobo.status.get | 物流状态获取 |
-| xlobo.catalogue.get | 获取申报分类 |
+| xlobo.labels.file.getFileA4 / xlobo.labels.file.getFile10x15 | 获得单个面单文件 |
+| xlobo.status.get | 贝海运单物流状态获取 |
+| xlobo.catalogue.get | 获取贝海发货申报分类 |
 
 
 
