@@ -81,9 +81,11 @@
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 
-## 优选商品
+## 码头优选
 
-* [优选商品介绍](pspseller/pspintro.md)
+* [业务介绍](pspseller/pspintro.md)
+* apply for psp
+* oper requirement
 
 ## 码头精准营销
 
