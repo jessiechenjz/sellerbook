@@ -8,7 +8,7 @@
 
 进入后可查看退款申请列表
 
-![](http://sellerhub.ymatou.com/helpview/img/thtk_2.png)
+![](/sellerapp/images/thtk_2.png)
 
 点选需要处理的订单，进入详情页。
 
@@ -16,7 +16,7 @@
 
 点击“拒绝申请”，填写原因后可提交，同时可选择上传图片。
 
-![](http://sellerhub.ymatou.com/helpview/img/thtk_3.png)
+![](/sellerapp/images/thtk_3.png)
 
-![](http://sellerhub.ymatou.com/helpview/img/thtk_4.png)
+![](/sellerapp/images/thtk_4.png)
 
