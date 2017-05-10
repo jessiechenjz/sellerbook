@@ -108,6 +108,7 @@
 
 * [服务说明](openapi/README.md)
   * [intro](openapi/intro.md)
+  * get catalogue
 * [接口列表](openapi/apilists.md)
   * [获取单个订单](openapi/getorderdetail.md)
   * [获取订单列表](openapi/getorderlist.md)
@@ -116,6 +117,7 @@
   * [同步商品库存](openapi/updateproductstock.md)
   * [同步商品价格](openapi/updateproductprice.md)
   * [获取面单文件](openapi/get-label-file.md)
+  * [get catalogue](openapi/get-catalogue.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
