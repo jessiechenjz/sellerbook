@@ -4,9 +4,7 @@
 
 一、数据总览入口
 
-![](http://sellerhub.ymatou.com/helpview/img/sellerdata_1.png)
-
-
+![](/seller-platform/images/sellerdata_1.png)
 
 二、数据总览页面
 
@@ -14,13 +12,13 @@
 
 **1、核心数据概览：展示店铺每天的访问数、转化率**
 
-![](http://sellerhub.ymatou.com/helpview/img/sellerdata_2.png)
+![](/seller-platform/images/sellerdata_2.png)
 
 **2、核心数据走势**
 
 成交订单金额和成交订单数走势图表化，任意切换折线图和柱形图。可以了解最近一周至一个月的数据趋势。
 
-![](http://sellerhub.ymatou.com/helpview/img/sellerdata_3.png)
+![](/seller-platform/images/sellerdata_3.png)
 
 **3、核心页面转化分析：展示近期买手对流量的转化能力，精确到自然日（北京时间）。**
 
@@ -75,6 +73,4 @@ b、全站曝光：
 商品售价：商品的当前价格区间。
 
 ![](http://sellerhub.ymatou.com/helpview/img/sellerdata_8.png)
-
-
 
