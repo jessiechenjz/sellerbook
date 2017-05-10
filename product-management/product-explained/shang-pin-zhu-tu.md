@@ -12,7 +12,7 @@
 
   **优秀案例：**
 
-  ![](http://sellerhub.ymatou.com/helpview/img/spzt_1.jpg)
+  ![](/product-management/images/spzt_1.jpg)
 
   **商品图片发布技巧：**
 
