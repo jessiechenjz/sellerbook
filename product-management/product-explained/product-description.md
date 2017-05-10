@@ -6,9 +6,9 @@
 
   **展现位置：**
 
-  ![](http://sellerhub.ymatou.com/helpview/img/spms_1.jpg)
+  ![](/product-management/images/spms_1.jpg)
 
-  ![](http://sellerhub.ymatou.com/helpview/img/spms_2.jpg)
+  ![](/product-management/images/spms_2.jpg)
 
 
 
