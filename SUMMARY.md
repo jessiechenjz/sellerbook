@@ -115,7 +115,7 @@
   * [获取平台物流公司信息](openapi/getlogisticscompanies.md)
   * [同步商品库存](openapi/updateproductstock.md)
   * [同步商品价格](openapi/updateproductprice.md)
-  * [get label file](openapi/get-label-file.md)
+  * [获取面单文件](openapi/get-label-file.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
