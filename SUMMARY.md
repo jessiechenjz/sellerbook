@@ -118,7 +118,7 @@
   * [同步商品价格](openapi/updateproductprice.md)
   * [获取面单文件](openapi/get-label-file.md)
   * [获取申报分类](openapi/get-catalogue.md)
-  * [get parcel status](openapi/get-parcel-status.md)
+  * [获取面单状态](openapi/get-parcel-status.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
