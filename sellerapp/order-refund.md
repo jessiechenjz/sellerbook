@@ -5,7 +5,6 @@
 * ##### 工作台点击“退货退款”按钮
 
 
-
 ![](http://sellerhub.ymatou.com/helpview/img/thtk_1.png)
 
 进入后可查看退款申请列表
