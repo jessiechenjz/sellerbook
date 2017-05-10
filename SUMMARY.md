@@ -85,7 +85,7 @@
 
 * [业务介绍](pspseller/pspintro.md)
 * [apply for psp](pspseller/apply-for-psp.md)
-* oper requirement
+* [oper requirement](pspseller/oper-requirement.md)
 
 ## 码头精准营销
 
