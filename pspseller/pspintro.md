@@ -19,5 +19,7 @@
 
 ![](/pspseller/images/pspseller-3.png)
 
+* 商详页重点推荐
 
+![](/pspseller/images/pspseller-2.png)
 
