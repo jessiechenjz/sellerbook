@@ -68,7 +68,7 @@
 * [退货退款](order-management/order-refund.md)
 * [常见问题](order-management/order-faqs.md)
 * [订单修改](order-management/order-modify.md)
-* cancel
+* [cancel](order-management/cancel.md)
 
 ## 直播管理
 
