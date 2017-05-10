@@ -2,17 +2,20 @@
 
 ---
 
-* 一、发布直播入口
+一、发布直播入口
 
-  1、进入工作台，可点击左下角的“发布直播”，直接进行直播创建
+1、进入工作台，可点击左下角的“发布直播”，直接进行直播创建
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjzb_1.jpg)
+![](/sellerapp/images/cjzb_1.jpg)
 
-  2、进入直播板块的主页，点击右上角的“发布直播”进行直播创建；
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjzb_2.jpg)
 
-* 
+2、进入直播板块的主页，点击右上角的“发布直播”进行直播创建
+
+![](http://sellerhub.ymatou.com/helpview/img/cjzb_2.jpg)
+
+
+
 * 二、发布直播
 
   1、简单介绍本场直播，可添加直播短视频，以增强现场直播气氛。
