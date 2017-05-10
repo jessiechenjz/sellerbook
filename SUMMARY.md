@@ -63,10 +63,9 @@
 ## 订单管理
 
 * [订单查询](order-management/order-list.md)
-* [订单发货](order-management/ordershipment.md)
 * [订单评价](order-management/orderrating.md)
+* [订单发货](order-management/ordershipment.md)
 * [退货退款](order-management/order-refund.md)
-* [订单修改](order-management/order-modify.md)
 * [取消订单](order-management/cancel.md)
 * [常见问题](order-management/order-faqs.md)
 
@@ -102,6 +101,7 @@
 * [商品操作](sellerapp/editproduct.md)
 * [订单管理](sellerapp/order-management.md)
   * [退货退款](sellerapp/order-refund.md)
+  * [订单修改](order-management/order-modify.md)
 * [消息管理](sellerapp/messages.md)
 
 ## OPEN API
