@@ -1,4 +1,4 @@
-### 获取申报分类 （xlobo.catalogue.get）
+### 获取海关申报分类 （xlobo.catalogue.get）
 ---
 
 
