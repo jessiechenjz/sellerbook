@@ -116,10 +116,10 @@
   * [获取平台物流公司信息](openapi/getlogisticscompanies.md)
   * [同步商品库存](openapi/updateproductstock.md)
   * [同步商品价格](openapi/updateproductprice.md)
+  * [贝海做单接口](openapi/create-labels.md)
   * [获取面单文件](openapi/get-label-file.md)
   * [获取申报分类](openapi/get-catalogue.md)
-  * [获取面单状态](openapi/get-parcel-status.md)
-  * [create labels](openapi/create-labels.md)
+  * [贝海做单接口](openapi/create-labels.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
