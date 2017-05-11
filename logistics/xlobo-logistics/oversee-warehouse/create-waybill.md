@@ -8,7 +8,7 @@
 
   海外仓业务流程
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_1.jpg)
+  ![](/logistics/images/cjhwcyd_1.jpg)
 
 * 第一部分•维护商品库
 
@@ -27,17 +27,17 @@
      商品数量：填写实际入库的商品数  
      点击“新增仓储”，为第二个SKU继续创建仓位信息。全部完成后，点击下方的“查看消费金额并继续”
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_2.png)
+  ![](/logistics/images/cjhwcyd_2.png)
 
   创建仓储成功后，则会生成一组XC打头的仓储编号，并且跳出“打印入库单”按钮
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_3.png)
+  ![](/logistics/images/cjhwcyd_3.png)
 
   点击打印入库单，下载入库单并打印粘贴到商品包裹上（XC打头为仓储编号） 另一个打印入库单的入口在“仓储列表”中找到仓储编号，点击右侧打印入库通知单  
   货架号和清点数量，在货站收到货品完成清点后，有货站工作人员更新到系统中  
   XC号为贝海仓储编号
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_4.png)
+  ![](/logistics/images/cjhwcyd_4.png)
 
   **入库预报 – 批量入库**
 
@@ -48,11 +48,11 @@
   选择入仓的国家  
   下载模板，填写后，点击“选择文件”上传
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_5.jpg)
+  ![](/logistics/images/cjhwcyd_5.jpg)
 
   入库模板里须填写“商品编码”和“数量”两个字段（如图）
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_6.jpg)
+  ![](/logistics/images/cjhwcyd_6.jpg)
 
   **仓储列表管理**
 
@@ -68,14 +68,14 @@
 
 仓储列表如图：
 
-![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_7.jpg)
+![](/logistics/images/cjhwcyd_7.jpg)
 
 若“清点库存”和“预报库存”不一致，则变为“异常”，操作如下：  
   清点和预报数量不一致，状态显示为"异常"  
   若认可货站清点，点击“忽略异常”，状态切换成“可操作”  
   若不认可，请联系贝海客服。
 
-![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_8.jpg)
+![](/logistics/images/cjhwcyd_8.jpg)
 
 * 
 * 第三部分•出库
@@ -84,7 +84,7 @@
 
   入口在“FBX海外仓”下的“出库操作”，出库操作流程如下：
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_9.jpg)
+  ![](/logistics/images/cjhwcyd_9.jpg)
 
   **出库操作 – 分拣出库**
 
@@ -97,7 +97,7 @@
   6.选择打包方式  
   7.选填收件人缴税，打勾系统会推送税金短信给收件人，反之无短信
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_10.png)
+  ![](/logistics/images/cjhwcyd_10.png)
 
   **出库操作 – 批量出库**
 
@@ -106,7 +106,7 @@
   选择入仓国家  
   下载模板，填写后，点击“选择文件”上传。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_11.png)
+  ![](/logistics/images/cjhwcyd_11.png)
 
   批量出货模板填写要点：
 
@@ -118,19 +118,19 @@
 
   注意：请勿编辑、删除、或添加模板的字段，严格按照模板的格式填写内容
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_12.jpg)
+  ![](/logistics/images/cjhwcyd_12.jpg)
 
   模板填好后，选择并上传，接下来到确认界面
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_13.jpg)
+  ![](/logistics/images/cjhwcyd_13.jpg)
 
   点击“确认出库”，这是系统会提示“提交完成，系统处理中”，等待片刻
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_14.jpg)
+  ![](/logistics/images/cjhwcyd_14.jpg)
 
   在出库记录下，可查看到已经生成2个面单；但由于收件人尚未上传身份证，所以无法进行出库操作，贝海已经发送短信告知收件人，及时上传身份证。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_15.jpg)
+  ![](/logistics/images/cjhwcyd_15.jpg)
 
 * 第四部分•后续管理
 
@@ -140,7 +140,7 @@
 
   修改收件人的姓名、手机号和地址，在“FBX海外仓面单列表”下点击DB单号进去，若货站还未生成配货任务，直接点击“修改收件人信息”进行修改保存即可。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_16.jpg)
+  ![](/logistics/images/cjhwcyd_16.jpg)
 
   **删除面单（撤销出库）**
 
@@ -152,7 +152,7 @@
 
   b. 操作步骤：仓储列表à出库记录à查看详情à选择需要撤销的FBX海外仓单号（撤销即删除）点击“查看详情”后，选定对应DB单号，进行“撤销出库”操作
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_17.jpg)
+  ![](/logistics/images/cjhwcyd_17.jpg)
 
   **后续管理 – 库存管理**
 
@@ -170,11 +170,11 @@
 
   安全库存：设置预留库存，一旦可用库存用完，可释放安全库存
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_18.jpg)
+  ![](/logistics/images/cjhwcyd_18.jpg)
 
   安全库存设置范围：0=&lt;,&lt;=可用库存
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_19.jpg)
+  ![](/logistics/images/cjhwcyd_19.jpg)
 
 
 
