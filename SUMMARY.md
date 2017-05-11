@@ -123,7 +123,7 @@
 
 * [服务说明](openapi/README.md)
   * [intro](openapi/intro.md)
-  * get catalogue
+  * [get catalogue](openapi/get-catalogue.md)
 * [接口列表](openapi/apilists.md)
   * [获取单个订单](openapi/getorderdetail.md)
   * [获取订单列表](openapi/getorderlist.md)
