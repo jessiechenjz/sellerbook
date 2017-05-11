@@ -6,7 +6,7 @@
 
 独立对话框与买家进行交流，界面简洁，设计合理，方便快捷
 
-![](http://sellerhub.ymatou.com/helpview/img/subaccount_1.jpg)
+![](/fund-management/images/subaccount_1.jpg)
 
 1.最近联系人列表，所有在该账号上咨询过的买家都会保留在最近联系人列表中，暂时无搜索功能。
 
