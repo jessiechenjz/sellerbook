@@ -31,11 +31,11 @@
 
   三、创建新提现账户，点击“管理提现账户”，在“账号管理”页面下点击“添加新账号”，可查看 “提现帮助”。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/tx_3.jpg)
+  ![](/fund-management/images/tx_3.jpg)
 
   四、填写账户信息，点击“完成并提交码头”，洋码头会对账户进行审核，审核通过之后即可用于提现。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/tx_4.jpg)
+  ![](/fund-management/images/tx_4.jpg)
 
 
 
