@@ -6,11 +6,11 @@
 
   一、电脑端卖家后台，有两个入口，详见下图：
 
-  ![](/assets/tx_1.jpg)
+  ![](/fund-management/images/tx_1.jpg)
 
   二、进入提现主页，选择提现账户，输入提现金额、密码等完成提现申请。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/tx_2.jpg)
+  ![](/fund-management/images/tx_2.jpg)
 
   提现操作：
 
