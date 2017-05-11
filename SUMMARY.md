@@ -6,6 +6,7 @@
 * [平台优势](ymtbenifits.md)
 * [最新公告](ymtnews.md)
 
+
 ## 买手招募
 
 * [买手成功故事](recruitment/success-stories.md)
@@ -17,7 +18,9 @@
 
 ## 买手培训
 
-* [newsellercourse](recruitment/newsellercourse.md)
+* [新手入门](recruitment/newsellercourse.md)
+  * [快速入门](recruitment/newsellercourse/kuai-su-ru-men.md)
+  * [快速入门FAQ](recruitment/newsellercourse/kuai-su-ru-men-faq.md)
 * [码头大哥话跨境](recruitment/ymatoumeat.md)
   * [01－跨境税改](recruitment/ymatoumeat/ymatoumeat1.md)
   * [02－税改调整方案沟通](recruitment/ymatoumeat/ymatoumeat2.md)
@@ -40,7 +43,13 @@
 * [平台规范](platform-rules/service-standards.md)
   * [退货规则](platform-rules/service-standards/return-policy.md)
   * [洋码头隐私权规则](platform-rules/service-standards/privacy-policy.md)
-* [买手处罚规则](platform-rules/punishment.md)
+  * [平台服务协议](platform-rules/service-standards/service-rules.md)
+  * [买手处罚规则](platform-rules/punishment.md)
+  * [买手交易行为规范细则](platform-rules/trading-activies.md)
+  * [争议处理规则](platform-rules/agreement.md)
+  * [物流规范及处罚细则](platform-rules/logistics-rules.md)
+* [奖惩机制](platform-rules/jiang-cheng-ji-zhi.md)
+  * [处罚规则](platform-rules/jiang-cheng-ji-zhi/chu-fa-gui-ze.md)
 
 ## 买手业务后台
 
@@ -94,6 +103,11 @@
 * [买手优惠券](seller-promotions/seller-coupons.md)
 * [满减促销](seller-promotions/promotion-2.md)
 
+## 系统设置
+
+ * [修改个人信息](system-setting/change-personal-infor.md)
+ * [工作台与子账号管理](system-setting/platform-and-bypass-acount.md)
+
 ## 买手APP
 
 * [工作台介绍](sellerapp/dashboard.md)
@@ -104,6 +118,7 @@
   * [订单修改](order-management/order-modify.md)
   * [取消订单](order-management/cancel.md)
 * [消息管理](sellerapp/messages.md)
+* [账户设置](sellerapp/account-setting.md)
 
 ## OPEN API
 
