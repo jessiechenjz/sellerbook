@@ -54,6 +54,7 @@
 
 * [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
+* [系统设置](seller-platform/user-settings.md)
 
 ## 商品管理
 
@@ -134,6 +135,7 @@
   * [获取面单文件](openapi/get-label-file.md)
   * [获取申报分类](openapi/get-catalogue.md)
   * [获取面单状态](openapi/get-parcel-status.md)
+  * [身份证上传](openapi/shen-fen-zheng-shang-chuan.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
@@ -150,8 +152,4 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
-  * [third party logistics](logistics/xlobo-logistics/third-party-logistics.md)
-    * [第三方直邮](logistics/xlobo-logistics/third-party-logistics/third-party-direcr-mail.md)
-    * [拼邮](logistics/xlobo-logistics/third-party-logistics/pin-you.md)
-* [物流发货FAQ](logistics/wu-liu-fa-huo-faq.md)
 

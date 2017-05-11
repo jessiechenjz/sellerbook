@@ -8,7 +8,7 @@
 
   通关流程如下图示：
 
-  ![](/logistics/images/qglc-1.png)
+  ![](http://sellerhub.ymatou.com/helpview/img/qglc-1.png)
 
 
 
