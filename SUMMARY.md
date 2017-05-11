@@ -6,6 +6,11 @@
 * [平台优势](ymtbenifits.md)
 * [最新公告](ymtnews.md)
 
+## pc
+
+* [商品发布](pc/product-issue.md)
+  * [普通商品](pc/product-issue/pu-tong-shang-pin.md)
+
 ## 买手招募
 
 * [买手成功故事](recruitment/success-stories.md)
