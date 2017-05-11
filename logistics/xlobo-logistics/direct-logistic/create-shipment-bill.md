@@ -6,14 +6,12 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_1.jpg)
 
-* 
 * 登陆贝海，选择“国际直邮服务”, 提供2种做单方式：
 
   1.生成直邮面单： 一次生成一个面单；
 
   2.批量生成面单： 通过excel发货模板生成多个面单。
 
-* 
 * 第一部分•生成直邮面单
 
   **1.1填写面单信息**
@@ -68,7 +66,6 @@
 
 ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_4.jpg)
 
-* 
 * 第二部分•批量生成面单
 
   此功能特别适合订单量大的客户。入口在“国际直邮服务”-&gt;“批量生成面单”
@@ -124,7 +121,6 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_9.jpg)
 
-* 
 * 第三部分•面单管理
 
   **3.1 所有直邮面单，在“国际直邮服务--已生成面单列表“下可以查阅**
