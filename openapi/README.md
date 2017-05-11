@@ -15,42 +15,32 @@
 
 * ##### 获取APPKEY {#getappkey}
 
-
+买手登录seller.ymatou.com, 选择“买手服务-&gt;第三方应用授权“ ，点击“新增授权”，获取API调用的配置信息。
 
 ![](/openapi/images/getappkey.png)
 
 * ##### 参数签名 {#signmethod}
 
   * 获取所有请求参数，不包括字节类型参数，如文件、字节流，剔除sign与sign\_method参数
-* 将筛选的参数按照第一个字符的键值ASCII码递增排序（字母升序排序），如果遇到相同字符则按照第二个字符的键值ASCII码递增排序，以此类推。
 
-  ```
-  例如将foo=1,bar=2,baz=3 排序为bar=2,baz=3,foo=1
-  参数名和参数值链接后，得到拼装字符串bar2baz3foo1
-  ```
+  * 将筛选的参数按照第一个字符的键值ASCII码递增排序（字母升序排序），如果遇到相同字符则按照第二个字符的键值ASCII码递增排序，以此类推。
 
-* 将排序后的参数与其对应值，组合成“参数=参数值”的格式，并且把这些参数用字符连接起来，此时生成的字符串为待签名字符串。MD5签名的商户需要将key的值拼接在字符串后面，调用MD5算法生成sign；
+      ```
+      例如将foo=1,bar=2,baz=3 排序为bar=2,baz=3,foo=1, 参数名和参数值链接后，得到拼装字符串bar2baz3foo1
+      ```
+    
+  * 将排序后的参数与其对应值，组合成“参数=参数值”的格式，并且把这些参数用字符连接起来，此时生成的字符串为待签名字符串。MD5签名的商户需要将key的值拼接在字符串后面，调用MD5算法生成sign；
 
-```
-appKey：10210015121700112233、sessionKey：SESSIONKEYFORLIUYUETOTEST0123456、format：json、ver：1.0、
-method：ymatou.skus.price.update、timestamp：2017-2-17 10:00:00、appSecret：APPSECRETFORLIUYUETOTEST01234567
-
-APPSECRETFORLIUYUETOTEST01234567appKey10210015121700112233formatjsonmethodyhd.category.brands.get
-sessionKeySESSIONKEYFORLIUYUETOTEST0123456timestamp2015-12-17 00:00:00
-ver1.0APPSECRETFORLIUYUETOTEST01234567
-
-加密后生成的sign：72c33f6b5c2d555b3527e510ade690cd
-```
-
-参考格式
-
-```
-http request
-```
-
-```
-http request with signature
-```
+    ```
+    APP_KEY：10210015121、sessionKey：SESSIONKEYFOR10210015121、format：json、ver：1.0、
+    method：ymatou.skus.price.update、timestamp：2017-2-17 10:00:00、APP_SECRET：APPSECRETFOR1021001512
+    
+    MD5(appkey10210015121700112233formatjsonmethodyhd.category.brands.get
+    sessionkeysessiongkeyfor10210015121timestamp2015-12-17 00:00:00ver1.0appsecretfor10210015121)
+    
+    加密后生成的sign：72c33f6b5c2d555b3527e510ade690cd
+    ```
+    
 
 #### 合作厂商
 
