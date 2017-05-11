@@ -40,6 +40,7 @@
 * [平台规范](platform-rules/service-standards.md)
   * [退货规则](platform-rules/service-standards/return-policy.md)
   * [洋码头隐私权规则](platform-rules/service-standards/privacy-policy.md)
+  * [service rules](platform-rules/service-standards/service-rules.md)
 * [买手处罚规则](platform-rules/punishment.md)
 * [争议处理规则](platform-rules/agreement.md)
 * [买手交易行为规范细则](platform-rules/trading-activies.md)
