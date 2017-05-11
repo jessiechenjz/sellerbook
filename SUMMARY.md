@@ -153,4 +153,5 @@
   * [third party logistics](logistics/xlobo-logistics/third-party-logistics.md)
     * [第三方直邮](logistics/xlobo-logistics/third-party-logistics/third-party-direcr-mail.md)
     * [拼邮](logistics/xlobo-logistics/third-party-logistics/pin-you.md)
+* [物流发货FAQ](logistics/wu-liu-fa-huo-faq.md)
 
