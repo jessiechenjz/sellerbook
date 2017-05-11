@@ -49,10 +49,10 @@
 |  |  |  |  |
 | amount | Decimal | 200.00 | 订单金额 |
 | payment | Decimal | 180.00 | 买家实付金额 |
-| shipping\_fee | Decimal | 20.00 | 订单邮费 |
-| platform\_coupon\_discount | Decimal |  |  |
-| merchant\_coupon\_discount | Decimal |  |  |
-| merchant\_prom\_discount| Decimal | | |
+| shipping\_fee | Decimal | 20.00 | 订单邮费分摊金额 |
+| p\_coupon\_discount | Decimal |  | 平台优惠券分摊金额 |
+| m\_coupon\_discount | Decimal |  | 买手优惠券分摊金额 |
+| m\_promoption\_discount | Decimal |  | 买手促销活动分摊金额 |
 | shipping\_time | String |  |  |
 | seller\_memo | String |  | 买手备注 |
 | buyer\_remark | String |  | 买家留言 |
