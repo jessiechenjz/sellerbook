@@ -11,7 +11,7 @@
 | [ymatou.order.list.get](/openapi/getorderlist.md) | 获取订单列表信息 |
 | [ymatou.order.detail.get](/openapi/getorderdetail.md) | 获取单个订单详情 |
 | [ymatou.logistics.send](/openapi/sendlogistics.md) | 订单发货接口 |
-| [ymatou.logistics.companies.get](/openapi/getlogisticscompanies.md) | 获取平台物流公司信息 |
+| [ymatou.logistics.companies.get](/openapi/getlogisticscompanies.md) | 获取买手物流公司信息 |
 
 #### 贝海物流接口
 
