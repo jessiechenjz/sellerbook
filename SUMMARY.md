@@ -18,6 +18,7 @@
 ## 买手培训
 
 * [newsellercourse](recruitment/newsellercourse.md)
+  * [快速入门](recruitment/newsellercourse/kuai-su-ru-men.md)
 * [码头大哥话跨境](recruitment/ymatoumeat.md)
   * [01－跨境税改](recruitment/ymatoumeat/ymatoumeat1.md)
   * [02－税改调整方案沟通](recruitment/ymatoumeat/ymatoumeat2.md)
