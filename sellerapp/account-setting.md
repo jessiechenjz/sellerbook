@@ -1,0 +1,36 @@
+### 账户设置
+
+---
+
+* 买手登陆卖家版洋码头APP后，点击“我”左上角的“设置”，可对账户做以下设置
+
+  1.修改头像
+
+  2.添加、编辑个人简介
+
+  3.更换背景
+
+  4、接收买家咨询消息
+
+  5、退出当前账户等
+
+  6、签到
+
+  （1）点击主页右下角“我”的模块 ，进入可以在头像昵称下面看到“签到”功能
+
+  （2）在这里可以点击页面下方红色“签到”进行操作，也可以看到历史签到记录，签到信息将以地图形式在买家APP的买手主页中展示给买家。让买家了解您在国外的生活轨迹，能够增加买家对您的信任。
+
+  ![](http://sellerhub.ymatou.com/helpview/img/zhsz_1.jpg)
+
+  ![](http://sellerhub.ymatou.com/helpview/img/zhsz_1_1.jpg)
+
+  修改头像；添加、编辑个人简介；更换背景
+
+  ![](http://sellerhub.ymatou.com/helpview/img/zhsz_2.jpg)
+
+  接收买家咨询消息；网络诊断；退出当前帐号
+
+  ![](http://sellerhub.ymatou.com/helpview/img/zhsz_3.jpg)
+
+
+
