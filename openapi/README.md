@@ -21,7 +21,7 @@
 
 * ##### 参数签名 {#signmethod}
 
-  * 获取所有请求参数，不包括字节类型参数，如文件、字节流，剔除sign与sign\_method参数
+  * 获取所有请求参数，不包括字节类型参数，如文件、字节流，不包括sign与sign\_method参数
 
   * 将筛选的参数按照第一个字符的键值ASCII码递增排序（字母升序排序），如果遇到相同字符则按照第二个字符的键值ASCII码递增排序，以此类推。
 
@@ -33,10 +33,10 @@
 
     ```
     APP_KEY：10210015121、sessionKey：SESSIONKEYFOR10210015121、format：json、ver：1.0、
-    method：ymatou.skus.price.update、timestamp：2017-2-17 10:00:00、APP_SECRET：APPSECRETFOR1021001512
+    method：ymatou.skus.price.update、timestamp：2017-2-17 10:00:00、APP_SECRET：APPSECRETFOR1021001512 
     
-    MD5(appkey10210015121700112233formatjsonmethodyhd.category.brands.get
-    sessionkeysessiongkeyfor10210015121timestamp2015-12-17 00:00:00ver1.0appsecretfor10210015121)
+    MD5(app_key10210015121700112233formatjsonmethodyhd.category.brands.get
+    session_keysessiongkeyfor10210015121time_stamp2015-12-17 00:00:00ver1.0appsecretfor10210015121)
     
     加密后生成的sign：72c33f6b5c2d555b3527e510ade690cd
     ```
