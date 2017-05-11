@@ -6,10 +6,8 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/fbfbx_1.png)
 
-* 
 * 2、选择分类、描述商品（包含商品名称、商品介绍、商品主图、商品描述）和普通商品一样，没有差别
 
-* 
 * 3、填写规格和价格 请点击“添加FBX商品”
 
   ![](http://sellerhub.ymatou.com/helpview/img/fbfbx_2.png)
@@ -26,7 +24,6 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/fbfbx_4.png)
 
-* 
 * 4、选择货运信息
 
   物流方式为：贝海保税（上海）
@@ -35,7 +32,6 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/fbfbx_5.png)
 
-* 
 * 5、填完其他的必要信息，点击“保存”即可完成FBX商品的发布。
 
 
