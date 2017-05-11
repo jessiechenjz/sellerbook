@@ -11,6 +11,8 @@
 * [商品发布](pc/product-issue.md)
   * [普通商品](pc/product-issue/pu-tong-shang-pin.md)
   * [贝海保税（FBX）商品](pc/product-issue/pu-tong-shang-pin/beihai-bonded.md)
+* [系统设置](pc/system-setting.md)
+* [platform and bypass acount](pc/platform-and-bypass-acount.md)
 
 ## 买手招募
 
