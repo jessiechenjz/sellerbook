@@ -5,31 +5,31 @@
 | 字段名 | 类型 | 必须 | 描述 |
 | :--- | :--- | :--- | :--- |
 | BusinessNo | String | 是 | 业务编号，一个业务编号只能绑定一个物流面单 |
-| Weight | Decimal | 是 | 重量，为包裹实际重量，精确到1位小数，如2.5，重量单位美国为磅，其它国家为公斤，重量需要在分类允许的重量范围内
-|
-| Insure | Decimal |是  | 保险费，整数金额，单位元，如100，表示100元，如果有金额默认表示同意《贝海丢单保险委托协议》协议 |
+| Weight | Decimal | 是 | 重量，为包裹实际重量，精确到1位小数，如2.5，重量单位美国为磅，其它国家为公斤，重量需要在分类允许的重量范围内 |
+|  |  |  |  |
+|  |  |  |  |
+| Insure | Decimal | 是 | 保险费，整数金额，单位元，如100，表示100元，如果有金额默认表示同意《贝海丢单保险委托协议》协议 |
 | IsRePacking |  |  |  |
 | IsPreTax |  |  |  |
 | IsRecTax |  |  |  |
 | IsRecTax |  |  |  |
-| Comment | | ||
+| Comment |  |  |  |
 
-
-
-
-        decimal\(10,1\)    11    N    
-
-    
+```
+    decimal\(10,1\)    11    N    
+```
 
 decimal\(10,2\)    12    Y    保险金额在允许范围内
 
-    是否代打包    Integer    1    Y    0-无需代打包 1-简易代打包 2-加固代打包
+```
+是否代打包    Integer    1    Y    0-无需代打包 1-简易代打包 2-加固代打包
 
-    是否预缴税费    Integer    1    Y    0-非预缴税 1 预缴税  （电商件默认预缴税）
+是否预缴税费    Integer    1    Y    0-非预缴税 1 预缴税  （电商件默认预缴税）
 
-    是否收件人缴税    Integer    1    Y    0-商家缴税 1-收件人缴税
+是否收件人缴税    Integer    1    Y    0-商家缴税 1-收件人缴税
 
-    面单备注    String    512    N
+面单备注    String    512    N
+```
 
 LogisticId    货站Id    Integer    11    N    验证有效性，货站是否存在, 用版本进行验证
 
@@ -50,7 +50,7 @@ Address    发件人地址    String     256    N
 
 Phone    发件人手机号    String    32    N    
 
-OtherPhone    发件人电话    String     32    Y    
+OtherPhone    发件人电话    String     32    Y
 ```
 
 面单收件人信息
@@ -74,7 +74,7 @@ Email    收件人Email    String    128    Y
 
 PostCode    收件人邮编    String    16    N    
 
-IdCode    收件人身份证号码    String    32    Y    
+IdCode    收件人身份证号码    String    32    Y
 ```
 
 渠道信息
@@ -112,7 +112,7 @@ Model    型号    String    128    Y    不能同时为空，特殊分类规格
 
 Specification    规格    String    128    Y    
 
-Size    材质    String    128    Y    
+Size    材质    String    128    Y
 ```
 
 
