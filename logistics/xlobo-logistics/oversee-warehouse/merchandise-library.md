@@ -6,7 +6,6 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/spkwh_1.jpg)
 
-* 
 * 具体操作如下：
 
   1.海外直邮商品，点击“商品库管理”下“商品库管理”
@@ -31,7 +30,6 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/spkwh_6.jpg)
 
-* 
 * 特别说明：
 
   已经创建成功的商品，
