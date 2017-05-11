@@ -103,6 +103,7 @@
   * [订单修改](order-management/order-modify.md)
   * [取消订单](order-management/cancel.md)
 * [消息管理](sellerapp/messages.md)
+* [account setting](sellerapp/account-setting.md)
 
 ## OPEN API
 
