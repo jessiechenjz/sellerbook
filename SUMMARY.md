@@ -103,6 +103,11 @@
 * [买手优惠券](seller-promotions/seller-coupons.md)
 * [满减促销](seller-promotions/promotion-2.md)
 
+## 系统设置
+
+ * [修改个人信息](system-setting/change-personal-infor.md)
+ * [工作台与子账号管理](system-setting/platform-and-bypass-acount.md)
+
 ## 买手APP
 
 * [工作台介绍](sellerapp/dashboard.md)
@@ -148,7 +153,3 @@
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
 
-## 系统设置
-
- * [修改个人信息](system-setting/change-personal-infor.md)
- * [工作台与子账号管理](system-setting/platform-and-bypass-acount.md)
