@@ -43,7 +43,7 @@
 * [买手处罚规则](platform-rules/punishment.md)
 * [争议处理规则](platform-rules/agreement.md)
 * [买手交易行为规范细则](platform-rules/trading-activies.md)
-* [logistics rules](platform-rules/logistics-rules.md)
+* [物流规范及处罚细则](platform-rules/logistics-rules.md)
 
 ## 买手业务后台
 
