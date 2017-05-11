@@ -58,7 +58,6 @@
   * [商品名称](product-management/product-explained/product-title.md)
   * [商品主图](product-management/product-explained/shang-pin-zhu-tu.md)
   * [商品描述](product-management/product-explained/product-description.md)
-  * reserve
 * [商品发布FAQ](product-management/product-faqs.md)
 
 ## 订单管理
