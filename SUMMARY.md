@@ -6,7 +6,6 @@
 * [平台优势](ymtbenifits.md)
 * [最新公告](ymtnews.md)
 
-
 ## 买手招募
 
 * [买手成功故事](recruitment/success-stories.md)
@@ -55,7 +54,6 @@
 
 * [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
-* [系统设置](seller-platform/user-settings.md)
 
 ## 商品管理
 
@@ -105,8 +103,8 @@
 
 ## 系统设置
 
- * [修改个人信息](system-setting/change-personal-infor.md)
- * [工作台与子账号管理](system-setting/platform-and-bypass-acount.md)
+* [修改个人信息](system-setting/change-personal-infor.md)
+* [工作台与子账号管理](system-setting/platform-and-bypass-acount.md)
 
 ## 买手APP
 
