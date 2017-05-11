@@ -17,7 +17,7 @@
 
 ## 买手培训
 
-* [newsellercourse](recruitment/newsellercourse.md)
+* [新手入门](recruitment/newsellercourse.md)
   * [快速入门](recruitment/newsellercourse/kuai-su-ru-men.md)
   * [快速入门FAQ](recruitment/newsellercourse/kuai-su-ru-men-faq.md)
 * [码头大哥话跨境](recruitment/ymatoumeat.md)
