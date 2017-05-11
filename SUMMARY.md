@@ -41,6 +41,7 @@
   * [退货规则](platform-rules/service-standards/return-policy.md)
   * [洋码头隐私权规则](platform-rules/service-standards/privacy-policy.md)
 * [买手处罚规则](platform-rules/punishment.md)
+* [agreement](platform-rules/agreement.md)
 
 ## 买手业务后台
 
