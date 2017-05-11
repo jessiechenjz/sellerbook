@@ -137,6 +137,7 @@
   * [获取面单状态](openapi/get-parcel-status.md)
   * [身份证上传](openapi/shen-fen-zheng-shang-chuan.md)
   * [物流状态获取](openapi/wu-liu-zhuang-tai-huo-qu.md)
+  * [获取货站](openapi/huo-qu-huo-zhan.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
