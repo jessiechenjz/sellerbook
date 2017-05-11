@@ -6,11 +6,10 @@
 * [平台优势](ymtbenifits.md)
 * [最新公告](ymtnews.md)
 
-## pc
+## 系统设置
 
-* [系统设置](pc/system-setting.md)
-  * [修改个人信息](pc/system setting/change-personal-infor.md)
-  * [工作台与子账号管理](pc/system setting/platform-and-bypass-acount.md)
+ * [修改个人信息](system-setting/change-personal-infor.md)
+ * [工作台与子账号管理](system-setting/platform-and-bypass-acount.md)
 
 ## 买手招募
 
