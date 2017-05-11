@@ -15,9 +15,7 @@
 
 * ##### 获取APPKEY {#getappkey}
 
-  ```
-  insert image
-  ```
+
 
 ![](/openapi/images/getappkey.png)
 
