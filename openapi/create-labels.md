@@ -15,10 +15,11 @@
 | LogisticVersion |  | 货站最新版本时间，格式为（yyyy-MM-dd HH：mm：ss），验证版本有效性 | String | N |  |
 | LineTypeId |  | 线路类型Id，1-个人快件 3-电商快件 9-奶粉专线 | Integer | N |  |
 | IsContainTax |  | 价格是否包税，0-不包税 1-包税（电商快件必填） | Integer | Y |  |
-| 发件人信息，BillSenderInfo | Name | 发件人姓名 | String | N |  |
-|  | Address | 发件人地址 | String | N |  |
-|  | Phone | 发件人手机号 | String | N |  |
-|  | OtherPhone | 发件人电话 | String | Y |  |
+| 发件人信息，BillSenderInfo |  | 发件人姓名 | String | N |  |
+| Name |  | 发件人地址 | String | N |  |
+| Address |  | 发件人手机号 | String | N |  |
+| Phine |  | 发件人电话 | String | Y |  |
+| OtherPHone |  |  |  |  |  |
 | 面单收件人信息，BillReceiverInfo | Name | 收件人姓名 | String | N |  |
 |  | Province | 收件人省份 | String | N |  |
 |  | City | 收件人城市 | String | N |  |
@@ -46,28 +47,28 @@
 
 面单信息
 
-| 字段名称 | 描述 | 类型 | 可空 |
+| 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| UpdateCount | 更新数量 | Int | N |
-| ErrorCount | 出错数量 | Int | N |
+| UpdateCount | Int | N | 更新数量 |
+| ErrorCount | Int | N | 出错数量 |
 | ErrorInfoList（ErrorInfo） |  |  |  |
-| Identity | 错误数据的标识 | String | Y |
-| ErrorCode | 错误代码 | String | Y |
-| ErrorDescription | 错误描述 | String | Y |
+| Identity | String | Y | 错误数据的标识 |
+| ErrorCode | String | Y | 错误代码 |
+| ErrorDescription | String | Y | 错误描述 |
 | Result |  |  |  |
-| BillCode | 面单号 | String | Y |
-| BusinessNo | 业务编号，传入的业务编号 | String | N |
-| IsPostPay | 是否后付费,1:后付费，0：预付费 | Int | Y |
-| DeliveryFee | 运费 | decimal\(10.2\) | Y |
-| Insurance | 保险费 | decimal\(10.2\) | Y |
-| TaxFee | 预交税费 | decimal\(10.2\) | Y |
+| BillCode | String | Y | 面单号 |
+| BusinessNo | String | N | 业务编号，传入的业务编号 |
+| IsPostPay | Int | Y | 是否后付费，1：后付费，0：预付费 |
+| DeliveryFee | decimal\(10.2\) | Y | 运费 |
+| Insurance | decimal\(10.2\) | Y | 保险费 |
+| TaxFee | decimal\(10.2\) | Y | 预交税费 |
 
 ### 错误信息
 
 | 错误码 | 描述 |
 | :--- | :--- |
 | Xlobo.bill.param\_missing | 参数{0}为空，检查传入的参数是否正确 |
-| Xlobo.bill.param\_error | 参数错误或者不合法，检查传入的参数是否正确 |
+| Xlobo.bill.param\_error | 参数{0}错误或者不合法，检查传入的参数是否正确 |
 | Xlobo.bill.receiver\_address\_invalid | 收货地址无效，检查收货地址是否正确，不能是港澳台 |
 | Xlobo.bill.phone\_invalid | 收件人手机号规则无效，必须为11为数字手机号，同时第一位是1第二位为345789 |
 | Xlobo.bill.category\_invalid | 分类信息不存在，检查分类信息是否正确 |
