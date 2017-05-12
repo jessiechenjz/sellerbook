@@ -8,49 +8,49 @@
 
   1.进入工作台，可点击左下角的“发布直播”，直接进行直播创建
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_1.jpg)
+  ![](/seller-training-course/images/xsrm_1.jpg)
 
   2.进入直播板块的主页，点击右上角的发布直播进行直播创建；
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_2.jpg)
+  ![](/seller-training-course/images/xsrm_2.jpg)
 
   点击进入发布直播，按提示填写内容。最后保存直播，回到直播管理页面，查看已创建好的直播列表。
 
   1.简单介绍本场直播，可添加直播短视频，以增强现场直播气氛
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_3.jpg)
+  ![](/seller-training-course/images/xsrm_3.jpg)
 
   2.发海外地址自动定位不可更改,直播地为购物商场,名称可自定义修改和添加直播地照片须商场实拍照片
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_4.png)
+  ![](/seller-training-course/images/xsrm_4.png)
 
   3.描述整场直播,从节日，品牌，折扣力度新，奇，特商品出发，吸引客户点击进入直播
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_5.jpg)
+  ![](/seller-training-course/images/xsrm_5.jpg)
 
   4.请根据洋码头物流限制规则选择
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_6.jpg)
+  ![](/seller-training-course/images/xsrm_6.jpg)
 
   5.每场直播最短可1小时，最长可选48小时。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_7.png)
+  ![](/seller-training-course/images/xsrm_7.png)
 
   6.直播详情增加“搜索”功能，可以按照商品名称搜索到该直播中的具体商品。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_14.jpg)
+  ![](/seller-training-course/images/xsrm_14.jpg)
 
   **PC端直播：**
 
   PC端可以创建直播，但是直播视频只能APP端上传，PC端可填写其他信息。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_15.png)
+  ![](/seller-training-course/images/xsrm_15.png)
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_16.png)
+  ![](/seller-training-course/images/xsrm_16.png)
 
   PC端也可以进行直播管理，可以选择直播时间或直播状态进行管理。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_17.png)
+  ![](/seller-training-course/images/xsrm_17.png)
 
   **笔记：**
 
@@ -72,7 +72,7 @@
 
   在“订单”板块，可查看今日订单、昨日订单以及退货退款的订单明细
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_8.jpg)
+  ![](/seller-training-course/images/xsrm_8.jpg)
 
   **第一步：接单**
 
@@ -82,20 +82,20 @@
   APP：  
   1. 请点击卖家版洋码头APP“订单”，点击“待接单”状态，对订单进行“接单”
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_9.png)
+  ![](/seller-training-course/images/xsrm_9.png)
 
-  2. 点击“接单”，进入下一步
+  1. 点击“接单”，进入下一步
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_10.jpg)
+  ![](/seller-training-course/images/xsrm_10.jpg)
 
   PC：  
   1.点击主页上方交易中的“订单管理”
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_18.png)
+  ![](/seller-training-course/images/xsrm_18.png)
 
   2.选择“等待接单”，在这里可以查看到未接单情况，进行接单。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_19.png)
+  ![](/seller-training-course/images/xsrm_19.png)
 
   **第二步：发起补款（该步骤已基本取消）**
 
@@ -104,22 +104,20 @@
 
   注：补款金额 = 售价–已支付定金
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_11.jpg)
+  ![](/seller-training-course/images/xsrm_11.jpg)
 
   PC：  
   在“订单管理”中选择“等待发起补款”，定位到相关订单，点击“发起补款”。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_20.png)
+  ![](/seller-training-course/images/xsrm_20.png)
 
   **第三步：待发货**
 
   “待发货”的订单，须登陆洋码头PC买手后台[（http://seller.ymatou.com）](http://seller.ymatou.com/)，进行发货。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/xsrm_12.png)
+  ![](/seller-training-course/images/xsrm_12.png)
 
   在PC端买手后台，“交易”-“订单管理”下，对“等待发货”订单进行发货
-
- 
 
 
 
