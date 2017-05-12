@@ -14,7 +14,7 @@
 
   入口：
 
-  ![](http://sellerhub.ymatou.com/helpview/img/DSR_1.png)
+  ![](/seller-platform/images/DSR_1.png)
 
 * **3、物流指标是『物流揽收』指标，『物流方式』指标，『物流签收』指标 3项综合计算的分值**
 
