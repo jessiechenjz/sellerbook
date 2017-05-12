@@ -65,7 +65,9 @@ https://open.ymatou.com/api/v1/{app_id}/{method}
 
 
 * 请求示例(ymatou.skus.stock.update 修改商品库存)
-
+   appId : zWYVVFagTfenOHDPTm
+   appSecret: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
+url:  https://open.ymatou.com/api/v1/{app_id}/{method}
 
 
 
