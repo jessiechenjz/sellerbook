@@ -76,7 +76,7 @@
     >     "timestamp":"2017-01-01 12:00:00",
     >     "sign":"A950EEDA1342BBDB83AB8C79B759BE44",
     >     "nonce\_str":"3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28",
-    >     "biz\_content": "{\"skuStocks\":\       [{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}"
+    >     "biz\_content": "{\"skuStocks\":       [{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}"
     >   }
 
 
