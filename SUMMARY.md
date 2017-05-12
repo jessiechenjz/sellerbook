@@ -121,8 +121,8 @@
 * [创建直播](sellerapp/liveshow.md)
 * [商品操作](sellerapp/editproduct.md)
 * [订单管理](sellerapp/order-management.md)
- * [订单修改](order-management/order-modify.md)
- * [取消订单](order-management/cancel.md)
+  * [订单修改](order-management/order-modify.md)
+  * [取消订单](order-management/cancel.md)
   * [退货退款](sellerapp/order-refund.md)
 * [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
@@ -130,7 +130,6 @@
 ## OPEN API
 
 * [服务说明](openapi/README.md)
-  * [intro](openapi/intro.md)
   * get catalogue
 * [接口列表](openapi/apilists.md)
   * [获取单个订单](openapi/getorderdetail.md)
