@@ -6,7 +6,7 @@
 
   买家端展现位置：
 
-  ![](http://sellerhub.ymatou.com/helpview/img/spjs_1.jpg)
+  ![](/product-management/images/spjs_1.jpg)
 
   内容要求：包括品牌，相关描述，库存情况，瑕疵，性能，适应人群，使用说明，有效期，尺寸衡量标准、色差、赠品等进行有效说明，尽可能丰富关键词，增加曝光机会。
 
@@ -14,7 +14,7 @@
 
   优秀案例：包的品牌，型号和功能就在最前面，一目了然
 
-  ![](http://sellerhub.ymatou.com/helpview/img/spjs_2.jpg)
+  ![](/product-management/images/spjs_2.jpg)
 
 
 
