@@ -56,7 +56,7 @@
 * [数据罗盘](seller-platform/data-compass.md)
 * [系统设置](seller-platform/user-settings.md)
   * [修改个人信息](seller-platform/user-settings/change-seller-info.md)
-  * [platform](seller-platform/user-settings/platform.md)
+  * [买手服务工作台](seller-platform/user-settings/platform.md)
   * [子账号设置](seller-platform/user-settings/subset-count.md)
 * [DSR](seller-platform/dsr.md)
 * [system function FAQ](seller-platform/system-function-faq.md)
