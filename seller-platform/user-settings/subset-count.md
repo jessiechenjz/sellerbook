@@ -2,7 +2,6 @@
 
 ---
 
-
 **1、创建角色**
 
 ![](/seller-platform/images/subaccount_6.png)
