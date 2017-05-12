@@ -72,7 +72,7 @@
 
 增加活动库存
 
-![](/seller-promotions/images/campaign-11.png)
+![](/seller-promotions/images/campaign-11.jpg)
 
 
 商品审核通过后，如活动库存无法满足您的销售要求，可以通过“报名详情”的“追加报名数量”功能，追加活动库存。除平台补贴的商品外，库存追加后，立即生效。补贴商品则需待运营审核。
