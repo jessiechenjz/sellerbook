@@ -64,7 +64,12 @@
    - appId : zWYVVFagTfenOHDPTm
    - appSecret: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
    - url:  https://open.ymatou.com/api/v1/zWYVVFagTfenOHDPTm/ymatou.skus.stock.update
-
-
+ 
+   - header: Content-Type:application/json
+   - body: 
+        >   {
+        >     "sign_method":"MD5",
+        >     "
+        >   }
 
 
