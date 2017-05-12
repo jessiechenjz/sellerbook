@@ -6,7 +6,6 @@
 
 ![](http://sellerhub.ymatou.com/helpview/img/dsfdddr_1.jpg)
 
-* 
 * 关联渠道店铺
 
   1.点击“关联店铺”，关联洋码头或淘宝（含天猫）店铺；
@@ -17,10 +16,9 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/dsfdddr_2.png)
 
-* 
 * 接下来，为大家讲解整个操作步骤
 
-  **1. 订单导入 分为3步**
+  **1. 订单导入 分为3步**
 
   a.点击“手动同步订单”
 
@@ -34,7 +32,7 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/dsfdddr_3_3.png)
 
-  **2. 订单管理  几个重要功能说明**
+  **2. 订单管理  几个重要功能说明**
 
   ![](http://sellerhub.ymatou.com/helpview/img/dsfdddr_4.jpg)
 
