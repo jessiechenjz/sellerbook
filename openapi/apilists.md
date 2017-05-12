@@ -24,3 +24,14 @@
 
 
 
+#### Open Api 统一接口
+
+https://open.ymatou.com/api/v1/{app_id}/{method} 
+
+| 名称 | 类型 | 必填 | 描述 | 示例值 |
+| :--- | :--- | :--- | :--- | :--- |
+| xlobo.labels.createNoVerification | 任意发件人不使用商品编码做单接口 |
+
+
+
+
