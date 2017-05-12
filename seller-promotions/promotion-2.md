@@ -84,11 +84,11 @@
 
   现A、B、C三个商品在同一场促销活动中，买家合并下单购买。其中，A商品购买了a1规格1件、a2规格1件，B商品购买了b1规格2件，C商品购买了c1规格3件。详如下图所示。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/mjzx_1.png)
+  ![](/seller-promotions/images/mjzx_1.png)
 
   在这个场景下，如果满减促销的玩法不同，优惠金额分摊的结果也不同，分摊方式如下图所示。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/mjzx_2.png)
+  ![](/seller-promotions/images/mjzx_2.png)
 
 * ##### 其他常见问题
 
