@@ -64,6 +64,9 @@ https://open.ymatou.com/api/v1/{app_id}/{method}
 | 1001 | 业务请求参数JSON格式不正确 |
 
 
+* 请求示例(ymatou.skus.stock.update 修改商品库存)
+
+
 
 
 
