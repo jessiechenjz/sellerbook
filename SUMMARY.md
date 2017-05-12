@@ -161,6 +161,6 @@
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
 * [第三方直邮与拼邮](logistics/third-party.md)
-  * direct mail
-  * [pin you](logistics/third-party/pin-you.md)
+  * 第三方直邮
+  * [拼邮](logistics/third-party/pin-you.md)
 
