@@ -140,7 +140,7 @@
 
   修改收件人的姓名、手机号和地址，在“FBX海外仓面单列表”下点击DB单号进去，若货站还未生成配货任务，直接点击“修改收件人信息”进行修改保存即可。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_16.jpg)
+  ![](/logistics/images/cjhwcyd_16.jpg)
 
   **删除面单（撤销出库）**
 
@@ -152,7 +152,7 @@
 
   b. 操作步骤：仓储列表à出库记录à查看详情à选择需要撤销的FBX海外仓单号（撤销即删除）点击“查看详情”后，选定对应DB单号，进行“撤销出库”操作
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_17.jpg)
+  ![](/logistics/images/cjhwcyd_17.jpg)
 
   **后续管理 – 库存管理**
 
@@ -170,11 +170,11 @@
 
   安全库存：设置预留库存，一旦可用库存用完，可释放安全库存
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_18.jpg)
+  ![](/logistics/images/cjhwcyd_18.jpg)
 
   安全库存设置范围：0=&lt;,&lt;=可用库存
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjhwcyd_19.jpg)
+  ![](/logistics/images/cjhwcyd_19.jpg)
 
 
 
