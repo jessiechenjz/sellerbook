@@ -58,6 +58,7 @@
   * [修改个人信息](seller-platform/user-settings/change-seller-info.md)
   * [platform](seller-platform/user-settings/platform.md)
   * [subset count](seller-platform/user-settings/subset-count.md)
+* [DSR](seller-platform/dsr.md)
 
 ## 商品管理
 
