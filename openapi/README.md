@@ -11,7 +11,7 @@
 * 使用ERP的买手，联系相关的ERP厂商，检查是否已经支持洋码头平台
 * 其他信息
 
-#### 接入准备 {#signmethod}test
+#### 接入准备 {#signmethod}
 
 * ##### 获取APPKEY {#getappkey}
 
