@@ -14,8 +14,8 @@
   * [买手 “牛哥” 故事](recruitment/success-stories/successtories3.md)
   * [邱妞妞的美国购](recruitment/seller-qiu-niuniu.md)
   * [Vicent转型路](recruitment/success-stories/seller-vincent.md)
-  * [seller kt](recruitment/success-stories/seller-kt.md)
-  * [seller Meredith](recruitment/success-stories/seller-meredith.md)
+  * [KT PANDORA](recruitment/success-stories/seller-kt.md)
+  * [澳新健康Top路](recruitment/success-stories/seller-meredith.md)
 * [买手入驻](recruitment/apply-to-seller.md)
 * [年审流程](recruitment/yearly-review.md)
 
