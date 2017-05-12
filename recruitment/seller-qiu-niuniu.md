@@ -16,7 +16,7 @@
 
 第一次，在买手后台看到订单。那种喜悦的感觉，就像电流通过全身，就是这第一笔的订单给了她十足的冲劲。这让她坚信，**买手将成为自己的终身事业。**
 
-![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)![](/recruitment/images/story_buyer4_2.jpg)
+![](/recruitment/images/story_buyer4_2.jpg)
 
 **“循着味道，都能知道哪个商场能买到自己要的货”**
 
