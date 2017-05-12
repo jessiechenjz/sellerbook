@@ -50,6 +50,9 @@ https://open.ymatou.com/api/v1/{app_id}/{method}
 | content | json object | 否 | 返回数据，具体内容由各个api确定
 
 
+* 公共返回码
+
+
 
 
 
