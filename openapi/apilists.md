@@ -5,7 +5,7 @@
 #### 码头业务接口
 
 | 接口名称 | 接口描述 |
-| --- | --- |
+| :--- | :--- |
 | [ymatou.skus.stock.update](/openapi/updateproductstock.md) | 批量更新商品库存数量 |
 | [ymatou.skus.price.update](/openapi/updateproductprice.md) | 批量更新商品价格 |
 | [ymatou.order.list.get](/openapi/getorderlist.md) | 获取订单列表信息 |
@@ -16,7 +16,7 @@
 #### 贝海物流接口
 
 | 接口名称 | 接口描述 |
-| --- | --- |
+| :--- | :--- |
 | xlobo.labels.createNoVerification | 任意发件人不使用商品编码做单接口 |
 | xlobo.labels.file.getFileA4 \/ xlobo.labels.file.getFile10x15 | 获得单个面单文件 |
 | xlobo.status.get | 贝海运单物流状态获取 |
@@ -24,12 +24,12 @@
 
 #### Open Api 统一接口
 
-[https:\/\/open.ymatou.com\/api\/v1\/{app\_id}\/{method}](https://open.ymatou.com/api/v1/{app_id}/{method})
+https://open.ymatou.com/api/v1/{app_id}/{method}
 
 * 统一接口调用参数
 
 | 名称 | 类型 | 必填 | 描述 | 示例值 |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :---: | :--- | :--- |
 | app\_id | String\(32\) | 是 | 洋码头分配的应用appId 此参数在url上替换{app\_id} | zWYVVFagTfenOHDPTm |
 | method | String\(128\) | 是 | api名称 此参数在url上替换{method} | ymatou.skus.stock.update |
 | sign\_method | String\(32\) | 是 | 签名摘要算法，目前只支持：MD5 | MD5 |
@@ -42,7 +42,7 @@
 * 统一返回参数
 
 | 名称 | 类型 | 必填 | 描述 | 示例值 |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :---: | :--- | :--- |
 | code | String\(16\) | 是 | 0000 成功  ，非成功以及公共返回码其他由各接口确定 | 0000 |
 | message | String\(128\) | 否 | 返回信息，如非空，为错误原因： 验签失败、参数格式校验错误等 | 验签失败 |
 | content | json object | 否 | 返回数据，具体内容由各个api确定 |  |
@@ -50,7 +50,7 @@
 * 公共返回码
 
 | 返回码 | 描述 |
-| --- | --- |
+| :--- | :--- |
 | 0000 | 成功 |
 | 0001 | 缺少必填参数 |
 | 0002 | 非法授权码 |
