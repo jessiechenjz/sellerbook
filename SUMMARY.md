@@ -131,7 +131,7 @@
 
 * [服务说明](openapi/README.md)
 * [接口列表](openapi/apilists.md)
-  * how to call api
+  * [接口调用指南](openapi/how-to-call-api.md)
   * [获取单个订单](openapi/getorderdetail.md)
   * [获取订单列表](openapi/getorderlist.md)
   * [订单发货](openapi/sendlogistics.md)
@@ -143,7 +143,6 @@
   * [身份证上传](openapi/shen-fen-zheng-shang-chuan.md)
   * [物流状态获取](openapi/wu-liu-zhuang-tai-huo-qu.md)
   * [获取货站](openapi/huo-qu-huo-zhan.md)
-
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
