@@ -2,8 +2,10 @@
 
 ---
 
-![](/seller-platform/images/subaccount_6.png)
+
 **1、创建角色**
+
+![](/seller-platform/images/subaccount_6.png)
 
 1）在菜单“设置”下，点击“子账号管理”，选择“角色管理-新建角色”。
 
