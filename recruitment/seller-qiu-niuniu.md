@@ -20,7 +20,7 @@
 
 **“循着味道，都能知道哪个商场能买到自己要的货”**
  
-**![](/recruitment/images/story_buyer4_3.jpg)
+![](/recruitment/images/story_buyer4_3.jpg)
 
 刚到美国的时候，邱妞妞最初也只是帮亲戚朋友买些奶粉之类的母婴用品。后来慢慢的涉及到日常生活中的必需品，小到梳子、牙膏，大到空气净化器、儿童推车……每一样商品都是老邱亲自采购。
 
@@ -29,7 +29,7 @@
 
 跨国买手的力量是非常强大的。每次店里一上新品或者一有活动，不出3天全卖断货……所以有时候为了买到客户心仪的包包，都是一大早去商场排队等开门的，**真的忙起来的时候，会让人忘了饿。**
 
-**![](/recruitment/images/story_buyer4_4.jpg)
+![](/recruitment/images/story_buyer4_4.jpg)
 
 （全家出动，买买买）
 
@@ -45,12 +45,12 @@
 
 一款包包算不了什么，但是用老邱的话说就是：**“用我心换你心。隔着千山万水这种信任，让我自然而然地就想给他们最好的。”**
 
-**![](/recruitment/images/story_buyer4_6.jpg) 
+![](/recruitment/images/story_buyer4_6.jpg) 
 
 
 **“我的两个守卫军，老公＆妞妞”**
 
-**![](/recruitment/images/story_buyer4_7.jpg) 
+![](/recruitment/images/story_buyer4_7.jpg) 
 
 邱妞妞的美国购，乍一看这个店铺名字看似普通，背后却有着一个暖心的故事。“妞妞”二字来源于她的小伙伴，**一条陪伴了8年的古代牧羊犬**，名字就叫妞妞。
 
