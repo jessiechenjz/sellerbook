@@ -59,6 +59,7 @@
   * [platform](seller-platform/user-settings/platform.md)
   * [subset count](seller-platform/user-settings/subset-count.md)
 * [DSR](seller-platform/dsr.md)
+* [system function FAQ](seller-platform/system-function-faq.md)
 
 ## 商品管理
 
@@ -105,6 +106,7 @@
 
 * [买手优惠券](seller-promotions/seller-coupons.md)
 * [满减促销](seller-promotions/promotion-2.md)
+* [marketing FAQ](seller-promotions/marketing-faq.md)
 
 ## 系统设置
 
@@ -157,4 +159,7 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
+* [third party](logistics/third-party.md)
+  * direct mail
+  * [pin you](logistics/third-party/pin-you.md)
 
