@@ -39,7 +39,7 @@
     2: stringSignTemp = stringA + "&app_secret=" + app_secret
     3: sign = MD5(stringSignTemp).toUpperCase()
     
-    加密后生成的sign：72c33f6b5c2d555b3527e510ade690cd
+    加密后生成的sign：A950EEDA1342BBDB83AB8C79B759BE44
     
     ```
     
