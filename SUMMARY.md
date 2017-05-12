@@ -59,7 +59,7 @@
   * [买手服务工作台](seller-platform/user-settings/platform.md)
   * [子账号设置](seller-platform/user-settings/subset-count.md)
 * [DSR](seller-platform/dsr.md)
-* [system function FAQ](seller-platform/system-function-faq.md)
+* [系统功能FAQ](seller-platform/system-function-faq.md)
 
 ## 商品管理
 
