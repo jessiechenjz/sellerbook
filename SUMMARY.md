@@ -72,7 +72,7 @@
   * [商品主图](product-management/product-explained/shang-pin-zhu-tu.md)
   * [商品描述](product-management/product-explained/product-description.md)
   * [商品介绍](product-management/product-explained/product-intro.md)
-  * [living short video](product-management/product-explained/living-short-video.md)
+  * [直播短视频](product-management/product-explained/living-short-video.md)
 * [商品发布FAQ](product-management/product-faqs.md)
 
 ## 订单管理
