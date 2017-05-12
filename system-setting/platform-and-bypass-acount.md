@@ -30,31 +30,31 @@
 
   3）可对买家主动发起会话。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_2.jpg)
+  ![](/fund-management/images/subaccount_2.jpg)
 
   **2、自定义话术**
 
   1）PC端进入买手客服平台，点击页面右侧“编辑”按钮进入编辑页面
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_3.png)
+  ![](/fund-management/images/subaccount_3.png)
 
   2）添加分类，可编辑原有话术，删除话术，添加新的话术
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_4.png)
+  ![](/fund-management/images/subaccount_4.png)
 
   3）设置好话术后，可返回与买家的对话页面，在“我的话术”中，选择分类，选择需要的话术，点击发送即可。3）设置好话术后，可返回与买家的对话页面，在“我的话术”中，选择分类，选择需要的话术，点击发送即可。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_5.png)
+  ![](/fund-management/images/subaccount_5.png)
 
 * 三、买手子账号设置
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_6.png)
+  ![](/fund-management/images/subaccount_6.png)
 
   **1、创建角色**
 
   1）在菜单“设置”下，点击“子账号管理”，选择“角色管理-新建角色”。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_7.png)
+  ![](/fund-management/images/subaccount_7.png)
 
   2）角色名称可自定义创建。
 
@@ -62,7 +62,7 @@
 
   4）目前仅限设置PC端的功能权限；子账号由于无法登录APP端，所以暂时不考虑APP端的功能权限。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_8.png)
+  ![](/fund-management/images/subaccount_8.png)
 
   **2、角色管理-编辑、删除**
 
@@ -72,11 +72,11 @@
 
   2. 如该角色已分配给相应的子账号，删除此角色后，拥有此角色权限的子账号无法使用此角色权限
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_9.png)
+  ![](/fund-management/images/subaccount_9.png)
 
   **3、创建子账号**
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_10.png)
+  ![](/fund-management/images/subaccount_10.png)
 
   1） 子账号全名称总长不能超过20个字符；
 
@@ -88,13 +88,13 @@
 
   5） 选择分配至该子账号的功能权限，系统提供4个角色（无法编辑删除）：客服、运营、发货、售后，如需其他角色，可自行创建。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_11.png)
+  ![](/fund-management/images/subaccount_11.png)
 
   **4、子账号管理-编辑、删除**
 
   新增或者修改角色并分配给账号后，子账号功能权限操作约需十分钟才能生效 已创建的子账号可重新编辑，可删除。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/subaccount_12.png)
+  ![](/fund-management/images/subaccount_12.png)
 
   **5、子账号登陆**
 
