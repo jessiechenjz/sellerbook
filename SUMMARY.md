@@ -130,6 +130,7 @@
   * [退货退款](sellerapp/order-refund.md)
 * [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
+* [add coupon](sellerapp/add-coupon.md)
 
 ## OPEN API
 
