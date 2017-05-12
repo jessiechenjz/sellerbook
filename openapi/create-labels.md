@@ -37,7 +37,7 @@
 | OtherCode | String | Y | 渠道订单号。电商快件必填 |
 | TradingNo | String | Y | 渠道支付号。电商快件必填 |
 | ChanneName | String | Y | 渠道名称。例：洋码头，淘宝，天猫等；注：电商快件只支持传入渠道：洋码头，淘宝，天猫，苏宁，京东，一号店，当当，Higo |
-| 货物信息，BillCategoryList,型号，规格，材质不能同时为空，最多只能有10个货物，包含10个 |  |  |  |
+| BillCategoryList[] |  |  | 货物信息，型号，规格，材质不能同时为空，最多只能有10个货物，包含10个 |
 | Categoryld | Integer | N | 分类Id。验证有效性 |
 | CateGoryVersion | String | N | 分类最新版本时间，格式为（yyyy-MM-dd HH：mm：ss） 验证版本有效性 |
 | Count | Integer | N |  |
