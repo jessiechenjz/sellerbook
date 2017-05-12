@@ -19,26 +19,23 @@
 ![](/recruitment/images/story_buyer4_2.jpg)
 
 **“循着味道，都能知道哪个商场能买到自己要的货”**
-
-**    
+ 
 **![](/recruitment/images/story_buyer4_3.jpg)
 
 刚到美国的时候，邱妞妞最初也只是帮亲戚朋友买些奶粉之类的母婴用品。后来慢慢的涉及到日常生活中的必需品，小到梳子、牙膏，大到空气净化器、儿童推车……每一样商品都是老邱亲自采购。
 
-![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)
 
 四年的买手经验累积下来，老邱非常熟悉周边商场的折扣“时节”，她开玩笑的说道：“现在循着味道，都能知道哪个商场能买到自己要的货”。
 
 跨国买手的力量是非常强大的。每次店里一上新品或者一有活动，不出3天全卖断货……所以有时候为了买到客户心仪的包包，都是一大早去商场排队等开门的，**真的忙起来的时候，会让人忘了饿。**
 
-![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)![](/recruitment/images/story_buyer4_4.jpg)
+**![](/recruitment/images/story_buyer4_4.jpg)
 
 （全家出动，买买买）
 
 **“用我心换你心，看到客人幸福非常开心。”**
 
-**    
-**![](/recruitment/images/story_buyer4_5.jpg)
+![](/recruitment/images/story_buyer4_5.jpg)
 
 做买手多年，**累积下来的客户早就不仅仅是客户那么简单**，成为了无话不谈的朋友。“有客人会在看到美国某个地方发生枪击案的新闻后第一时间来关心我，问我你们那里有没有影响，也有客人随时教我各种育儿经验，聊聊家常。”
 
@@ -48,16 +45,17 @@
 
 一款包包算不了什么，但是用老邱的话说就是：**“用我心换你心。隔着千山万水这种信任，让我自然而然地就想给他们最好的。”**
 
-![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)![](/recruitment/images/story_buyer4_6.jpg)
+**![](/recruitment/images/story_buyer4_6.jpg) 
+
 
 **“我的两个守卫军，老公＆妞妞”**
 
-**  **![](/recruitment/images/story_buyer4_7.jpg)**  
-**
+**![](/recruitment/images/story_buyer4_7.jpg) 
 
 邱妞妞的美国购，乍一看这个店铺名字看似普通，背后却有着一个暖心的故事。“妞妞”二字来源于她的小伙伴，**一条陪伴了8年的古代牧羊犬**，名字就叫妞妞。
 
-![](data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQImWNgYGBgAAAABQABh6FO1AAAAABJRU5ErkJggg==)“刚到美国，并没有把妞妞带在身边。那时候的感觉就是，每天食不甘味，生活像缺了一角，特像百爪挠心。于是下定决心，必须把它接过来，在一起生活。”
+
+“刚到美国，并没有把妞妞带在身边。那时候的感觉就是，每天食不甘味，生活像缺了一角，特像百爪挠心。于是下定决心，必须把它接过来，在一起生活。”
 
 后来渐渐的，老邱扫货也会带着妞妞，每进一家店都会被店员夸几句，就跟一个可爱的小保镖一样。
 
