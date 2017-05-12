@@ -21,9 +21,10 @@
 
 #### 了解系统调用
 
-* 平台调用URL, 接口采用HTTPS加密协议 (https://open.ymatou.com/api/v1/{app_id}/{method}
+* 平台调用URL, 接口采用HTTPS加密协议 \([https://open.ymatou.com/api/v1/{app\_id}/{method}](https://open.ymatou.com/api/v1/{app_id}/{method})
 
-* 接口系统参数说明 (!/openapi/how-to-call-api.md)
+* 接口系统参数说明 [接口调用指南](/openapi/how-to-call-api.md)
+
 * 接口SDK包下载 （开发中）
 
 #### 合作厂商
@@ -32,9 +33,8 @@
 | :--- | :--- | :--- | :--- |
 | 海豚供应链 |  |  | 对接中 |
 | 草莓网 |  |  | 对接中 |
-| 网店管家 | | | 洽谈中 |
-| 管家婆| | | 洽谈中 |
-
+| 网店管家 |  |  | 洽谈中 |
+| 管家婆 |  |  | 洽谈中 |
 
 
 
