@@ -55,6 +55,7 @@
 * [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
 * [系统设置](seller-platform/user-settings.md)
+  * [change seller info](seller-platform/user-settings/change-seller-info.md)
 
 ## 商品管理
 
