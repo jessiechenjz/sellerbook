@@ -41,7 +41,7 @@
 
 * [平台规范](platform-rules/service-standards.md)
   * [退货规则](platform-rules/service-standards/return-policy.md)
-  * [洋码头隐私权规则](platform-rules/service-standards/privacy-policy.md)
+  * [隐私权规则](platform-rules/service-standards/privacy-policy.md)
   * [平台服务协议](platform-rules/service-standards/service-rules.md)
   * [买手处罚规则](platform-rules/punishment.md)
   * [买手交易行为规范细则](platform-rules/trading-activies.md)
@@ -56,6 +56,10 @@
 * [数据罗盘](seller-platform/data-compass.md)
 * [系统设置](seller-platform/user-settings.md)
   * [修改个人信息](seller-platform/user-settings/change-seller-info.md)
+  * [买手服务工作台](seller-platform/user-settings/platform.md)
+  * [子账号设置](seller-platform/user-settings/subset-count.md)
+* [DSR](seller-platform/dsr.md)
+* [系统功能FAQ](seller-platform/system-function-faq.md)
 
 ## 商品管理
 
@@ -88,6 +92,7 @@
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 * [资金管理FAQ](fund-management/fund-faq.md)
+* [结算增值服务说明](fund-management/value-add-services.md)
 
 ## 优选商品
 
@@ -102,6 +107,7 @@
 
 * [买手优惠券](seller-promotions/seller-coupons.md)
 * [满减促销](seller-promotions/promotion-2.md)
+* [marketing FAQ](seller-promotions/marketing-faq.md)
 
 ## 系统设置
 
@@ -154,4 +160,7 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
+* [third party](logistics/third-party.md)
+  * direct mail
+  * [pin you](logistics/third-party/pin-you.md)
 
