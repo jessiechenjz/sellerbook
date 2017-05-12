@@ -10,16 +10,16 @@ https://open.ymatou.com/api/v1/{app_id}/{method}
 
 * 统一接口调用参数
 
-| 名称 | 类型 | 必填 | 描述 | 示例值 |
+| 名称 | 类型 | 必填 | 描述
 | :--- | :--- | :---: | :--- | :--- |
-| app\_id | String\(32\) | 是 | 洋码头分配的应用appId 此参数在url上替换{app\_id} | zWYVVFagTfenOHDPTm |
-| method | String\(128\) | 是 | api名称 此参数在url上替换{method} | ymatou.skus.stock.update |
-| sign\_method | String\(32\) | 是 | 签名摘要算法，目前只支持：MD5 | MD5 |
-| auth\_code | String\(32\) | 是 | 授权码，针对买手与应用的唯一授权码 | VlERCP4fZzHzqK7vnr8weOYqepkXriKL |
-| timestamp | String\(19\) | 是 | 时间戳，格式为yyyy-MM-dd HH:mm:ss，时区为GMT+8，例如：2017-01-01 12:00:00。洋码头API服务端允许客户端请求最大时间误差为10分钟。 | 2017-01-01 12:00:00 |
-| sign | String\(32\) | 是 | API输入参数签名结果，签名算法介绍 | A950EEDA1342BBDB83AB8C79B759BE44 |
-| nonce\_str | String\(32\) | 是 | 随机字符串，长度要求在32位以内。推荐随机算法 | 3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28 |
-| biz\_content | String | 是 | 业务请求参数的集合，最大长度不限，除公共参数外所有请求参数都必须放在这个参数中传递，具体参照各api请求参数。 传入的是json格式字符串 | "{\"skuStocks\":\[{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}" |
+| app\_id | String\(32\) | 是 | 洋码头分配的应用appId 此参数在url上替换{app\_id} </br> 示例值: zWYVVFagTfenOHDPTm|
+| method | String\(128\) | 是 | api名称 此参数在url上替换{method} </br> 示例值: ymatou.skus.stock.update | 
+| sign\_method | String\(32\) | 是 | 签名摘要算法，目前只支持：MD5 |
+| auth\_code | String\(32\) | 是 | 授权码，针对买手与应用的唯一授权码 </br> 示例值: VlERCP4fZzHzqK7vnr8weOYqepkXriKL |
+| timestamp | String\(19\) | 是 | 时间戳，格式为yyyy-MM-dd HH:mm:ss，时区为GMT+8 洋码头API服务端允许客户端请求最大时间误差为10分钟。 </br> 示例值：2017-01-01 12:00:00 |
+| sign | String\(32\) | 是 | API输入参数签名结果，签名算法介绍[签名算法](sign.md) </br> 示例值: A950EEDA1342BBDB83AB8C79B759BE44 |
+| nonce\_str | String\(32\) | 是 | 随机字符串，长度要求在32位以内。推荐随机算法 </br> 示例值: 3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28 |
+| biz\_content | String | 是 | 业务请求参数的集合，最大长度不限，除公共参数外所有请求参数都必须放在这个参数中传递，具体参照各api请求参数。 传入的是json格式字符串 </br> 示例值:  "{\"skuStocks\":\[{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}" |
 
 * 统一返回参数
 
@@ -46,7 +46,7 @@ https://open.ymatou.com/api/v1/{app_id}/{method}
 
   * appId : zWYVVFagTfenOHDPTm
   * appSecret: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
-  * url:  [https:\/\/open.ymatou.com\/api\/v1\/zWYVVFagTfenOHDPTm\/ymatou.skus.stock.update](https://open.ymatou.com/api/v1/zWYVVFagTfenOHDPTm/ymatou.skus.stock.update)
+  * url:  [https://open.ymatou.com/api/v1/zWYVVFagTfenOHDPTm/ymatou.skus.stock.update](https://open.ymatou.com/api/v1/zWYVVFagTfenOHDPTm/ymatou.skus.stock.update)
 
   * header: Content-Type:application\/json
 
