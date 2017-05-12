@@ -12,7 +12,7 @@
   * [ 买手 “Jolin” 故事](recruitment/success-stories/successstories1md.md)
   * [ 买手 “Corria & Tony” 故事](recruitment/success-stories/successstories2.md)
   * [买手 “牛哥” 故事](recruitment/success-stories/successtories3.md)
-* [seller qiu niuniu](recruitment/seller-qiu-niuniu.md)
+  * [seller qiu niuniu](recruitment/seller-qiu-niuniu.md)
 * [买手入驻](recruitment/apply-to-seller.md)
 * [年审流程](recruitment/yearly-review.md)
 
