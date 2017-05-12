@@ -61,19 +61,22 @@
 | 1001 | 业务请求参数JSON格式不正确 |
 
 * 请求示例\(ymatou.skus.stock.update 修改商品库存\)
-   - appId : zWYVVFagTfenOHDPTm
-   - appSecret: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
-   - url:  https://open.ymatou.com/api/v1/zWYVVFagTfenOHDPTm/ymatou.skus.stock.update
- 
-   - header: Content-Type:application/json
-   - body: 
-        >   {
-        >     "sign_method":"MD5",
-        >     "auth_code":"",
-        >     "timestamp":"",
-        >     "sign":"A950EEDA1342BBDB83AB8C79B759BE44",
-        >     "nonce_str":"3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28",
-        >     "biz_content": "{\"skuStocks\":\          [{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}"
-        >   }
+
+  * appId : zWYVVFagTfenOHDPTm
+  * appSecret: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
+  * url:  [https:\/\/open.ymatou.com\/api\/v1\/zWYVVFagTfenOHDPTm\/ymatou.skus.stock.update](https://open.ymatou.com/api/v1/zWYVVFagTfenOHDPTm/ymatou.skus.stock.update)
+
+  * header: Content-Type:application\/json
+
+  * body: 
+    > {
+    >     "sign\_method":"MD5",
+    >     "auth\_code":"VlERCP4fZzHzqK7vnr8weOYqepkXriKL",
+    >     "timestamp":"",
+    >     "sign":"A950EEDA1342BBDB83AB8C79B759BE44",
+    >     "nonce\_str":"3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28",
+    >     "biz\_content": "{\"skuStocks\":\          \[{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}"
+    >   }
+
 
 
