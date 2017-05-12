@@ -52,6 +52,9 @@ https://open.ymatou.com/api/v1/{app_id}/{method}
 
 * 公共返回码
 
+| 返回码 | 描述 |
+| :--- | :--- | 
+| 0000 | 成功 |
 
 
 
