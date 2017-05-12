@@ -61,7 +61,8 @@
 | 1001 | 业务请求参数JSON格式不正确 |
 
 * 请求示例\(ymatou.skus.stock.update 修改商品库存\)
-   appId : zWYVVFagTfenOHDPTm
-   appSecret: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
-  url:  [https:\/\/open.ymatou.com\/api\/v1\/{app\_id}\/{method}](https://open.ymatou.com/api/v1/{app_id}/{method})
+   - appId : zWYVVFagTfenOHDPTm
+   - appSecret: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
+   - url:  https:\/\/open.ymatou.com\/api\/v1\/zWYVVFagTfenOHDPTm\/ymatou.skus.stock.update
+
 
