@@ -33,13 +33,12 @@
     timestamp: 2017-01-01 12:00:00
     nonce_str: 3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28
     auth_code: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
-    biz_content: "{\"skuStocks\":[{\"outer_sku_id\":\"393992\",\"stock_num\":10},{\"outer_sku_id\":\"393993\",\"stock_num\":12}]}"
     
-    1: stringA ="app_id=zWYVVFagTfenOHDPTm&auth_code=UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0&biz_content={\"skuStocks\":[{\"outer_sku_id\":\"393992\",\"stock_num\":10},{\"outer_sku_id\":\"393993\",\"stock_num\":12}]}&method=ymatou.skus.stock.update&nonce_str=3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28&sign_method=MD5&timestamp=2017-01-01 12:00:00"
+    1: stringA ="app_id=zWYVVFagTfenOHDPTm&auth_code=UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0&method=ymatou.skus.stock.update&nonce_str=3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28&sign_method=MD5&timestamp=2017-01-01 12:00:00"
     2: stringSignTemp = stringA + "&app_secret=" + app_secret
     3: sign = MD5(stringSignTemp).toUpperCase()
     
-    加密后生成的sign：A950EEDA1342BBDB83AB8C79B759BE44
+    加密后生成的sign：AC153D8C7F8D0EFEB1BA55177DEA2031
     
     ```
     
