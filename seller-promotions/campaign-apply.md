@@ -20,11 +20,11 @@
 
 1. 功能操作说明
 
-活动报名入口
+##### 活动报名入口
 
 ![](/seller-promotions/images/campaign-1.png)
 
-报名平台活动
+##### 报名平台活动
 
 1）在“可以参与的活动”列表中，找到合适的活动，点击“参与报名”。
 
@@ -47,8 +47,7 @@
 ![](/seller-promotions/images/campaign-6.png)
 
 
-
-查看报名进展
+##### 查看报名进展
 
 1）"我的报名"列表，找到之前报名的活动，点击“查看详情”。系统通过标签页面展示不同报名状态下的商品，关注自己的商品处于哪个标签页下。
 ![](/seller-promotions/images/campaign-7.png)
@@ -62,8 +61,7 @@
 ![](/seller-promotions/images/campaign-9.png)
 
 
-
-撤销报名
+##### 撤销报名
 
 在商品未审核通过前，买手可以撤销报名。
 
