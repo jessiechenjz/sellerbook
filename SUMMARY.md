@@ -130,7 +130,6 @@
 ## OPEN API
 
 * [服务说明](openapi/README.md)
-  * get catalogue
 * [接口列表](openapi/apilists.md)
   * [获取单个订单](openapi/getorderdetail.md)
   * [获取订单列表](openapi/getorderlist.md)
