@@ -45,7 +45,7 @@
 | --- | --- | --- | --- | --- |
 | code | String\(16\) | 是 | 0000 成功  ，非成功以及公共返回码其他由各接口确定 | 0000 |
 | message | String\(128\) | 否 | 返回信息，如非空，为错误原因： 验签失败、参数格式校验错误等 | 验签失败 |
-| content | json object | 否 | 返回数据，具体内容由各个api确定 |
+| content | json object | 否 | 返回数据，具体内容由各个api确定 | |
 
 * 公共返回码
 
@@ -76,7 +76,7 @@
     >     "timestamp":"2017-01-01 12:00:00",
     >     "sign":"A950EEDA1342BBDB83AB8C79B759BE44",
     >     "nonce\_str":"3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28",
-    >     "biz\_content": "{\"skuStocks\":      [{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}"
+    >     "biz\_content": "{\"skuStocks\":      \[{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}"
     >   }
 
 
