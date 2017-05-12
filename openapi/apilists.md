@@ -41,6 +41,7 @@ https://open.ymatou.com/api/v1/{app_id}/{method}
 | nonce_str | String(32) | 是 | 随机字符串，长度要求在32位以内。推荐随机算法 |
 | biz_content | String | 是 | 业务请求参数的集合，最大长度不限，除公共参数外所有请求参数都必须放在这个参数中传递，具体参照各api请求参数。 传入的是json格式字符串 | "{\"skuStocks\":[{\"outer_sku_id\":\"393992\",\"stock_num\":10},{\"outer_sku_id\":\"393993\",\"stock_num\":12}]}" 
 
+* 统一返回参数
 
 
 
