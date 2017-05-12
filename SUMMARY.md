@@ -57,7 +57,7 @@
 * [系统设置](seller-platform/user-settings.md)
   * [修改个人信息](seller-platform/user-settings/change-seller-info.md)
   * [platform](seller-platform/user-settings/platform.md)
-  * [subset count](seller-platform/user-settings/subset-count.md)
+  * [子账号设置](seller-platform/user-settings/subset-count.md)
 * [DSR](seller-platform/dsr.md)
 * [system function FAQ](seller-platform/system-function-faq.md)
 
