@@ -15,6 +15,7 @@
   * [邱妞妞的美国购](recruitment/seller-qiu-niuniu.md)
   * [seller vincent](recruitment/success-stories/seller-vincent.md)
   * [seller kt](recruitment/success-stories/seller-kt.md)
+  * [seller Meredith](recruitment/success-stories/seller-meredith.md)
 * [买手入驻](recruitment/apply-to-seller.md)
 * [年审流程](recruitment/yearly-review.md)
 
