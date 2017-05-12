@@ -1,4 +1,4 @@
-### 买手客服工作台与子账号管理
+### 买手客服工作台
 
 ---
 
@@ -47,6 +47,4 @@
   ![](/seller-platform/images/subaccount_5.png)
 
 c
-
-
 
