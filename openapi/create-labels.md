@@ -17,12 +17,12 @@
 | LogisticVersion | String | N | 货站最新版本时间，格式为（yyyy-MM-dd HH：mm：ss），验证版本有效性 |
 | LineTypeId | Integer | N | 线路类型Id，1-个人快件 3-电商快件 9-奶粉专线 |
 | IsContainTax | Integer | Y | 价格是否包税，0-不包税 1-包税（电商快件必填） |
-| 发件人信息，BillSenderInfo |  |  |  |
+| BillSenderInfo |  |  | 发件人信息 |
 | Name | String | N | 发件人姓名 |
 | Address | String | N | 发件人地址 |
 | Phone | String | N | 发件人手机号 |
 | OtherPhone | String | Y | 发件人电话 |
-| 面单收件人信息，BillReceiverInfo |  |  |  |
+| BillReceiverInfo |  |  | 面单收件人信息 |
 | Name | String | N | 收件人姓名 |
 | Province | String | N | 收件人省份 |
 | City | String | N | 收件人城市 |
@@ -33,15 +33,15 @@
 | Email | String | Y | 收件人Email |
 | PostCode | String | N | 收件人邮编 |
 | Idcode | String | Y | 收件人身份证号码 |
-| 渠道信息，BillSupplyInfo |  |  |  |
+| BillSupplyInfo |  |  | 渠道信息 |
 | OtherCode | String | Y | 渠道订单号。电商快件必填 |
 | TradingNo | String | Y | 渠道支付号。电商快件必填 |
 | ChanneName | String | Y | 渠道名称。例：洋码头，淘宝，天猫等；注：电商快件只支持传入渠道：洋码头，淘宝，天猫，苏宁，京东，一号店，当当，Higo |
-| BillCategoryList[] |  |  | 货物信息，型号，规格，材质不能同时为空，最多只能有10个货物，包含10个 |
+| BillCategoryList\[\] |  |  | 货物信息，型号，规格，材质不能同时为空，最多只能有10个货物，包含10个 |
 | Categoryld | Integer | N | 分类Id。验证有效性 |
 | CateGoryVersion | String | N | 分类最新版本时间，格式为（yyyy-MM-dd HH：mm：ss） 验证版本有效性 |
 | Count | Integer | N |  |
-| UniePrice | decimal\(10.2\) | N | 购买数量 购买单价，精确到2位小数，单位元，如 100.25，表示100.25元 |
+| UniePrice | Decimal\(10.2\) | N | 购买数量 购买单价，精确到2位小数，单位元，如 100.25，表示100.25元 |
 | ProductName | String | N | 品名 |
 | Brand | String | N | 品牌 |
 | Model | String | Y | 型号。不能同时为空，特殊分类规格不能为空（奶粉，调味品等） |
