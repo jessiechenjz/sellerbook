@@ -133,7 +133,6 @@
   * [同步商品价格](openapi/updateproductprice.md)
   * [贝海做单接口](openapi/create-labels.md)
   * [获取面单文件](openapi/get-label-file.md)
-  * [获取面单状态](openapi/get-parcel-status.md)
   * [身份证上传](openapi/shen-fen-zheng-shang-chuan.md)
   * [物流状态获取](openapi/wu-liu-zhuang-tai-huo-qu.md)
   * [获取货站](openapi/huo-qu-huo-zhan.md)
