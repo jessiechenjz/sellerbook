@@ -160,7 +160,4 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
-* [third party](logistics/third-party.md)
-  * direct mail
-  * [pin you](logistics/third-party/pin-you.md)
 
