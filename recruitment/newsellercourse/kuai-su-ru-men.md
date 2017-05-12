@@ -84,7 +84,7 @@
 
   ![](http://sellerhub.ymatou.com/helpview/img/xsrm_9.png)
 
-  2. 点击“接单”，进入下一步
+  1. 点击“接单”，进入下一步
 
   ![](http://sellerhub.ymatou.com/helpview/img/xsrm_10.jpg)
 
@@ -118,8 +118,6 @@
   ![](http://sellerhub.ymatou.com/helpview/img/xsrm_12.png)
 
   在PC端买手后台，“交易”-“订单管理”下，对“等待发货”订单进行发货
-
- 
 
 
 
