@@ -107,8 +107,8 @@
 
 * [买手优惠券](seller-promotions/seller-coupons.md)
 * [满减促销](seller-promotions/promotion-2.md)
-* [campaign apply](seller-promotions/campaign-apply.md)
-* [marketing FAQ](seller-promotions/marketing-faq.md)
+* [活动报名](seller-promotions/campaign-apply.md)
+* [常见问题](seller-promotions/marketing-faq.md)
 
 ## 系统设置
 
