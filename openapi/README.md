@@ -23,7 +23,7 @@
 
 * 平台调用URL, 接口采用HTTPS加密协议 \([https://open.ymatou.com/api/v1/{app\_id}/{method}](https://open.ymatou.com/api/v1/{app_id}/{method})
 
-* 接口系统参数说明 [接口调用指南](/openapi/how-to-call-api.md)
+* 接口系统参数说明 [指南](/openapi/how-to-call-api.md)
 
 * 接口SDK包下载 （开发中）
 
