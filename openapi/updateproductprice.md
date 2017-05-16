@@ -16,7 +16,7 @@
 
 | 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| SkuPrice[] |  |  |  |  |
+| sku\_prices |SkuPrice[]  |  |  |  |
 | outer\_sku\_id | String | 是 | 393992 | 买手填写的SKUid |
 | product\_price | Decimal | 是 | 100.00 | 商品售价 |
 | product\_newuser\_price | Decimal | 否 | 99.00 | 商品新客价 |
