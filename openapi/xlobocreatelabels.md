@@ -1,4 +1,4 @@
-### 任意发件人不使用商品编码做单接口\(xlobo.labels.createNoVerification\)
+### 做单接口\(xlobo.labels.createNoVerification\)
 
 ---
 
