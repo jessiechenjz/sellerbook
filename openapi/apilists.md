@@ -19,12 +19,12 @@
 
 | 接口名称 | 接口描述 |
 | :--- | :--- |
-| xlobo.labels.createNoVerification | 任意发件人不使用商品编码做单接口 |
-| xlobo.labels.file.getFileA4 / xlobo.labels.file.getFile10x15 | 获得单个面单文件 |
-| xlobo.status.get | 贝海运单物流状态获取 |
-| xlobo.catalogue.get | 获取贝海发货申报分类 |
-| xlobo.idcard.add | 身份证上传 |
-| xlobo.hub.get | 获取货站列表 |
+| [xlobo.labels.createNoVerification](/openapi/xlobocreatelabels.md) | 任意发件人不使用商品编码做单接口 |
+| [xlobo.labels.file.getFileA4 / xlobo.labels.file.getFile10x15](/openapi/xlobogetlabelfile.md) | 获得单个面单文件 |
+| [xlobo.status.get](/openapi/xlobogetlabelstatus.md) | 贝海运单物流状态获取 |
+| [xlobo.catalogue.get](/openapi/xlobogetcatelogue.md) | 获取贝海发货申报分类 |
+| [xlobo.idcard.add](/openapi/xlobouploadid.md) | 身份证上传 |
+| [xlobo.hub.get](/openapi/xlobogetterminallist.md) | 获取货站列表 |
 
 
 
