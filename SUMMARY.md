@@ -145,11 +145,12 @@
   * [获取平台物流公司信息](openapi/getlogisticscompanies.md)
   * [同步商品库存](openapi/updateproductstock.md)
   * [同步商品价格](openapi/updateproductprice.md)
-  * [贝海做单接口](openapi/create-labels.md)
-  * [获取面单文件](openapi/get-label-file.md)
-  * [身份证上传](openapi/shen-fen-zheng-shang-chuan.md)
+  * [贝海做单接口](openapi/xlobocreatelabels.md)
+  * [获取面单文件](openapi/xlobogetlabelfile.md)
+  * [身份证上传](openapi/xlobouploadid.md)
   * [物流状态获取](openapi/wu-liu-zhuang-tai-huo-qu.md)
-  * [获取货站](openapi/huo-qu-huo-zhan.md)
+  * [获取货站](openapi/xlobogetterminallist.md)
+  * [获取货站](openapi/xlobogetcatelogue.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
