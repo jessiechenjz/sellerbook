@@ -1,4 +1,4 @@
-### 平台订单发货 （ymatou.logistics.send）
+### 平台订单发货 （ymatou.logistics.deliver）
 
 ---
 
@@ -33,7 +33,3 @@
 | message | String | 发货成功 | 返回结果描述 |
 
 ### 错误信息描述
-
-
-
-
