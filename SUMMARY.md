@@ -98,7 +98,7 @@
 * [结算增值服务说明](fund-management/value-add-services.md)
 * [资金管理FAQ](fund-management/fund-faq.md)
 
-## 优选商品
+## 码头优选计划
 
 * [优选商品介绍](pspseller/pspintro.md)
 
