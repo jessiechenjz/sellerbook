@@ -35,7 +35,7 @@
 | seller\_id | String | 洋妈咪甄选 | 买手名称 |
 | order\_id | String | 121736528 | 订单编号 |
 | trade\_id | String | 232654104 | 主单号，合并支付产生的id |
-| order\_status | Integer | 4 |未付款:ORDER_ESTABLISH(1),已付款待接单:ACCOUNT_PAID(2),已发货:SHIPPED(3),确认收货:RECEIVED(4),买家取消订单:USER_ACCEPT_CANCEL(12),卖家取消订单:SELLER_ACCEPT_CANCEL(13),系统自动取消:SYSTEM_CANCEL(18),已接单:SELLER_ACCEPT(17) |
+| order\_status | Integer | 4 | 1 未付款:ORDER_ESTABLISH, <br> 2 已付款待接单:ACCOUNT_PAID <br> 3 已发货:SHIPPED <br> 4 确认收货:RECEIVED <br> 12 买家取消订单:USER_ACCEPT_CANCEL <br> 13 卖家取消订单:SELLER_ACCEPT_CANCEL <br> 14 系统自动取消:SYSTEM_CANCEL <br> 17 已接单:SELLER_ACCEPT |
 | amount | Decimal | 200.00 | 订单金额 |
 | payment | Decimal | 190.00 | 买家实付金额 |
 | shipping\_fee | Decimal | 20.00 | 订单邮费分摊金额 |
