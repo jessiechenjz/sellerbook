@@ -16,7 +16,7 @@
 
 | 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| skuStocks\[] | |  |  |  |
+| sku\_stocks |SkuStock[] |  |  |如下两个参数组成的结构体的数组  |
 | outer\_sku\_id | String | 是 | 393992 | 买手填写的SkuId |
 | stock\_num | Integer | 是 | 10 | 最新的可销售商品库存，必须大于0 |
 
