@@ -1,4 +1,4 @@
-### 获取平台物流公司列表 （ymatou.order.detail.get）
+### 获取买手指定订单 （ymatou.order.detail.get）
 
 ---
 
@@ -35,14 +35,22 @@
 | seller\_name | String | 洋妈咪甄选 | 买手名称 |
 | order\_id | String | 121736528 | 订单编号 |
 | trade\_id | String | 232654104 | 主单号，合并支付产生的id |
+<<<<<<< HEAD
 | order\_status | Integer | ORDER\_PAID | 订单状态  <br> ORDER\_WAIT\_PAY:  等待支付 <br> ORDER\_PAID: 订单已支付 <br> WAIT\_SELLER\_SEND\_GOODS 订单买手发货 <br> WAIT\_BUYER\_CONFIRM\_GOODS 等待买家确认收货  <br> ORDER\_FINISH：订单完成 <br> ORDER\_CANCEL:订单取消 |
+=======
+| order\_status | Integer | 4 |未付款:ORDER_ESTABLISH(1),已付款待接单:ACCOUNT_PAID(2),已发货:SHIPPED(3),确认收货:RECEIVED(4),买家取消订单:USER_ACCEPT_CANCEL(12),卖家取消订单:SELLER_ACCEPT_CANCEL(13),系统自动取消:SYSTEM_CANCEL(18),已接单:SELLER_ACCEPT(17),  |
+>>>>>>> for-dev
 | amount | Decimal | 200.00 | 订单金额 |
 | payment | Decimal | 180.00 | 买家实付金额 |
 | shipping\_fee | Decimal | 20.00 | 订单邮费分摊金额 |
 | p\_coupon\_discount | Decimal |  | 平台优惠券分摊金额 |
 | m\_coupon\_discount | Decimal |  | 买手优惠券分摊金额 |
-| m\_promoption\_discount | Decimal |  | 买手促销活动分摊金额 |
-| shipping\_time | String |  |  |
+| m\_promotion\_discount | Decimal |  | 买手促销活动分摊金额 |
+| m\_adjust\_discount | Decimal |  | 买手调价分摊金额() |
+| order\_time | String |  | 下单时间 |
+| paid\_time | String |  | 付款时间 |
+| shipping\_time | String |  | 发货时间 |
+| cancel\_time | String |  | 取消时间 |
 | seller\_memo | String |  | 买手备注 |
 | buyer\_remark | String |  | 买家留言 |
 | buyer\_id | String | vera\_1214 | 买家id |
@@ -52,22 +60,30 @@
 | receiver\_zip | String |  | 收件人邮编 |
 | receiver\_mobile | String |  | 收件人手机 |
 | receiver\_phone | String |  | 收件人电话 |
-| order\_items\_info | OrderItemInfo\[\] |  |  |
-| oid | String |  | 订单号 |
-| order\_id | String |  | 子订单编号 |
+| receiver\_email | String |  | 收件人邮箱 |
+| order\_items\_info | OrderItemInfo\[\] |  | 订单商品明细 |  
+
+
+* 类型描述 \(OrderItemInfo\)
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| order\_id | String |  | 订单号 |
+| order\_item\_id | String |  | 子订单编号 |
 | refund\_id | String |  | 退货退款单ID |
 | refund\_status | String | 1 | 退货退款状态 |
+| refund\_num | Integer | 1 | 退货数量 |
 | sku\_id | String | 399393920-333 | SkuId |
 | outer\_sku\_id | String | 3838822 | 买手商品编码 |
 | product\_title | String |  | 商品名称 |
 | sku\_properties\_name | String | 颜色:红色;尺码:36 | SKU的属性值 |
 | price | Decimal | 200.00 | 商品价格 |
 | num | Integer | 1 | 商品数量 |
-| total\_fee | Decimal | 200.00 |  |
 | payment | Decimal | 160.00 | 支付金额 |
-| discount\_fee | Decimal | 20.00 | 折扣金额 |
-| adjust\_fee | Decimal | -20.00 | 调整金额 |
-| modified\_time | String | 2017-01-01 12:00:00 | 变更时间 |
+| p\_coupon\_discount| Decimal| |	平台优惠券分摊金额 |
+| m\_coupon\_discount| Decimal | | 买手优惠券分摊金额 |
+| m\_promotion\_discount| Decimal | |买手促销活动分摊金额 |
+| m\_adjust\_discount | Decimal | -20.00 | 买手调整分摊金额 |
 
 ### 错误信息描述
 
