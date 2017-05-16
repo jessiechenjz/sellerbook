@@ -100,7 +100,7 @@
 
 ## 码头优选计划
 
-* [优选商品介绍](pspseller/pspintro.md)
+* [优选业务介绍](pspseller/pspintro.md)
 * [preferred intro](pspseller/preferred-intro.md)
 
 ## 码头精准营销
