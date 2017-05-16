@@ -150,7 +150,7 @@
   * [身份证上传](openapi/xlobouploadid.md)
   * [物流状态获取](openapi/xlobogetlabelstatus.md)
   * [获取货站](openapi/xlobogetterminallist.md)
-  * [获取货站](openapi/xlobogetcatelogue.md)
+  * [获取申报分类](openapi/xlobogetcatelogue.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
