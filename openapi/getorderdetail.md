@@ -35,7 +35,7 @@
 | seller\_name | String | 洋妈咪甄选 | 买手名称 |
 | order\_id | String | 121736528 | 订单编号 |
 | trade\_id | String | 232654104 | 主单号，合并支付产生的id |
-| order\_status | Integer | ORDER\_PAID | 订单状态  ORDER\_WAIT\_PAY:  等待支付 ORDER\_PAID: 订单已支付 WAIT\_SELLER\_SEND\_GOODS 订单买手发货 WAIT\_BUYER\_CONFIRM\_GOODS 等待买家确认收货  ORDER\_FINISH：订单完成 ORDER\_CANCEL:订单取消 |
+| order\_status | Integer | ORDER\_PAID | 订单状态  <br> ORDER\_WAIT\_PAY:  等待支付 <br> ORDER\_PAID: 订单已支付 <br> WAIT\_SELLER\_SEND\_GOODS 订单买手发货 <br> WAIT\_BUYER\_CONFIRM\_GOODS 等待买家确认收货  <br> ORDER\_FINISH：订单完成 <br> ORDER\_CANCEL:订单取消 |
 |  |  |  |  |
 | amount | Decimal | 200.00 | 订单金额 |
 | payment | Decimal | 180.00 | 买家实付金额 |
