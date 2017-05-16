@@ -101,8 +101,8 @@
 ## 码头优选计划
 
 * [优选业务介绍](pspseller/pspintro.md)
-* [preferred intro](pspseller/preferred-intro.md)
-* [preferred faq](pspseller/preferred-faq.md)
+* [优选业务功能](pspseller/preferred-intro.md)
+* [码头优选FAQ](pspseller/preferred-faq.md)
 
 ## 码头精准营销
 
