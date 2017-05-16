@@ -1,4 +1,4 @@
-### 更新商品库存 （ymatou.skus.stock.update）
+### 更新商品库存 （ymatou.sku.stock.update）
 
 ---
 
@@ -30,6 +30,3 @@
 | message | String | 更新库存成功 | 接口调用返回信息 |
 
 ### 错误信息描述
-
-
-
