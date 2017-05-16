@@ -1,4 +1,4 @@
-### 更新商品价格 （ymatou.skus.stock.price）
+### 更新商品价格 （ymatou.sku.price.update）
 
 ---
 
@@ -32,4 +32,3 @@
 | message | String | 更新价格成功 | 接口调用返回信息 |
 
 ### 错误信息描述
-
