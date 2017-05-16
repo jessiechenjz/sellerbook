@@ -148,7 +148,7 @@
   * [贝海做单接口](openapi/xlobocreatelabels.md)
   * [获取面单文件](openapi/xlobogetlabelfile.md)
   * [身份证上传](openapi/xlobouploadid.md)
-  * [物流状态获取](openapi/wu-liu-zhuang-tai-huo-qu.md)
+  * [物流状态获取](openapi/xlobogetlabelstatus.md)
   * [获取货站](openapi/xlobogetterminallist.md)
   * [获取货站](openapi/xlobogetcatelogue.md)
 * [常见问题](openapi/faq.md)
