@@ -16,7 +16,7 @@
 
 | 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| sku\_prices |SkuPrice[]  |  |  |  如下四个参数组成结构体的数组|
+| sku\_prices |SkuPrice[]  |  |  |  如下四个参数组成的结构体的数组|
 | outer\_sku\_id | String | 是 | 393992 | 买手填写的SKUid |
 | product\_price | Decimal | 是 | 100.00 | 商品售价 |
 | product\_newuser\_price | Decimal | 否 | 99.00 | 商品新客价 |
