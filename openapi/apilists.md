@@ -24,3 +24,5 @@
 | xlobo.status.get | 贝海运单物流状态获取 |
 | xlobo.catalogue.get | 获取贝海发货申报分类 |
 
+
+
