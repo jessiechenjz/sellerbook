@@ -1,4 +1,4 @@
-### 获取买手可用物流公司列表 （ymatou.logistics.company.get）
+### 获取买手可用物流公司列表 （ymatou.logistics.companies.get）
 
 ---
 
@@ -21,7 +21,7 @@
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
-| logistics\_company[] |  |  |  |
+| logistics\_companies[] |  |  |  |
 | company\_code | String | A003 | 物流公司平台代码 |
 | short\_name | String | shunfeng | 物流公司简称 |
 | company\_name | String | 顺丰速递 | 物流公司名称 |
