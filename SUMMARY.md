@@ -64,6 +64,7 @@
   * [修改个人信息](seller-platform/user-settings/change-seller-info.md)
   * [子账号设置](seller-platform/user-settings/subset-count.md)
 * [常见问题](seller-platform/system-function-faq.md)
+* [DSR explaination](seller-platform/dsr-explaination.md)
 
 ## 商品管理
 
