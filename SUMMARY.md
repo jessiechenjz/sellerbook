@@ -117,11 +117,6 @@
 * [活动报名](seller-promotions/campaign-apply.md)
 * [常见问题](seller-promotions/marketing-faq.md)
 
-## 系统设置
-
-* [修改个人信息](system-setting/change-personal-infor.md)
-* [子账号管理](system-setting/platform-and-bypass-acount.md)
-
 ## 买手APP
 
 * [工作台介绍](sellerapp/dashboard.md)
