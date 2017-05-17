@@ -19,7 +19,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | SendOrders[] |  | | | 待发货的订单物流信息 |
 | order\_id | String | 是 | 1729299393 | 待发货的订单编号 |
-| logistics_type | Integer | 否 | 1 |订单发货类型 |
+| delivery_type | Integer | 否 | 1 |订单发货类型 |
 | logistics\_company\_id | String | 是 | 001 | 平台物流公司标识 |
 | tracking\_number | String | 是 | 10010993S | 物流面单号 |
 
