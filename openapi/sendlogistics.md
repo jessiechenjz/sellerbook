@@ -1,4 +1,4 @@
-### 平台订单发货 （ymatou.logistics.deliver）
+### 平台订单发货 （ymatou.order.deliver）
 
 ---
 
@@ -21,6 +21,7 @@
 | order\_id | long | 是 | 1729299393 | 待发货的订单编号 |
 | logistics\_company\_id | String | 是 | 001 | 平台物流公司标识 |
 | tracking\_number | String | 是 | 10010993S | 物流面单号 |
+| is_domestic\_delivery | boolean | 是 | true | 是否国内段发货 |
 
 ### 返回参数
 
