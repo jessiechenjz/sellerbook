@@ -24,10 +24,8 @@
 | code |  |  |  |
 | message |  |  |  |
 | logistics\_companies[] |  |  |  |
-| id | String | 1020 | 物流公司标识 |
 | code | String | A003 | 物流公司平台代码 |
 | short\_name | String | shunfeng | 物流公司简称 |
 | name | String | 顺丰速递 | 物流公司名称 |
 
 ### 错误信息描述
-
