@@ -1,4 +1,4 @@
-### 平台订单发货 （ymatou.logistics.deliver）
+### 平台订单发货 （ymatou.order.deliver）
 
 ---
 
