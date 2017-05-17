@@ -120,6 +120,7 @@
 ## 系统设置
 
 * [修改个人信息](system-setting/change-personal-infor.md)
+* chat tool
 * [工作台与子账号管理](system-setting/platform-and-bypass-acount.md)
 
 ## 买手APP
