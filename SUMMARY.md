@@ -58,8 +58,8 @@
 
 * [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
-* [DSR运营指标解读](seller-platform/dsr-explaination.md)
 * [DSR业务](seller-platform/dsr.md)
+  * [DSR运营指标解读](seller-platform/dsr-explaination.md)
 * [买手客服工作台](seller-platform/user-settings/platform.md)
 * [系统设置](seller-platform/user-settings.md)
   * [修改个人信息](seller-platform/user-settings/change-seller-info.md)
