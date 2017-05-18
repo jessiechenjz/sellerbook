@@ -83,6 +83,8 @@
     * reserve and cash
     * postpone
   * [casing](product-management/product-book/casing.md)
+    * publsih
+    * irregularity
   * update
 
 ## 订单管理
