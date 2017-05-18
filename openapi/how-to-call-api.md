@@ -7,8 +7,8 @@
 [https://open.ymatou.com/api/v1?app_id={appId}&method={method}](https://open.ymatou.com/api/v1app_id={appId}&method={method})
 
 其中:<br/>
-*{appId}：洋码头分配的应用appId。示例值: zWYVVFagTfenOHDPTm
-*{method}：api名称。此参数在url上替换{method}。示例值: ymatou.sku.stock.update
+* {appId}：洋码头分配的应用appId。示例值: zWYVVFagTfenOHDPTm
+* {method}：api名称。此参数在url上替换{method}。示例值: ymatou.sku.stock.update
 
 POST报文体是如下请求参数组成的JSON报文
 响应报文体是如下响应参数组成JSON报文
@@ -22,7 +22,7 @@ POST报文体是如下请求参数组成的JSON报文
 | timestamp | String\(19\) | 是 | 时间戳，格式为yyyy-MM-dd HH:mm:ss，时区为GMT+8。 洋码头API服务端允该时间戳与当前时间最大误差为10分钟。 <br/> 示例值：2017-01-01 12:00:00 |
 | sign | String\(32\) | 是 | API输入参数签名结果，签名算法介绍[签名算法](sign.md) <br/> 示例值: A950EEDA1342BBDB83AB8C79B759BE44 |
 | nonce\_str | String\(32\) | 是 | 随机字符串，长度要求在32位以内。建议每笔请求传入一个随机字符串 <br/> 示例值: 3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28 |
-| biz\_content | String | 是 | 请求的业务参数组成的JSON字符串，请至请求详情页查看每个请求的具体业务参数定义。 <br/>示例值: "{\"sku_stocks\":\[{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}" |
+| biz\_content | String | 是 | 请求的业务参数组成的JSON字符串，请至请求详情页查看每个请求的具体业务参数定义。 <br/>示例值: {"sku_stocks":\[{"outer_sku_id":"393992","stock_num":10},{"outer_sku_id":"393993","stock_num":12}]} |
 
 #### 响应参数格式
 
