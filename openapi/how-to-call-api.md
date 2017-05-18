@@ -98,8 +98,9 @@ timestamp: 2017-01-01 12:00:00
 nonce_str: 3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28
 auth_code: UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0
 biz_content: {"sku_stocks": [{"outer_sku_id":"393992","stock_num":10},{"outer_sku_id":"393993","stock_num":12}]}
-1: stringA <br/>app_id=zWYVVFagTfenOHDPTm&auth_code=UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0&biz_content={"sku_stocks": [{"outer_sku_id":"393992","stock_num":10},{"outer_sku_id":"393993","stock_num":12}]}&method=ymatou.skus.stock.update&nonce_str=3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28&sign_method=MD5&timestamp=2017-01-01 12:00:00
-<br/><br/>
+1: stringA 
+app_id=zWYVVFagTfenOHDPTm&auth_code=UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0&biz_content={"sku_stocks": [{"outer_sku_id":"393992","stock_num":10},{"outer_sku_id":"393993","stock_num":12}]}&method=ymatou.skus.stock.update&nonce_str=3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28&sign_method=MD5&timestamp=2017-01-01 12:00:00
+
 2: stringSignTemp = stringA + "&app_secret=" + app_secret
 app_id=zWYVVFagTfenOHDPTm&auth_code=UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0&biz_content={"sku_stocks": [{"outer_sku_id":"393992","stock_num":10},{"outer_sku_id":"393993","stock_num":12}]}&method=ymatou.skus.stock.update&nonce_str=3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28&sign_method=MD5&timestamp=2017-01-01 12:00:00&app_secret=cvxEvN7q2ixmN6Y8DFRJmuP79H2zxctK
 
