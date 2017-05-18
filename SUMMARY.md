@@ -87,7 +87,7 @@
     * [商品发布违规说明](product-management/product-book/casing/irregularity.md)
   * [更新快](product-management/product-book/update.md)
     * [定期上新](product-management/product-book/update/renewed.md)
-    * [knock out](product-management/product-book/update/knock-out.md)
+    * [淘汰滞销商品](product-management/product-book/update/knock-out.md)
 
 ## 订单管理
 
