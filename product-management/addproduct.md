@@ -2,19 +2,19 @@
 
 ---
 
-##### 1.品类如何选择？
+##### 1.选择品类
 
 ![](/product-management/images/gljq10.png)
 
 ![](/product-management/images/gljq12.png)
 
-##### 2.品牌如何选择？
+##### 2.选择品牌
 
 ![](/product-management/images/bzj1.png)
 
 ![](/product-management/images/bzj2.png)
 
-##### 3.商品名称如何填写？
+##### 3.商品名称
 
 商品名称发布要求:至少包含品牌名+产品名+相关关键词+规格
 
@@ -38,7 +38,7 @@ Coach专柜新款全皮黑色中号时尚气质杀手包
 
 ![](/product-management/images/bzj3.jpg "https://csgear.gitbooks.io/sellerbook2017/content/product-management/images/spmc\_1.jpg")
 
-##### 4.商品主图如何发布？
+##### 4.商品主图
 
 ![](/product-management/images/bzj5.jpg)
 
@@ -48,19 +48,21 @@ Coach专柜新款全皮黑色中号时尚气质杀手包
 
 ![](/product-management/images/bzj6.jpg)
 
-##### 5.商品描述如何发布？
+##### 5.商品描述
 
 ![](/product-management/images/bzj7.jpg)
 
-包装信息细节图
-
-
+**包装信息细节图**
 
 ![](/product-management/images/bzj8.jpg.png)
 
+**展现位置：**
 
+![](/product-management/images/spms_1.jpg)
 
-##### 6.商品属性如何填写？
+![](/product-management/images/spms_2.jpg)
+
+##### 6.商品属性
 
 商品属性作为搜索关键词和搜索结果页面筛选项，准确且完整的属性信息可以帮助您的商品大幅提升曝光和流量。
 
@@ -84,7 +86,7 @@ Coach专柜新款全皮黑色中号时尚气质杀手包
 
 ![](/product-management/images/bzj12.png)
 
-##### 7.尺码表模板信息如何填写？
+##### 7.尺码表模板信息
 
 由于不同品牌的服装、鞋子等商品可能有同样的尺码表，因此将不同品类不同品牌通用的尺码表维护在尺码表模板中，再应用于对应的商品可以大幅提升商品发布效率，及尺码表在买家版展示的规范性。
 
@@ -102,7 +104,7 @@ Coach专柜新款全皮黑色中号时尚气质杀手包
 
 ![](/product-management/images/bzj15.jpg)
 
-##### 8.买家须知模板信息如何填写？
+##### 8.买家须知模板信息
 
 买家在购买过程中需要注意的事项，如：优惠政策，邮税说明，商品免责等信息，可维护在买家须知模板中，并关联全部商品。
 
@@ -112,7 +114,7 @@ Coach专柜新款全皮黑色中号时尚气质杀手包
 
 ![](/product-management/images/bzj17.png)
 
-##### 9.买手介绍模板信息如何填写？
+##### 9.买手介绍模板信息
 
 与买手服务相关的信息，如：买手个人介绍、公司介绍、品牌授权介绍、能提供给买家的仓储物流或其他特色优势服务介绍等。
 
