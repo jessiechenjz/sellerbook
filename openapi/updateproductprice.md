@@ -23,13 +23,28 @@
 | product_newuser_price |BigDecimal |  否|  |  商品新客价，小数点后最多2位，必须大于等于0（0代表新客价）|
 
 
-### 返回参数
+#### 返回参数
 
-* 返回类型 
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
-| code | String | 0 | 返回代码 |
-| message | String | 更新价格成功 | 接口调用返回信息 |
+| code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
+| message | String | 更新库存成功 | 接口调用返回信息 |
+| content | JSON Object |  | 更新结果明细. BizResult的JSON报文体 |
 
-### 错误信息描述
+* 数据类型(BizResult）
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| results | SkuResult[] |  | 更新明细列表 |
+
+* 数据类型（SkuResult）
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| success | Boolean | true | 是否更新成功 |
+| msg | String | 更新成功 | 更新结果描述 |
+| outer_sku_id | String | 393992 | SkuId |
+
+### 业务响应码描述
+无
