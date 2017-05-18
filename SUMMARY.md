@@ -84,7 +84,7 @@
     * [使用自动延期功能](product-management/product-book/locating/postpone.md)
   * [包装精](product-management/product-book/casing.md)
     * [商品发布技巧](product-management/product-book/casing/publsih.md)
-    * irregularity
+    * [irregularity](product-management/product-book/casing/irregularity.md)
   * [update](product-management/product-book/update.md)
     * renewed
     * knock out
