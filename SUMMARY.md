@@ -85,7 +85,7 @@
   * [包装精](product-management/product-book/casing.md)
     * [商品发布技巧说明](product-management/product-book/casing/publsih.md)
     * [商品发布违规说明](product-management/product-book/casing/irregularity.md)
-  * [update](product-management/product-book/update.md)
+  * [更新快](product-management/product-book/update.md)
     * renewed
     * knock out
 
