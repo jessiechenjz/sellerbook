@@ -29,7 +29,7 @@
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
-| deliver_result | DeliverResult[] |  | 发货结果 |
+| results | results[] |  | 发货结果 |
 | order_id | long | 0 | 订单号 |
 | exec_success | boolean | true | 是否执行成功 |
 | msg | string |  | 处理信息 |
