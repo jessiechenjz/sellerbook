@@ -30,6 +30,7 @@
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
 | order_id | long | 0 | 订单号 |
-| result | boolean | true | 是否处理成功 |
+| error_code | int | 0 | 0-表示处理成功 非0表示处理失败 |
+| error_msg | string |  | 处理失败信息 |
 
 ### 错误信息描述
