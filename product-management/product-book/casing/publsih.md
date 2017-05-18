@@ -4,15 +4,15 @@
 
 ##### 1.品类如何选择？
 
-![](商品管理.fld/image022.png)
+![](/product-management/images/gljq10.png)
 
-![](商品管理.fld/image024.png)
+![](/product-management/images/gljq12.png)
 
 ##### 2.品牌如何选择？
 
-![](商品管理.fld/image026.png)
+![](/product-management/images/bzj1.png)
 
-![](商品管理.fld/image027.png)
+![](/product-management/images/bzj2.png)
 
 ##### 3.商品名称如何填写？
 
@@ -36,23 +36,29 @@
 **举例：**MK秋季新款千鸟格条纹时尚无袖黑色连衣裙  
 Coach专柜新款全皮黑色中号时尚气质杀手包
 
-![](商品管理.fld/image029.png "https://csgear.gitbooks.io/sellerbook2017/content/product-management/images/spmc\_1.jpg")
+![](/product-management/images/bzj3.jpg "https://csgear.gitbooks.io/sellerbook2017/content/product-management/images/spmc\_1.jpg")
 
 ##### 4.商品主图如何发布？
 
-![](商品管理.fld/image031.png)
+![](/product-management/images/bzj5.jpg)
 
 注：买家须知，买手介绍与商品无关与买手和购买说明相关的信息请使用模板，避免出现在商品主图中。
 
 举例：
 
-![](商品管理.fld/image033.png)
+![](/product-management/images/bzj6.jpg)
 
 ##### 5.商品描述如何发布？
 
-![](商品管理.fld/image035.png)
+![](/product-management/images/bzj7.jpg)
 
-包装信息细节图![](商品管理.fld/image037.png)
+包装信息细节图
+
+
+
+![](/product-management/images/bzj8.jpg.png)
+
+
 
 ##### 6.商品属性如何填写？
 
@@ -64,25 +70,25 @@ Coach专柜新款全皮黑色中号时尚气质杀手包
 
 1）发布商品，STEP1，选择品类，点击对应的底级品类后，会出现商品模板，选中模板后则商品模板对应的属性将会应用在您发布的商品上。
 
-![](商品管理.fld/image039.png)
+![](/product-management/images/bzj9.jpg)
 
 2）发布商品，STEP2，在属性管理区域，可以关联商品模板。
 
-![](商品管理.fld/image041.png)
+![](/product-management/images/bzj10.jpg)
 
 点击关联商品模板后，可检索商品模板进行关联操作。
 
-![](商品管理.fld/image043.png)
+![](/product-management/images/bzj11.png)
 
 方式二：您可以直接在商品属性管理模块，为每个商品设置属性值。
 
-![](商品管理.fld/image045.png)
+![](/product-management/images/bzj12.png)
 
 ##### 7.尺码表模板信息如何填写？
 
 由于不同品牌的服装、鞋子等商品可能有同样的尺码表，因此将不同品类不同品牌通用的尺码表维护在尺码表模板中，再应用于对应的商品可以大幅提升商品发布效率，及尺码表在买家版展示的规范性。
 
-![](商品管理.fld/image047.png)
+![](/product-management/images/bzj13.png)
 
 尺码表发布入口：商品发布
 
@@ -90,27 +96,27 @@ Coach专柜新款全皮黑色中号时尚气质杀手包
 
 发布商品时，如没有适合的尺码表模板，可以创建后关联，如下图点击新建模板
 
-![](商品管理.fld/image049.png)
+![](/product-management/images/bzj14.jpg)
 
 填写尺码表名称，上传尺码表图片
 
-![](商品管理.fld/image051.png)
+![](/product-management/images/bzj15.jpg)
 
 ##### 8.买家须知模板信息如何填写？
 
 买家在购买过程中需要注意的事项，如：优惠政策，邮税说明，商品免责等信息，可维护在买家须知模板中，并关联全部商品。
 
-![](商品管理.fld/image053.png)
+![](/product-management/images/bzj16.png)
 
 入口：商品发布
 
-![](商品管理.fld/image055.png)
+![](/product-management/images/bzj17.png)
 
 ##### 9.买手介绍模板信息如何填写？
 
 与买手服务相关的信息，如：买手个人介绍、公司介绍、品牌授权介绍、能提供给买家的仓储物流或其他特色优势服务介绍等。
 
-![](商品管理.fld/image057.png)
+![](/product-management/images/bzj18.jpg)
 
-![](商品管理.fld/image059.png)
+![](/product-management/images/bzj19.jpg)
 
