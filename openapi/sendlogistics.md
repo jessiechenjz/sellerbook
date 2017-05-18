@@ -18,10 +18,10 @@
 | 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
 | deliver_orders |DeliverOrder[]  | | | 待发货的订单物流信息 |
-| order\_id | long | 是 | 1729299393 | 待发货的订单编号 |
-| logistics\_company\_id | String | 是 | 001 | 平台物流公司标识 |
-| tracking\_number | String | 是 | 10010993S | 物流面单号 |
-| domestic\_delivery | boolean | 是 | true | 是否国内段发货 |
+| order_id | long | 是 | 1729299393 | 待发货的订单编号 |
+| logistics_company\_id | String | 是 | 001 | 平台物流公司标识 |
+| tracking_number | String | 是 | 10010993S | 物流面单号 |
+| is_domestic_delivery | boolean | 是 | true | 是否国内段发货 |
 
 ### 返回参数
 
