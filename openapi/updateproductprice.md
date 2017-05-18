@@ -11,7 +11,7 @@
 
 | 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| sku\_prices |SkuPrice[]  |  |  |  <sku, price>列表|
+| sku\_prices |SkuPrice[]  |  |  |  待更新sku及其价格列表|
 
 * 数据类型（SkuPrice）
 
