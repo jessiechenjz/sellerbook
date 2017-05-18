@@ -81,7 +81,7 @@
   * [定位准](product-management/product-book/locating.md)
     * [合理选择发布FBX或普通商品](product-management/product-book/locating/reasonable.md)
     * [合理选择发布预订、现货商品](product-management/product-book/locating/reserve-and-cash.md)
-    * [postpone](product-management/product-book/locating/postpone.md)
+    * [使用自动延期功能](product-management/product-book/locating/postpone.md)
   * [casing](product-management/product-book/casing.md)
     * publsih
     * irregularity
