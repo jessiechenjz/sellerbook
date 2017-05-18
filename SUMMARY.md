@@ -80,7 +80,9 @@
 * [商品管理技巧和规则](product-management/product-book.md)
   * [locating](product-management/product-book/locating.md)
     * reasonable
-  * casing
+    * reserve and cash
+    * postpone
+  * [casing](product-management/product-book/casing.md)
   * update
 
 ## 订单管理
