@@ -80,7 +80,7 @@
 * [商品管理技巧和规则](product-management/product-book.md)
   * [定位准](product-management/product-book/locating.md)
     * [选择发布FBX或普通商品](product-management/product-book/locating/reasonable.md)
-    * [选择发布预订、现货商品](product-management/product-book/locating/reserve-and-cash.md)
+    * [选择发布预订或现货商品](product-management/product-book/locating/reserve-and-cash.md)
     * [使用自动延期功能](product-management/product-book/locating/postpone.md)
   * [包装精](product-management/product-book/casing.md)
     * [商品发布技巧说明](product-management/product-book/casing/publsih.md)
