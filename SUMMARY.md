@@ -73,7 +73,6 @@
 * [预订商品](product-management/pre-sale-product.md)
 * [商品发布说明](product-management/product-explained.md)
   * [品牌品类](product-management/product-explained/brand-and-category.md)
-  * [商品主图](product-management/product-explained/shang-pin-zhu-tu.md)
   * [商品描述](product-management/product-explained/product-description.md)
 * [商品发布FAQ](product-management/product-faqs.md)
 * [商品管理技巧和规则](product-management/product-book.md)
