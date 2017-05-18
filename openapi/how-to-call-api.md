@@ -104,5 +104,5 @@ biz_content: {"sku_stocks": [{"outer_sku_id":"393992","stock_num":10},{"outer_sk
 app_id=zWYVVFagTfenOHDPTm&auth_code=UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0&biz_content={"sku_stocks": [{"outer_sku_id":"393992","stock_num":10},{"outer_sku_id":"393993","stock_num":12}]}&method=ymatou.skus.stock.update&nonce_str=3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28&sign_method=MD5&timestamp=2017-01-01 12:00:00&app_secret=cvxEvN7q2ixmN6Y8DFRJmuP79H2zxctK
 
 3: sign = MD5(stringSignTemp).toUpperCase()
-加密后生成的sign：AC153D8C7F8D0EFEB1BA55177DEA2031
+加密后生成的sign：AC153D8C7F8D0EFEB1BA55177DEA2031 
 ```
