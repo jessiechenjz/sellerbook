@@ -15,7 +15,7 @@
 
 | 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| sku\_stocks |SkuStock[] | 是 |  |待更新的<SKU，库存>列表 |
+| sku\_stocks |SkuStock[] | 是 |  |待更新的Sku及其库存列表 |
 
 
 * 数据类型（SkuStock）
