@@ -29,6 +29,7 @@
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
+| deliver_result | DeliverResult[] |  | 发货结果 |
 | order_id | long | 0 | 订单号 |
 | error_code | int | 0 | 0-表示处理成功 非0表示处理失败 |
 | error_msg | string |  | 处理失败信息 |
