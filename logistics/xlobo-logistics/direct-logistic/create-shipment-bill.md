@@ -4,7 +4,7 @@
 
 * 直邮快件，由客户创建运单，打包贴好运单，然后安排将包裹寄送或托运至贝海货站。 贝海签收包裹后，安排空运至中国进行清关配送。整个寄送做单流程如下:
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_1.jpg)
+  ![](/logistics/images/cjjsyd_1.jpg)
 
 * 登陆贝海，选择“国际直邮服务”, 提供2种做单方式：
 
@@ -18,18 +18,18 @@
 
   选择线路（默认优选速递）
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_1.png)
+  ![](/logistics/images/cjjsyd_1.png)
 
   选择货站  
   先选择国家再选择接收包裹的货站
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_2.png)
+  ![](/logistics/images/cjjsyd_2.png)
 
   填写收发信息  
   确保收件人信息准确，避免国内无法投递或无法联系收件人  
   发件人信息默认和注册资料一致，无需填写。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_3.png)
+  ![](/logistics/images/cjjsyd_3.png)
 
   填写包裹信息  
   1.商品分类：选择商品的一级和二级类目；若分类里找不到对应，则选择相近的，在规格描述里说明；  
@@ -39,14 +39,14 @@
   5. 填写预估重量，系统按此先算初始运费  
   6. 保险自愿购买
 
-![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_4.png)
+![](/logistics/images/cjjsyd_4.png)
 
 填写其他信息  
   1.渠道&订单号：支持选择洋码头、苏宁、京东、一号店等；  
   2.收件人缴税：勾选则一旦出税会短信提醒收件人，不选则无短信；  
   3.若购买保险，应投保要求，渠道和订单号必填。
 
-![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_5.png)
+![](/logistics/images/cjjsyd_5.png)
 
 **1.2 面单信息填写好，点击确认进入下一步：**
 
@@ -64,7 +64,7 @@
 系统匹配到身份证后，发件人才可以打印面单。  
   原因：个人小包裹清关，海关申报要求提供收件人身份证资料，否则将无法清关入境。
 
-![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_4.jpg)
+![](/logistics/images/cjjsyd_4.jpg)
 
 * 
 * 第二部分•批量生成面单
@@ -76,7 +76,7 @@
   默认“优先速递”  
   先选择国家，再选择接收包裹的货站
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_6.png)
+  ![](/logistics/images/cjjsyd_6.png)
 
   **2.2 下载模板，填写运单信息。**
 
@@ -92,7 +92,7 @@
 
   模板预览如下：
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_6.jpg)
+  ![](/logistics/images/cjjsyd_6.jpg)
 
   模板重要字段说明
 
@@ -112,15 +112,15 @@
 
   **2.3 模板上传后，点“上传，下一步”，确认无误后“确认付款，生成面单”**
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_7.jpg)
+  ![](/logistics/images/cjjsyd_7.jpg)
 
   **2.4 确认后，系统开始处理，显示“提交完成，系统处理中”**
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_8.jpg)
+  ![](/logistics/images/cjjsyd_8.jpg)
 
   **2.5 点击“批次处理记录”，下载“失败/成功的信息清单”及“查看生成详情”**
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_9.jpg)
+  ![](/logistics/images/cjjsyd_9.jpg)
 
 * 
 * 第三部分•面单管理
@@ -139,7 +139,7 @@
 
   全部寄送面单       记录所有物流单号
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_10.jpg)
+  ![](/logistics/images/cjjsyd_10.jpg)
 
   **3.2 运单信息修改/删除**
 
@@ -155,7 +155,7 @@
 
   4. 申报信息需改动，需发货前联系贝海客服，修改后再打印新面单。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/cjjsyd_11.png)
+  ![](/logistics/images/cjjsyd_11.png)
 
 
 
