@@ -79,7 +79,7 @@
 * [商品发布FAQ](product-management/product-faqs.md)
 * [商品管理技巧和规则](product-management/product-book.md)
   * [locating](product-management/product-book/locating.md)
-    * reasonable
+    * [合理选择发布FBX或普通商品](product-management/product-book/locating/reasonable.md)
     * reserve and cash
     * postpone
   * [casing](product-management/product-book/casing.md)
