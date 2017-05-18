@@ -52,7 +52,6 @@ POST报文体是如下请求参数组成的JSON报文
 * header: Content-Type:application\/json
 
 * body:
-
 > {
 > "sign\_method":"MD5",
 > "auth\_code":"VlERCP4fZzHzqK7vnr8weOYqepkXriKL",
@@ -74,6 +73,7 @@ POST报文体是如下请求参数组成的JSON报文
 ##### 签名生成的通用步骤如下
 
 * 第一步，设所有发送的数据为集合M，将集合M内非空参数值的参数按照参数名ASCII码从小到大排序（字典序），使用URL查询参数键值对的格式（即key1=value1&key2=value2…）拼接成字符串stringA。
+
 特别注意以下重要规则
 1. 参数名ASCII码从小到大排序（字典序）；
 2. 如果参数的值为空不参与签名；
@@ -106,6 +106,6 @@ app_id=zWYVVFagTfenOHDPTm&auth_code=UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0&biz_content
 app_id=zWYVVFagTfenOHDPTm&auth_code=UkeV6CUfk8OKKv1UkjEmfBDU75ZjunA0&biz_content={"sku_stocks": [{"outer_sku_id":"393992","stock_num":10},{"outer_sku_id":"393993","stock_num":12}]}&method=ymatou.skus.stock.update&nonce_str=3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28&sign_method=MD5&timestamp=2017-01-01 12:00:00&app_secret=cvxEvN7q2ixmN6Y8DFRJmuP79H2zxctK
 
 3: sign = MD5(stringSignTemp).toUpperCase()
-加密后生成的sign：AC153D8C7F8D0EFEB1BA55177DEA2031
+加密后生成的sign：D0150B4E113418805A6F852E7D009624
 
 ```
