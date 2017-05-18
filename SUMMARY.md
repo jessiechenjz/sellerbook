@@ -85,7 +85,9 @@
   * [casing](product-management/product-book/casing.md)
     * publsih
     * irregularity
-  * update
+  * [update](product-management/product-book/update.md)
+    * renewed
+    * knock out
 
 ## 订单管理
 
