@@ -78,16 +78,16 @@
   * [商品描述](product-management/product-explained/product-description.md)
 * [商品发布FAQ](product-management/product-faqs.md)
 * [商品管理技巧和规则](product-management/product-book.md)
-  * [locating](product-management/product-book/locating.md)
-    * [合理选择发布FBX或普通商品](product-management/product-book/locating/reasonable.md)
-    * reserve and cash
-    * postpone
-  * [casing](product-management/product-book/casing.md)
-    * publsih
-    * irregularity
-  * [update](product-management/product-book/update.md)
-    * renewed
-    * knock out
+  * [定位准](product-management/product-book/locating.md)
+    * [选择发布FBX或普通商品](product-management/product-book/locating/reasonable.md)
+    * [选择发布预订、现货商品](product-management/product-book/locating/reserve-and-cash.md)
+    * [使用自动延期功能](product-management/product-book/locating/postpone.md)
+  * [包装精](product-management/product-book/casing.md)
+    * [商品发布技巧说明](product-management/product-book/casing/publsih.md)
+    * [商品发布违规说明](product-management/product-book/casing/irregularity.md)
+  * [更新快](product-management/product-book/update.md)
+    * [定期上新](product-management/product-book/update/renewed.md)
+    * [淘汰滞销商品](product-management/product-book/update/knock-out.md)
 
 ## 订单管理
 
