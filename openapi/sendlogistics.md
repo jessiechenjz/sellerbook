@@ -31,7 +31,7 @@
 | :--- | :--- | :--- | :--- |
 | deliver_result | DeliverResult[] |  | 发货结果 |
 | order_id | long | 0 | 订单号 |
-| error_code | int | 0 | 0-表示处理成功 非0表示处理失败 |
-| error_msg | string |  | 处理失败信息 |
+| exec_success | boolean | true | 是否执行成功 |
+| msg | string |  | 处理信息 |
 
 ### 错误信息描述
