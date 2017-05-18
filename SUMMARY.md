@@ -71,7 +71,7 @@
 * [普通商品](product-management/addproduct.md)
 * [贝海保税商品](product-management/publish-fbx-product.md)
 * [预订商品](product-management/pre-sale-product.md)
-* [new listing](product-management/new-listing.md)
+* [优化在架商品](product-management/new-listing.md)
 * [商品发布FAQ](product-management/product-faqs.md)
 
 ## 订单管理
