@@ -79,6 +79,7 @@
 * [商品发布FAQ](product-management/product-faqs.md)
 * [商品管理技巧和规则](product-management/product-book.md)
   * [locating](product-management/product-book/locating.md)
+    * reasonable
   * casing
   * update
 
