@@ -21,13 +21,13 @@
 | :--- | :--- | :--- | :--- |
 | code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
 | message | String | 更新库存成功 | 接口调用返回信息 |
-| content | JSON Object |  | 结果明细. |
+| content | JSON Object |  | BizResult的JSON报文体 |
 
 * 数据类型(BizResult）
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
-| logistics_companies | LogisticsCompany[] |  | 更新明细列表 |
+| logistics_companies | LogisticsCompany[] |  | 物流公司列表 |
 
 * 数据类型（LogisticsCompany）
 
