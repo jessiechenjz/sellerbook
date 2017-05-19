@@ -56,8 +56,6 @@
 
 # 1.6直播名称发布技巧
 
-
-
 ![](直播发布规则和发布技巧.fld/image018.png)
 
 # 1.7直播简介发布技巧
@@ -66,7 +64,7 @@
 
 # 1.8直播视频发布技巧
 
-![](直播发布规则和发布技巧.fld/image022.png)
+![](/liveshow-management/images/boutique_show_6.png)
 
 # 1.9直播封面发布技巧
 
