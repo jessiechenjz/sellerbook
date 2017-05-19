@@ -17,13 +17,22 @@
 
 ### 返回参数
 
-* 返回类型 （**LogisticsCompany**）
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
+| message | String | 更新库存成功 | 接口调用返回信息 |
+| content | JSON Object |  | 结果明细. BizResult的JSON报文体 |
+
+* 数据类型(BizResult）
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
-| logistics\_companies[] |  |  |  |
-| company\_code | String | A003 | 物流公司平台代码 |
-| short\_name | String | shunfeng | 物流公司简称 |
-| company\_name | String | 顺丰速递 | 物流公司名称 |
+| results | logistics_companies[] |  | 更新明细列表 |
 
-### 错误信息描述
+* 数据类型（SkuResult）
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| company_code | String | A003 | 物流公司平台代码 |
+| short_name | String | shunfeng | 物流公司简称 |
+| company_name | String | 顺丰速递 | 物流公司名称 |
