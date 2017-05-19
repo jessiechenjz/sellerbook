@@ -16,7 +16,7 @@
 
 | 名称 | 类型 | 是否必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| order\_id | String | 是 | 17392939 | 订单编号 |
+| order\_id | Long | 是 | 17392939 | 订单编号 |
 
 ### 返回参数
 
@@ -33,7 +33,7 @@
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
 | seller\_id | String | 洋妈咪甄选 | 买手名称 |
-| order\_id | String | 121736528 | 订单编号 |
+| order\_id | Long | 121736528 | 订单编号 |
 | trade\_id | String | 232654104 | 主单号，合并支付产生的id |
 | order\_status | Integer | 4 | 1 未付款:ORDER_ESTABLISH, <br> 2 已付款待接单:ACCOUNT_PAID <br> 3 已发货:SHIPPED <br> 4 确认收货:RECEIVED <br> 12 买家取消订单:USER_ACCEPT_CANCEL <br> 13 卖家取消订单:SELLER_ACCEPT_CANCEL <br> 14 系统自动取消:SYSTEM_CANCEL <br> 17 已接单:SELLER_ACCEPT |
 | amount | Decimal | 200.00 | 订单金额 |
@@ -64,7 +64,7 @@
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
-| order\_id | String |  | 订单号 |
+| order\_id | Long |  | 订单号 |
 | order\_item\_id | String |  | 子订单编号 |
 | refund\_id | String |  | 退货退款单ID |
 | refund\_status | Integer | 1 | 退货退款状态 -1审核拒绝, 0:退款审核中, 1:退款审核成功 |
@@ -84,8 +84,3 @@
 | m\_adjust\_discount | Decimal | -5.00 | 买手调整分摊金额 |
 
 ### 错误信息描述
-
-
-
-
-
