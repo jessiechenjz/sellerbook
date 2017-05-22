@@ -28,11 +28,13 @@
   * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
   * [查看往期内容](recruitment/ymatoumeat.md)
 
-* 视频教程
+###
 
-  * [新买手视频](seller-training-course/new-seller-training-videos.md)
-  * [2017年课程](seller-training-course/courselist-2017.md)
-  * [2016年课程](seller-training-course/courselist-2016.md)
+| 视频教程 |  |
+| :--- | :--- |
+| [新买手视频](seller-training-course/new-seller-training-videos.md)| |
+| | |
+|[2017年课程](seller-training-course/courselist-2017.md) | [2016年课程](seller-training-course/courselist-2016.md) |
 
 ## 业务功能介绍
 
