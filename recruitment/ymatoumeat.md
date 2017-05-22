@@ -1,6 +1,8 @@
 ### 码头大哥话跨境
 ---
 
+![](/recruitment/images/ymatoumeat1-header.jpg)
+
 * [01－跨境税改](recruitment/ymatoumeat/ymatoumeat1.md)
 * [02－税改调整方案沟通](recruitment/ymatoumeat/ymatoumeat2.md)
 * [03－码头新规解读和服务支持](recruitment/ymatoumeat/ymatoumeat3.md)

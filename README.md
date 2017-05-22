@@ -1,4 +1,5 @@
 # 码头买手学院
+---
 
 ### 介绍洋码头
 
@@ -15,34 +16,25 @@
 * [买手入驻](recruitment/apply-to-seller.md)
 * [年审流程](recruitment/yearly-review.md)
 
-## 买手培训
+### 买手培训
 
 * [新手入门](recruitment/newsellercourse.md)
   * [快速入门](recruitment/newsellercourse/kuai-su-ru-men.md)
   * [快速入门FAQ](recruitment/newsellercourse/kuai-su-ru-men-faq.md)
   
-* [码头大哥话跨境](recruitment/ymatoumeat.md)
+* 码头大哥话跨境
   * [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
   * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
-* [视频教程](recruitment/shi-pin-jiao-cheng.md)
+  * [查看往期内容](recruitment/ymatoumeat.md)
+
+* 视频教程
   * [新买手视频](seller-training-course/new-seller-training-videos.md)
   * [2017年课程](seller-training-course/courselist-2017.md)
   * [2016年课程](seller-training-course/courselist-2016.md)
 
-## 平台规则
+## 业务功能介绍
 
-* [平台规范](platform-rules/service-standards.md)
-  * [退货规则](platform-rules/service-standards/return-policy.md)
-  * [隐私权规则](platform-rules/service-standards/privacy-policy.md)
-  * [平台服务协议](platform-rules/service-standards/service-rules.md)
-  * [买手处罚规则](platform-rules/punishment.md)
-  * [买手交易行为规范细则](platform-rules/trading-activies.md)
-  * [争议处理规则](platform-rules/agreement.md)
-  * [物流规范及处罚细则](platform-rules/logistics-rules.md)
-* [奖惩机制](platform-rules/jiang-cheng-ji-zhi.md)
-  * [处罚规则](platform-rules/jiang-cheng-ji-zhi/chu-fa-gui-ze.md)
-
-## 买手业务后台
+### 买手业务后台
 
 * [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
@@ -54,7 +46,7 @@
   * [子账号设置](seller-platform/user-settings/subset-count.md)
 * [常见问题](seller-platform/system-function-faq.md)
 
-## 商品管理
+### 商品管理
 
 * [普通商品](product-management/addproduct.md)
 * [贝海保税商品](product-management/publish-fbx-product.md)
@@ -62,7 +54,7 @@
 * [优化在架商品](product-management/new-listing.md)
 * [商品发布FAQ](product-management/product-faqs.md)
 
-## 订单管理
+### 订单管理
 
 * [订单查询](order-management/order-list.md)
 * [订单评价](order-management/orderrating.md)
@@ -70,12 +62,12 @@
 * [退货退款](order-management/order-refund.md)
 * [订单发布FAQ](order-management/order-faqs.md)
 
-## 直播管理
+### 直播管理
 
 * [直播发布](liveshow-management/addliveshow.md)
 * [精品直播](liveshow-management/fine-live-show.md)
 
-## 资金管理
+### 资金管理
 
 * [资金提现](fund-management/withdrawmoneymd.md)
 * [交易服务费说明](fund-management/transactionfee.md)
@@ -83,25 +75,25 @@
 * [结算增值服务说明](fund-management/value-add-services.md)
 * [资金管理FAQ](fund-management/fund-faq.md)
 
-## 码头优选计划
+#### 码头优选计划
 
 * [优选业务介绍](pspseller/pspintro.md)
 * [优选业务功能](pspseller/preferred-intro.md)
 * [码头优选FAQ](pspseller/preferred-faq.md)
 
-## 码头精准营销
+### 码头精准营销
 
 * [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
 * [精准营销计费说明](precision-marketing/commission-setting.md)
 
-## 买手促销
+### 买手促销
 
 * [买手优惠券](seller-promotions/seller-coupons.md)
 * [满减促销](seller-promotions/promotion-2.md)
 * [活动报名](seller-promotions/campaign-apply.md)
 * [常见问题](seller-promotions/marketing-faq.md)
 
-## 买手APP
+### 买手APP
 
 * [工作台介绍](sellerapp/dashboard.md)
 * [创建直播](sellerapp/liveshow.md)
@@ -114,7 +106,7 @@
 * [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
 
-## OPEN API
+### OPEN API
 
 * [服务说明](openapi/README.md)
 * [接口列表](openapi/apilists.md)
@@ -133,7 +125,7 @@
   * [获取申报分类](openapi/xlobogetcatelogue.md)
 * [常见问题](openapi/faq.md)
 
-## 贝海物流
+### 贝海物流
 
 * [贝海物流操作](logistics/xlobo-logistics.md)
   * [贝海直邮](logistics/xlobo-logistics/direct-logistic.md)
@@ -147,6 +139,22 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
+
+
+## 业务功能介绍
+
+### 平台规则
+
+* [平台规范](platform-rules/service-standards.md)
+  * [退货规则](platform-rules/service-standards/return-policy.md)
+  * [隐私权规则](platform-rules/service-standards/privacy-policy.md)
+  * [平台服务协议](platform-rules/service-standards/service-rules.md)
+  * [买手处罚规则](platform-rules/punishment.md)
+  * [买手交易行为规范细则](platform-rules/trading-activies.md)
+  * [争议处理规则](platform-rules/agreement.md)
+  * [物流规范及处罚细则](platform-rules/logistics-rules.md)
+* [奖惩机制](platform-rules/jiang-cheng-ji-zhi.md)
+  * [处罚规则](platform-rules/jiang-cheng-ji-zhi/chu-fa-gui-ze.md)
 
 
 
