@@ -86,17 +86,20 @@
 * [优选业务功能](pspseller/preferred-intro.md)
 * [码头优选FAQ](pspseller/preferred-faq.md)
 
-### 码头精准营销
+### 
 
-* [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
-* [精准营销计费说明](precision-marketing/commission-setting.md)
+| 码头精准营销 |  |
+| :--- | :--- |
+| [精准营销业务介绍](precision-marketing/precision-markting-intro.md) | [精准营销计费说明](precision-marketing/commission-setting.md) |
 
-### 买手促销
+### 
 
-* [买手优惠券](seller-promotions/seller-coupons.md)
-* [满减促销](seller-promotions/promotion-2.md)
-* [活动报名](seller-promotions/campaign-apply.md)
-* [常见问题](seller-promotions/marketing-faq.md)
+| 买手促销 |  |
+| :--- | :--- |
+|[买手优惠券](seller-promotions/seller-coupons.md)| [满减促销](seller-promotions/promotion-2.md) |
+|[活动报名](seller-promotions/campaign-apply.md) | [常见问题](seller-promotions/marketing-faq.md)|
+
+
 
 ### 买手APP
 
