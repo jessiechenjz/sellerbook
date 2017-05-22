@@ -36,17 +36,17 @@
 
 ## 业务功能介绍
 
-### 买手业务后台
+### 
 
-* [首页指南](seller-platform/main-page.md)
-* [数据罗盘](seller-platform/data-compass.md)
-* [DSR业务](seller-platform/dsr.md)
-  * [DSR运营指标解读](seller-platform/dsr-explaination.md)
-* [买手客服工作台](seller-platform/user-settings/platform.md)
-* [系统设置](seller-platform/user-settings.md)
-  * [修改个人信息](seller-platform/user-settings/change-seller-info.md)
-  * [子账号设置](seller-platform/user-settings/subset-count.md)
-* [常见问题](seller-platform/system-function-faq.md)
+| 业务后台 |  |
+| :--- | :--- |
+| [首页指南](seller-platform/main-page.md)| |
+| [数据罗盘](seller-platform/data-compass.md) | |
+| [DSR业务](seller-platform/dsr.md) | [DSR运营指标解读](seller-platform/dsr-explaination.md) |
+|[买手客服工作台](seller-platform/user-settings/platform.md)||
+|[系统设置](seller-platform/user-settings.md)||
+| [修改个人信息](seller-platform/user-settings/change-seller-info.md) | [子账号设置](seller-platform/user-settings/subset-count.md) |
+| [常见问题](seller-platform/system-function-faq.md)||
 
 ### 
 
