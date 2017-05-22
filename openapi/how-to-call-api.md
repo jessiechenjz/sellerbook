@@ -4,10 +4,10 @@
 
 #### 调用URL(POST)
 
-[https://open.ymatou.com/api/v1?app_id={appId}&method={method}](https://open.ymatou.com/api/v1app_id={appId}&method={method})
+[https://open.ymatou.com/api/v1?app_id={app_id}&method={method}](https://open.ymatou.com/api/v1?app_id={app_id}&method={method})
 
 其中:<br/>
-* {appId}：洋码头分配的应用appId。示例值: zWYVVFagTfenOHDPTm
+* {app_id}：洋码头分配的应用appId。示例值: zWYVVFagTfenOHDPTm
 * {method}：api名称。此参数在url上替换{method}。示例值: ymatou.sku.stock.update
 
 POST报文体是如下请求参数组成的JSON报文
