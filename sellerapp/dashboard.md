@@ -10,11 +10,11 @@
 
   今日销售量：今天0点到当前位置（北京时间）生成且已完成支付的订单数。支付后取消的订单不计算在内。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/gztjs_1.jpg)
+  ![](/sellerapp/images/gztjs_1.jpg)
 
   2、重要功能的入口（发布直播、商品管理、写笔记、优惠券管理、商学院），“商品管理功能”，可以输入商品名称或介绍的关键字进行搜索，也可以给商品排序，按照品牌、品类的维度搜索商品，以及“更多筛选”功能。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/gztjs_2.jpg)
+  ![](/sellerapp/images/gztjs_2.jpg)
 
 
 

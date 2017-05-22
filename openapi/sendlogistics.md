@@ -1,43 +1,46 @@
-### 获取平台物流公司列表 （ymatou.logistics.send）
+### 订单发货 （ymatou.order.deliver）
 
 ---
 
 ### 接口描述
 
-* 获取平台支持的物流公司，用于发货接口，可按国家维度查询
+* 订单发货(录入物流单号进行发货处理)
 
-### 系统参数
+#### 业务参数
 
-* 接口调用参数
 
-| 名称 | 类型 | 是否必须 | 描述 |
-| :--- | :--- | :--- | :--- |
-| method | String | 是 | API名称 |
-| app\_key | String | 是 | 洋码头分配给买手的AppKey。 |
-| sign\_method | String | 是 | 签名的摘要算法，可选值为：md5。 |
-| sign | String | 是 | API输入参数签名结果，签名算法介绍请[点击这里](/openapi/README.md#signmethod)。 |
-| session | String | 是 | 用户登录授权成功后，TOP颁发给应用的授权信息，详细介绍请[点击这里](/openapi/README.md#signmethod)。 |
-| timestamp | String | 是 | 时间戳，格式为yyyy-MM-dd HH:mm:ss，时区为GMT+8，例如：2017-01-01 12:00:00。洋码头API服务端允许客户端请求最大时间误差为10分钟。 |
-| format | String | 否 | 响应格式。默认为json格式。 |
-
-### 业务参数
-
-* 请求参数
-
-| 名称 | 类型 | 是否必须 | 示例值 | 描述 |
+| 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| order\_id | String | 是 | 1729299393 | 待发货的订单编号 |
-| logistics\_company\_id | String | 是 | 001 | 平台物流公司标识 |
-| tracking\_number | String | 是 | 10010993S | 物流面单号 |
+| deliver_orders |DeliverOrder[] | 是 |  |待发货的订单物流信息 |
+
+* 数据类型（DeliverOrder）
+
+| 名称 | 类型 | 必须 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- | :--- |
+| order_id | long | 是 | 1729299393 | 待发货的订单编号 |
+| logistics_company\_id | String | 是 | Y073 | 平台物流公司标识 |
+| tracking_number | String | 是 | DB1234567800111 | 物流面单号 |
+| is_domestic_delivery | boolean | 是 | true | 是否国内段发货 |
+
 
 ### 返回参数
 
-* 返回类型 
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
+| message | String | 更新库存成功 | 接口调用返回信息 |
+| content | JSON Object |  | BizResult的JSON报文体 |
+
+* 数据类型(BizResult）
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
-| code | String | 0 | 返回码 |
-| message | String | 发货成功 | 返回结果描述 |
+| results | DeliverResult[] |  | 发货结果 |
 
+* 数据类型（DeliverResult）
 
-
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| order_id | long | 105913276 | 订单号 |
+| exec_success | boolean | true | 是否执行成功 |
+| msg | string |  | 处理信息 |

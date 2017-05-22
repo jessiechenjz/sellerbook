@@ -1,4 +1,4 @@
-#### 提现
+### 提现
 
 ---
 
@@ -6,11 +6,11 @@
 
   一、电脑端卖家后台，有两个入口，详见下图：
 
-  ![](http://sellerhub.ymatou.com/helpview/img/tx_1.jpg)
+  ![](/fund-management/images/tx_1.jpg)
 
   二、进入提现主页，选择提现账户，输入提现金额、密码等完成提现申请。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/tx_2.jpg)
+  ![](/fund-management/images/tx_2.jpg)
 
   提现操作：
 
@@ -31,11 +31,11 @@
 
   三、创建新提现账户，点击“管理提现账户”，在“账号管理”页面下点击“添加新账号”，可查看 “提现帮助”。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/tx_3.jpg)
+  ![](/fund-management/images/tx_3.jpg)
 
   四、填写账户信息，点击“完成并提交码头”，洋码头会对账户进行审核，审核通过之后即可用于提现。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/tx_4.jpg)
+  ![](/fund-management/images/tx_4.jpg)
 
 
 

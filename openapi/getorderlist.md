@@ -8,41 +8,29 @@
 
 ### 业务参数
 
-* 接口调用参数
+* 接口调用参数 [接口调用指南](/openapi/how-to-call-api.md)
 
-| 名称 | 类型 | 是否必须 | 描述 |
-| :--- | :--- | :--- | :--- |
-| method | String | 是 | API名称 |
-| app\_key | String | 是 | 洋码头分配给买手的AppKey。 |
-| sign\_method | String | 是 | 签名的摘要算法，可选值为：md5。 |
-| sign | String | 是 | API输入参数签名结果，签名算法介绍请[点击这里](//openapi/README.md#signmethod)。 |
-| session | String | 是 | 用户登录授权成功后，TOP颁发给应用的授权信息，详细介绍请[点击这里](//openapi/README.md#getappkey)。 |
-| timestamp | String | 是 | 时间戳，格式为yyyy-MM-dd HH:mm:ss，时区为GMT+8，例如：2017-01-01 12:00:00。洋码头API服务端允许客户端请求最大时间误差为10分钟。 |
-| format | String | 否 | 响应格式。默认为json格式。 |
 
 ### 请求参数
 
-| 名称 | 类型 | 是否必须 | 示例值 | 描述 |
+| 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| order\_status | String | 是 | 1:2:3 | 订单状态 |
-| date\_type | Integer | 是 | 1 | 1  订单生成时间  2 订单付款时间  3. 订单发货时间 4. |
+| order\_status | String | 否 | 1,2,3 | 订单状态(逗号分隔多个状态,传空为全状态) 未付款:ORDER_ESTABLISH(1),已付款待接单:ACCOUNT_PAID(2),已发货:SHIPPED(3),确认收货:RECEIVED(4),买家取消订单:USER_ACCEPT_CANCEL(12),卖家取消订单:SELLER_ACCEPT_CANCEL(13),系统自动取消:SYSTEM_CANCEL(18),已接单:SELLER_ACCEPT(17)  |
+| date\_type | Integer | 是 | 1 | 时间排序类型 1.订单生成时间  2.订单付款时间  3. 订单发货时间 |
+| sort\_type | Integer | 是 | 1 | 0.倒序  1.升序 |
 | start\_date | DateTime | 是 | 2017-01-02 00:00:00 | 查询开始时间 |
 | end\_date | DateTime | 是 | 2017-03-30 23:59:59 | 查询结束时间 |
-| page\_no | Integer | 是 | 3 | 请求分页代码 |
-| page\_rows | Integer | 是 | 50 | 每页的记录数量 |
+| page\_no | Integer | 是 | 3 | 请求分页页码(大于0) |
+| page\_rows | Integer | 是 | 50 | 每页记录数量(大于0且小于等于100 )|
 
 ### 返回参数
 
-| 名称 | 类型 | 是否必须 | 示例值 | 描述 |
+| 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
 | code |  |  |  |  |
 | message |  |  |  |  |
-| order\_info | OrderInfo\[\] |  |  |  |
+| orders\_info | OrderInfo\[\] |  |  |  |
 |  |  |  |  |  |
 
-### 
 
-### 错误代码
-
-
-
+### 错误信息描述
