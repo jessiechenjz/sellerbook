@@ -1,4 +1,26 @@
+@charset "UTF-8";
+
 .video-js {
-    width:100%;
+    width: 100%;
     height: 100%;
+}
+
+.dropdown, .book-header .pull-right {
+    display: none;
+}
+
+.book-summary ul.summary li .gitbook-link {
+    display: none;
+}
+
+.book-header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #fff;
+}
+
+.fa-align-justify:after {
+    content: '导航';
+    margin-left: 2px;
 }

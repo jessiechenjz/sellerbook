@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "node-install": "gitbook install",
-    "compile": "gitbook build"
+    "compile": "gitbook build . ./dist"
   },
   "author": "zhangyidong",
   "license": "WTFPL",
