@@ -1,0 +1,16 @@
+{
+  "name": "sellerbook.ymatou.com",
+  "version": "0.1.0",
+  "description": "洋码头买手运营手册",
+  "main": "app.js",
+  "scripts": {
+    "node-install": "gitbook install",
+    "compile": "gitbook build"
+  },
+  "author": "zhangyidong",
+  "license": "WTFPL",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
