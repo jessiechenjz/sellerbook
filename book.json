@@ -9,7 +9,10 @@
 		"ga",
 		"local-video",
 		"-search",
-    	"search-pro"
+		"-font-settings",
+		"-sharing",
+    	"search-pro",
+    	"toggle-chapters"
 	],
 	"pluginsConfig": {
 		"ga": {
