@@ -8,22 +8,19 @@
 * [平台介绍](README.md)
 * [平台优势](ymtbenifits.md)
 * [最新公告](ymtnews.md)
-
-### 加入洋码头
-
 * [买手成功故事](recruitment/success-stories.md)
   * [Vicent转型路](recruitment/success-stories/seller-vincent.md)
   * [KT PANDORA](recruitment/success-stories/seller-kt.md)
   * [澳新健康Top路](recruitment/success-stories/seller-meredith.md)
-* [买手入驻](recruitment/apply-to-seller.md)
-* [年审流程](recruitment/yearly-review.md)
 
 ### 买手培训
 
+* [买手入驻](recruitment/apply-to-seller.md)
 * [新手入门](recruitment/newsellercourse.md)
-
   * [快速入门](recruitment/newsellercourse/kuai-su-ru-men.md)
   * [快速入门FAQ](recruitment/newsellercourse/kuai-su-ru-men-faq.md)
+  
+
 
 * 码头大哥话跨境
 
@@ -146,6 +143,9 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
+
+
+
 
 
 ## 平台规则
