@@ -48,13 +48,13 @@
   * [子账号设置](seller-platform/user-settings/subset-count.md)
 * [常见问题](seller-platform/system-function-faq.md)
 
-### 商品管理
+### 
 
-* [普通商品](product-management/addproduct.md)
-* [贝海保税商品](product-management/publish-fbx-product.md)
-* [预订商品](product-management/pre-sale-product.md)
-* [优化在架商品](product-management/new-listing.md)
-* [商品发布FAQ](product-management/product-faqs.md)
+| 商品管理 |  |
+| :--- | :--- |
+| [普通商品](product-management/addproduct.md) | [贝海保税商品](product-management/publish-fbx-product.md) |
+| [预订商品](product-management/pre-sale-product.md) | [优化在架商品](product-management/new-listing.md) |
+| [商品发布FAQ](product-management/product-faqs.md) | |
 
 ### 
 
