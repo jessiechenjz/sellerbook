@@ -113,20 +113,17 @@
 ### OPEN API
 
 * [服务说明](openapi/README.md)
-* [接口列表](openapi/apilists.md)
-  * [接口调用指南](openapi/how-to-call-api.md)
-  * [获取单个订单](openapi/getorderdetail.md)
-  * [获取订单列表](openapi/getorderlist.md)
-  * [订单发货](openapi/sendlogistics.md)
-  * [获取平台物流公司信息](openapi/getlogisticscompanies.md)
-  * [同步商品库存](openapi/updateproductstock.md)
-  * [同步商品价格](openapi/updateproductprice.md)
-  * [贝海做单接口](openapi/xlobocreatelabels.md)
-  * [获取面单文件](openapi/xlobogetlabelfile.md)
-  * [身份证上传](openapi/xlobouploadid.md)
-  * [获取物流状态](openapi/xlobogetlabelstatus.md)
-  * [获取货站](openapi/xlobogetterminallist.md)
-  * [获取申报分类](openapi/xlobogetcatelogue.md)
+
+| [接口列表](openapi/apilists.md) |  |
+| :--- | :--- |
+|[接口调用指南](openapi/how-to-call-api.md) | [获取单个订单](openapi/getorderdetail.md)|
+| [获取订单列表](openapi/getorderlist.md) | [订单发货](openapi/sendlogistics.md) |
+| [获取平台物流公司信息](openapi/getlogisticscompanies.md) | [同步商品库存](openapi/updateproductstock.md)|
+| [同步商品价格](openapi/updateproductprice.md) | [贝海做单接口](openapi/xlobocreatelabels.md) |
+| [获取面单文件](openapi/xlobogetlabelfile.md) | [身份证上传](openapi/xlobouploadid.md) |
+| [获取物流状态](openapi/xlobogetlabelstatus.md) | [获取货站](openapi/xlobogetterminallist.md) |
+| [获取申报分类](openapi/xlobogetcatelogue.md) ||
+
 * [常见问题](openapi/faq.md)
 
 ### 贝海物流
@@ -143,6 +140,7 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
+
 
 ## 平台规则
 
