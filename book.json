@@ -7,11 +7,17 @@
    }, 
 	"plugins": [
 		"ga",
-		"local-video"
+		"local-video",
+		"-search",
+    	"search-pro"
 	],
 	"pluginsConfig": {
 		"ga": {
 			"token": "UA-XXXX-Y"
-		}
+		},
+		"search-pro": {
+	        "cutWordLib": "nodejieba",
+	        "defineWord" : ["Gitbook Use"]
+	    }
 	}
 }
