@@ -141,7 +141,9 @@
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
 
 
-## 业务功能介绍
+## 平台规则介绍
+
+
 
 ### 平台规则
 
