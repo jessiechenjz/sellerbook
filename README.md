@@ -1,6 +1,7 @@
 # 码头买手学院
 
 ---
+![](/assets/images/hub-banner.jpg)
 
 ### 介绍洋码头
 
