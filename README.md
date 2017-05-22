@@ -100,18 +100,17 @@
 
 
 
-### 买手APP
+### 
 
-* [工作台介绍](sellerapp/dashboard.md)
-* [创建直播](sellerapp/liveshow.md)
-* [商品操作](sellerapp/editproduct.md)
-* [订单管理](sellerapp/order-management.md)
-  * [订单修改](order-management/order-modify.md)
-  * [取消订单](order-management/cancel.md)
-  * [退货退款](sellerapp/order-refund.md)
-* [买手优惠券](sellerapp/add-coupon.md)
-* [消息管理](sellerapp/messages.md)
-* [账户设置](sellerapp/account-setting.md)
+| 买手AP |  |
+| :--- | :--- |
+| [工作台介绍](sellerapp/dashboard.md) | |
+| [创建直播](sellerapp/liveshow.md) |[商品操作](sellerapp/editproductmd) |
+| [订单管理](sellerapp/order-management.md) ||
+| [订单修改](order-management/order-modify.md) | [取消订单](order-management/cancel.md) |
+| [退货退款](sellerapp/order-refund.md) ||
+| [买手优惠券](sellerapp/add-coupon.md) | |
+| [消息管理](sellerapp/messages.md) | [账户设置](sellerapp/account-setting.md) | 
 
 ### OPEN API
 
@@ -143,9 +142,6 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
-
-
-
 
 
 ## 平台规则
