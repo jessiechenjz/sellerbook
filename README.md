@@ -130,18 +130,15 @@
 
 ### 贝海物流
 
-* [贝海物流操作](logistics/xlobo-logistics.md)
-  * [贝海直邮](logistics/xlobo-logistics/direct-logistic.md)
-    * [创建寄送运单](logistics/xlobo-logistics/direct-logistic/create-shipment-bill.md)
-    * [第三方订单导入](logistics/xlobo-logistics/direct-logistic/import-other-orders.md)
-    * [物流状态解释](logistics/xlobo-logistics/direct-logistic/tracking-status.md)
-    * [线下发货](logistics/xlobo-logistics/direct-logistic/send-orders.md)
-    * [保税发货](logistics/xlobo-logistics/direct-logistic/bonded-orders.md)
-  * [贝海海外仓](logistics/xlobo-logistics/oversee-warehouse.md)
-    * [商品库维护](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
-    * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
-  * [清关流程](logistics/xlobo-logistics/clearance-process.md)
-  * [申报规范](logistics/xlobo-logistics/declare-rules.md)
+| [贝海物流操作](logistics/xlobo-logistics.md)| |
+| :--- | :--- |
+| [贝海直邮](logistics/xlobo-logistics/direct-logistic.md)||
+| [创建寄送运单](logistics/xlobo-logistics/direct-logistic/create-shipment-bill.md) | [第三方订单导入](logistics/xlobo-logistics/direct-logistic/import-other-orders.md) | 
+| [物流状态解释](logistics/xlobo-logistics/direct-logistic/tracking-status.md) |[线下发货](logistics/xlobo-logistics/direct-logistic/send-orders.md) | 
+| [保税发货](logistics/xlobo-logistics/direct-logistic/bonded-orders.md) ||
+| [贝海海外仓](logistics/xlobo-logistics/oversee-warehouse.md) | [商品库维护](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)|
+| [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md) ||
+| [清关流程](logistics/xlobo-logistics/clearance-process.md) | [申报规范](logistics/xlobo-logistics/declare-rules.md) | 
 
 
 ## 平台规则
