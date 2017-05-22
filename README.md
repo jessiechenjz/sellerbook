@@ -1,17 +1,19 @@
 # 码头买手学院
 
 ---
+
 ![](/assets/images/hub-banner.jpg)
 
 ### 介绍洋码头
 
-* [平台介绍](README.md)
-* [平台优势](ymtbenifits.md)
-* [最新公告](ymtnews.md)
-* [买手成功故事](recruitment/success-stories.md)
-  * [Vicent转型路](recruitment/success-stories/seller-vincent.md)
-  * [KT PANDORA](recruitment/success-stories/seller-kt.md)
-  * [澳新健康Top路](recruitment/success-stories/seller-meredith.md)
+| 码头介绍 |  |
+| :--- | :--- |
+| [平台介绍](README.md)  ||
+| [平台优势](ymtbenifits.md) ||
+| [最新公告](ymtnews.md) ||
+| [买手成功故事](recruitment/success-stories.md) ||
+| [Vicent转型路](recruitment/success-stories/seller-vincent.md) | [KT PANDORA](recruitment/success-stories/seller-kt.md) | 
+| [澳新健康Top路](recruitment/success-stories/seller-meredith.md) | |
 
 ### 买手培训
 
@@ -20,12 +22,11 @@
   * [快速入门](recruitment/newsellercourse/kuai-su-ru-men.md)
   * [快速入门FAQ](recruitment/newsellercourse/kuai-su-ru-men-faq.md)
   
+###
 
-
-* 码头大哥话跨境
-
-  * [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
-  * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
+| 码头大哥话跨境 |  |
+| :--- | :--- |
+| [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md) |  [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md) |
   * [查看往期内容](recruitment/ymatoumeat.md)
 
 ###
