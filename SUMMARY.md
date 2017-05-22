@@ -1,8 +1,10 @@
 # Summary
 
+* [首页](README.md)
+
 ## 洋码头买手平台
 
-* [平台介绍](README.md)
+* [平台介绍](whatsymt.md)
 * [平台优势](ymtbenifits.md)
 * [最新公告](ymtnews.md)
 
@@ -73,6 +75,8 @@
 * [预订商品](product-management/pre-sale-product.md)
 * [优化在架商品](product-management/new-listing.md)
 * [商品发布FAQ](product-management/product-faqs.md)
+
+## 订单管理
 
 ## 订单管理
 
@@ -158,5 +162,3 @@
     * [商品库维护](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
-  * [申报规范](logistics/xlobo-logistics/declare-rules.md)
-
