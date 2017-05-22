@@ -1,4 +1,5 @@
 # 码头买手学院
+
 ---
 
 ### 介绍洋码头
@@ -19,15 +20,18 @@
 ### 买手培训
 
 * [新手入门](recruitment/newsellercourse.md)
+
   * [快速入门](recruitment/newsellercourse/kuai-su-ru-men.md)
   * [快速入门FAQ](recruitment/newsellercourse/kuai-su-ru-men-faq.md)
-  
+
 * 码头大哥话跨境
+
   * [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
   * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
   * [查看往期内容](recruitment/ymatoumeat.md)
 
 * 视频教程
+
   * [新买手视频](seller-training-course/new-seller-training-videos.md)
   * [2017年课程](seller-training-course/courselist-2017.md)
   * [2016年课程](seller-training-course/courselist-2016.md)
@@ -140,23 +144,17 @@
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
   * [申报规范](logistics/xlobo-logistics/declare-rules.md)
 
+## 平台规则
 
-## 平台规则介绍
+| 规则列表 |  |
+| :--- | :--- |
+| [退货规则](platform-rules/service-standards/return-policy.md) | [隐私权规则](platform-rules/service-standards/privacy-policy.md) |
+| [平台服务协议](platform-rules/service-standards/service-rules.md) | [买手处罚规则](platform-rules/punishment.md) |
+| [买手交易行为规范细则](platform-rules/trading-activies.md) |  [争议处理规则](platform-rules/agreement.md)|
+| [物流规范及处罚细则](platform-rules/logistics-rules.md)| [奖惩机制](platform-rules/jiang-cheng-ji-zhi.md) |
+| [处罚规则](platform-rules/jiang-cheng-ji-zhi/chu-fa-gui-ze.md) |  |
 
 
-
-### 平台规则
-
-* [平台规范](platform-rules/service-standards.md)
-  * [退货规则](platform-rules/service-standards/return-policy.md)
-  * [隐私权规则](platform-rules/service-standards/privacy-policy.md)
-  * [平台服务协议](platform-rules/service-standards/service-rules.md)
-  * [买手处罚规则](platform-rules/punishment.md)
-  * [买手交易行为规范细则](platform-rules/trading-activies.md)
-  * [争议处理规则](platform-rules/agreement.md)
-  * [物流规范及处罚细则](platform-rules/logistics-rules.md)
-* [奖惩机制](platform-rules/jiang-cheng-ji-zhi.md)
-  * [处罚规则](platform-rules/jiang-cheng-ji-zhi/chu-fa-gui-ze.md)
 
 
 
