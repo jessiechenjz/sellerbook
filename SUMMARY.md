@@ -124,7 +124,6 @@
 * [订单管理](sellerapp/seller-app-orders.md)
 * [优惠券管理](sellerapp/coupon-manage.md)
 * [seller app message](sellerapp/seller-app-message.md)
-* [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
 
 ## OPEN API
