@@ -109,6 +109,7 @@
 
 * [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
 * [精准营销计费说明](precision-marketing/commission-setting.md)
+* [operation manual](precision-marketing/operation-manual.md)
 
 ## 买手促销
 
@@ -162,3 +163,4 @@
     * [商品库维护](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
+
