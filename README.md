@@ -145,8 +145,7 @@
 | [退货规则](platform-rules/service-standards/return-policy.md) | [隐私权规则](platform-rules/service-standards/privacy-policy.md) |
 | [平台服务协议](platform-rules/service-standards/service-rules.md) | [买手处罚规则](platform-rules/punishment.md) |
 | [买手交易行为规范细则](platform-rules/trading-activies.md) | [争议处理规则](platform-rules/agreement.md) |
-| [物流规范及处罚细则](platform-rules/logistics-rules.md) | [奖惩机制](platform-rules/jiang-cheng-ji-zhi.md) |
-| [处罚规则](platform-rules/jiang-cheng-ji-zhi/chu-fa-gui-ze.md) |  |
+| [物流规范及处罚细则](platform-rules/logistics-rules.md) | 
 
 
 
