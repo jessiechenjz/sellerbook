@@ -12,8 +12,7 @@
 		"-font-settings",
 		"-sharing",
     		"search-pro",
-    		"toggle-chapters",
-		"footer"
+    		"toggle-chapters"
 	],
 	"pluginsConfig": {
 		"ga": {
@@ -22,9 +21,6 @@
 		"search-pro": {
 	        "cutWordLib": "nodejieba",
 	        "defineWord" : ["Gitbook Use"]
-		},
-		"footer" : {
-			"footerPath" : "/assets/layouts/footer.html"
 		}
 	}
 }
