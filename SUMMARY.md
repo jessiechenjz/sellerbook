@@ -19,7 +19,6 @@
   * [KT PANDORA](recruitment/success-stories/seller-kt.md)
   * [澳新健康Top路](recruitment/success-stories/seller-meredith.md)
 * [买手入驻](recruitment/apply-to-seller.md)
-* [年审流程](recruitment/yearly-review.md)
 
 ## 买手培训
 
