@@ -5,11 +5,11 @@
 
 1. 近期营销数据。显示最近7天精准营销带来的流量和收益。可切换统计指标观察近期走势。
 
-![](http://66ad1322.wiz03.com/share/resources/31304ff0-afae-4842-af37-3b05aa8f1c6b/index_files/bc48c617-3624-494c-a9bc-80d33281f68c.png)
+  ![](http://66ad1322.wiz03.com/share/resources/31304ff0-afae-4842-af37-3b05aa8f1c6b/index_files/bc48c617-3624-494c-a9bc-80d33281f68c.png)
 
 2. 营销账户。营销费用专用资金账户。显示昨日收益带来的营销费用及当前账户余额。
 
-![](http://66ad1322.wiz03.com/share/resources/31304ff0-afae-4842-af37-3b05aa8f1c6b/index_files/82325078-cfda-464e-9c7e-be8e0021f5ea.png)
+  ![](http://66ad1322.wiz03.com/share/resources/31304ff0-afae-4842-af37-3b05aa8f1c6b/index_files/82325078-cfda-464e-9c7e-be8e0021f5ea.png)
 
  3. “当前推广商品”列表。限制当前正处于推广过程中的商品。
 
@@ -23,7 +23,7 @@
 
 4）花费，指的是当前商品本次推广带来的费用合计。
 
-![](http://66ad1322.wiz03.com/share/resources/31304ff0-afae-4842-af37-3b05aa8f1c6b/index_files/0ffcb150-9327-4de4-9108-cd9d4fd010a7.png)
+  ![](http://66ad1322.wiz03.com/share/resources/31304ff0-afae-4842-af37-3b05aa8f1c6b/index_files/0ffcb150-9327-4de4-9108-cd9d4fd010a7.png)
 
  4. 历史推广记录。
 
