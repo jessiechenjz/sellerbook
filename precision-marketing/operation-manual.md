@@ -8,13 +8,11 @@
 
 ![](/precision-marketing/images/pm-oper-1.png)
 
+2. 营销账户。营销费用专用资金账户。显示昨日收益带来的营销费用及当前账户余额。
 
+   ![](/precision-marketing/images/pm-oper-2.png)
 
-1. 营销账户。营销费用专用资金账户。显示昨日收益带来的营销费用及当前账户余额。
-
-   ![](http://66ad1322.wiz03.com/share/resources/31304ff0-afae-4842-af37-3b05aa8f1c6b/index_files/82325078-cfda-464e-9c7e-be8e0021f5ea.png)
-
-   1. “当前推广商品”列表。限制当前正处于推广过程中的商品。
+   2. “当前推广商品”列表。限制当前正处于推广过程中的商品。
 
 1）支持商品名称、分类、品牌的查询。
 
