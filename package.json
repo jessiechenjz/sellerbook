@@ -10,7 +10,7 @@
   "author": "zhangyidong",
   "license": "WTFPL",
   "dependencies": {
+    "gitbook": "^3.2.2"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
