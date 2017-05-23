@@ -122,7 +122,7 @@
 * [商品管理](sellerapp/seller-app-product.md)
 * [直播管理](sellerapp/seller-app-liveshow.md)
 * [seller app orders](sellerapp/seller-app-orders.md)
-* [优惠券管理](sellerapp/add-coupon.md)
+* [优惠券管理](sellerapp/coupon-manage.md)
 * [seller app message](sellerapp/seller-app-message.md)
 * [订单管理](sellerapp/order-management.md)
   * [订单修改](order-management/order-modify.md)
