@@ -60,7 +60,6 @@
   * [DSR运营指标解读](seller-platform/dsr-explaination.md)
 * [买手客服工作台](seller-platform/user-settings/platform.md)
 * [系统设置](seller-platform/user-settings.md)
-  * [子账号设置](seller-platform/user-settings/subset-count.md)
 * [常见问题](seller-platform/system-function-faq.md)
 
 ## 商品管理
