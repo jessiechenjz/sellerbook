@@ -5,12 +5,12 @@
 1.在工作台模块，可点击快捷功能区的“发布直播”，直接进入发布直播页
 
 
-![](/sellerapp/images/app-liveshow-1.png)
+![](/sellerapp/images/app-liveshow1.png)
 
 
 2.在直播管理模块，可点击右上角的“发布直播”，直接进入发布直播页
 
-![](/sellerapp/images/app-liveshow-2.png)
+![](/sellerapp/images/app-liveshow2.png)
 
 
 
