@@ -162,3 +162,7 @@
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
 
+## new seller app
+
+* seller app dashboard
+
