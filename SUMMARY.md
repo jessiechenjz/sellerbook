@@ -114,7 +114,7 @@
 
 ## 买手APP
 
-* [买手工作台](sellerapp/seller-app-dashboard.md)
+* [APP工作台](sellerapp/seller-app-dashboard.md)
 * [商品管理](sellerapp/seller-app-product.md)
 * [直播管理](sellerapp/seller-app-liveshow.md)
 * [订单管理](sellerapp/seller-app-orders.md)
