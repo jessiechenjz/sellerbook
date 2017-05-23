@@ -118,7 +118,7 @@
 
 ## 买手APP
 
-* [seller app dashboard](sellerapp/seller-app-dashboard.md)
+* [买手工作台](sellerapp/seller-app-dashboard.md)
 * [seller app product](sellerapp/seller-app-product.md)
 * [seller app liveshow](sellerapp/seller-app-liveshow.md)
 * [seller app orders](sellerapp/seller-app-orders.md)
@@ -132,7 +132,6 @@
   * [退货退款](sellerapp/order-refund.md)
 * [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
-
 
 ## OPEN API
 
