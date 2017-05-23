@@ -69,7 +69,7 @@
 ![](/seller-promotions/images/campaign-10.png)
 
 
-增加活动库存
+#### 五、增加活动库存
 
 ![](/seller-promotions/images/campaign-11.jpg)
 
