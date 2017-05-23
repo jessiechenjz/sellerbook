@@ -107,9 +107,9 @@
 
 ## 码头精准营销
 
-* [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
-* [精准营销计费说明](precision-marketing/commission-setting.md)
-* [operation manual](precision-marketing/operation-manual.md)
+* [业务介绍](precision-marketing/precision-markting-intro.md)
+* [操作指南](precision-marketing/operation-manual.md)
+* [计费说明](precision-marketing/commission-setting.md)
 
 ## 买手促销
 
