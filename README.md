@@ -15,7 +15,7 @@
 | [Vicent转型路](recruitment/success-stories/seller-vincent.md) | [KT PANDORA](recruitment/success-stories/seller-kt.md) |
 | [澳新健康Top路](recruitment/success-stories/seller-meredith.md) |  |
 
-### 
+
 
 | 买手培训 |  |
 | :--- | :--- |
@@ -23,14 +23,12 @@
 | [新手入门](recruitment/newsellercourse.md) |  |
 | [快速入门](recruitment/newsellercourse/kuai-su-ru-men.md) | [快速入门FAQ](recruitment/newsellercourse/kuai-su-ru-men-faq.md) |
 
-###
 
 | 码头大哥话跨境 |  |
 | :--- | :--- |
 | [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md) | [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md) |
 | [查看往期内容](recruitment/ymatoumeat.md) |  |
 
-###
 
 | 视频教程 |  |
 | :--- | :--- |
@@ -50,7 +48,7 @@
 | [修改个人信息](seller-platform/user-settings/change-seller-info.md) | [子账号设置](seller-platform/user-settings/subset-count.md) |
 | [常见问题](seller-platform/system-function-faq.md) |  |
 
-###
+
 
 | 商品管理 |  |
 | :--- | :--- |
@@ -58,7 +56,7 @@
 | [预订商品](product-management/pre-sale-product.md) | [优化在架商品](product-management/new-listing.md) |
 | [商品发布FAQ](product-management/product-faqs.md) |  |
 
-###
+
 
 | 订单管理 |  |
 | :--- | :--- |
@@ -66,13 +64,13 @@
 | [订单发货](order-management/ordershipment.md) | [退货退款](order-management/order-refund.md) |
 | [订单发布FAQ](order-management/order-faqs.md) |  |
 
-###
+
 
 | 直播管理 |  |
 | :--- | :--- |
 | [直播发布](liveshow-management/addliveshow.md) | [精品直播](liveshow-management/fine-live-show.md) |
 
-###
+
 
 | 资金管理 |  |
 | :--- | :--- |
@@ -80,27 +78,27 @@
 | [洋码头日账单](fund-management/sellerledger.md) | [结算增值服务说明](fund-management/value-add-services.md) |
 | [资金管理FAQ](fund-management/fund-faq.md) |  |
 
-###
+
 
 | 码头优选 |  |
 | :--- | :--- |
 | [优选业务介绍](pspseller/pspintro.md) | [优选业务功能](pspseller/preferred-intro.md) |
 | [码头优选FAQ](pspseller/preferred-faq.md) |  |
 
-###
+
 
 | 码头精准营销 |  |
 | :--- | :--- |
 | [精准营销业务介绍](precision-marketing/precision-markting-intro.md) | [精准营销计费说明](precision-marketing/commission-setting.md) |
 
-###
+
 
 | 买手促销 |  |
 | :--- | :--- |
 | [买手优惠券](seller-promotions/seller-coupons.md) | [满减促销](seller-promotions/promotion-2.md) |
 | [活动报名](seller-promotions/campaign-apply.md) | [常见问题](seller-promotions/marketing-faq.md) |
 
-###
+
 
 | 买手AP |  |
 | :--- | :--- |
