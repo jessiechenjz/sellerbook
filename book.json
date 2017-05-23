@@ -11,8 +11,8 @@
 		"-search",
 		"-font-settings",
 		"-sharing",
-    	"search-pro",
-    	"toggle-chapters"
+    		"search-pro",
+    		"toggle-chapters"
 	],
 	"pluginsConfig": {
 		"ga": {
@@ -21,6 +21,6 @@
 		"search-pro": {
 	        "cutWordLib": "nodejieba",
 	        "defineWord" : ["Gitbook Use"]
-	    }
+		}
 	}
 }

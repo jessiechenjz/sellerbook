@@ -19,7 +19,6 @@
   * [KT PANDORA](recruitment/success-stories/seller-kt.md)
   * [澳新健康Top路](recruitment/success-stories/seller-meredith.md)
 * [买手入驻](recruitment/apply-to-seller.md)
-* [年审流程](recruitment/yearly-review.md)
 
 ## 买手培训
 
@@ -39,22 +38,16 @@
   * [10－买手自营销的时代来了](recruitment/ymatoumeat/ymatoumeat10.md)
   * [11－解析发布商品趋势](recruitment/ymatoumeat/ymatoumeat11.md)
 * [视频教程](recruitment/shi-pin-jiao-cheng.md)
-  * [新买手视频](seller-training-course/new-seller-training-videos.md)
-  * [2017年课程](seller-training-course/courselist-2017.md)
-  * [2016年课程](seller-training-course/courselist-2016.md)
 
 ## 平台规则
 
-* [平台规范](platform-rules/service-standards.md)
-  * [退货规则](platform-rules/service-standards/return-policy.md)
-  * [隐私权规则](platform-rules/service-standards/privacy-policy.md)
-  * [平台服务协议](platform-rules/service-standards/service-rules.md)
-  * [买手处罚规则](platform-rules/punishment.md)
-  * [买手交易行为规范细则](platform-rules/trading-activies.md)
-  * [争议处理规则](platform-rules/agreement.md)
-  * [物流规范及处罚细则](platform-rules/logistics-rules.md)
-* [奖惩机制](platform-rules/jiang-cheng-ji-zhi.md)
-  * [处罚规则](platform-rules/jiang-cheng-ji-zhi/chu-fa-gui-ze.md)
+* [退货规则](platform-rules/service-standards/return-policy.md)
+* [隐私权规则](platform-rules/service-standards/privacy-policy.md)
+* [平台服务协议](platform-rules/service-standards/service-rules.md)
+* [买手处罚规则](platform-rules/punishment.md)
+* [买手交易行为规范细则](platform-rules/trading-activies.md)
+* [争议处理规则](platform-rules/agreement.md)
+* [物流规范及处罚细则](platform-rules/logistics-rules.md)
 
 ## 买手业务后台
 
@@ -64,8 +57,6 @@
   * [DSR运营指标解读](seller-platform/dsr-explaination.md)
 * [买手客服工作台](seller-platform/user-settings/platform.md)
 * [系统设置](seller-platform/user-settings.md)
-  * [修改个人信息](seller-platform/user-settings/change-seller-info.md)
-  * [子账号设置](seller-platform/user-settings/subset-count.md)
 * [常见问题](seller-platform/system-function-faq.md)
 
 ## 商品管理
@@ -75,8 +66,6 @@
 * [预订商品](product-management/pre-sale-product.md)
 * [优化在架商品](product-management/new-listing.md)
 * [商品发布FAQ](product-management/product-faqs.md)
-
-## 订单管理
 
 ## 订单管理
 
@@ -107,8 +96,9 @@
 
 ## 码头精准营销
 
-* [精准营销业务介绍](precision-marketing/precision-markting-intro.md)
-* [精准营销计费说明](precision-marketing/commission-setting.md)
+* [业务介绍](precision-marketing/precision-markting-intro.md)
+* [操作指南](precision-marketing/operation-manual.md)
+* [计费说明](precision-marketing/commission-setting.md)
 
 ## 买手促销
 
@@ -119,15 +109,12 @@
 
 ## 买手APP
 
-* [工作台介绍](sellerapp/dashboard.md)
-* [创建直播](sellerapp/liveshow.md)
-* [商品操作](sellerapp/editproduct.md)
-* [订单管理](sellerapp/order-management.md)
-  * [订单修改](order-management/order-modify.md)
-  * [取消订单](order-management/cancel.md)
-  * [退货退款](sellerapp/order-refund.md)
-* [买手优惠券](sellerapp/add-coupon.md)
-* [消息管理](sellerapp/messages.md)
+* [APP工作台](sellerapp/seller-app-dashboard.md)
+* [商品管理](sellerapp/seller-app-product.md)
+* [直播管理](sellerapp/seller-app-liveshow.md)
+* [订单管理](sellerapp/seller-app-orders.md)
+* [优惠券管理](sellerapp/coupon-manage.md)
+* [消息管理](sellerapp/seller-app-message.md)
 * [账户设置](sellerapp/account-setting.md)
 
 ## OPEN API
@@ -162,3 +149,4 @@
     * [商品库维护](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
+
