@@ -121,7 +121,7 @@
 * [买手工作台](sellerapp/seller-app-dashboard.md)
 * [商品管理](sellerapp/seller-app-product.md)
 * [直播管理](sellerapp/seller-app-liveshow.md)
-* [seller app orders](sellerapp/seller-app-orders.md)
+* [订单管理](sellerapp/seller-app-orders.md)
 * [优惠券管理](sellerapp/coupon-manage.md)
 * [seller app message](sellerapp/seller-app-message.md)
 * [消息管理](sellerapp/messages.md)
