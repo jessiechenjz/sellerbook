@@ -124,9 +124,6 @@
 * [seller app orders](sellerapp/seller-app-orders.md)
 * [优惠券管理](sellerapp/coupon-manage.md)
 * [seller app message](sellerapp/seller-app-message.md)
-* [订单管理](sellerapp/order-management.md)
-  * [取消订单](order-management/cancel.md)
-  * [退货退款](sellerapp/order-refund.md)
 * [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
 
