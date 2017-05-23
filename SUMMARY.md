@@ -128,6 +128,7 @@
 * [买手优惠券](sellerapp/add-coupon.md)
 * [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
+* seller app product
 
 ## OPEN API
 
