@@ -49,8 +49,8 @@
   * [买手交易行为规范细则](platform-rules/trading-activies.md)
   * [争议处理规则](platform-rules/agreement.md)
   * [物流规范及处罚细则](platform-rules/logistics-rules.md)
-* [奖惩机制](platform-rules/jiang-cheng-ji-zhi.md)
-  * [处罚规则](platform-rules/jiang-cheng-ji-zhi/chu-fa-gui-ze.md)
+* [奖惩机制]
+  * [处罚规则]
 
 ## 买手业务后台
 
