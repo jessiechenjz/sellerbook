@@ -118,6 +118,12 @@
 
 ## 买手APP
 
+* [seller app dashboard](sellerapp/seller-app-dashboard.md)
+* [seller app product](sellerapp/seller-app-product.md)
+* [seller app liveshow](sellerapp/seller-app-liveshow.md)
+* [seller app orders](sellerapp/seller-app-orders.md)
+* [买手优惠券](sellerapp/add-coupon.md)
+* [seller app message](sellerapp/seller-app-message.md)
 * [工作台介绍](sellerapp/dashboard.md)
 * [创建直播](sellerapp/liveshow.md)
 * [商品操作](sellerapp/editproduct.md)
@@ -125,14 +131,9 @@
   * [订单修改](order-management/order-modify.md)
   * [取消订单](order-management/cancel.md)
   * [退货退款](sellerapp/order-refund.md)
-* [买手优惠券](sellerapp/add-coupon.md)
 * [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
-* [seller app product](sellerapp/seller-app-product.md)
-* [seller app dashboard](sellerapp/seller-app-dashboard.md)
-* [seller app liveshow](sellerapp/seller-app-liveshow.md)
-* [seller app orders](sellerapp/seller-app-orders.md)
-* [seller app dashboard](sellerapp/seller-app-dashboard.md)
+
 
 ## OPEN API
 
