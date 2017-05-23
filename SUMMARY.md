@@ -131,6 +131,7 @@
 * [seller app product](sellerapp/seller-app-product.md)
 * [seller app liveshow](sellerapp/seller-app-liveshow.md)
 * [seller app orders](sellerapp/seller-app-orders.md)
+* [seller app message](sellerapp/seller-app-message.md)
 
 ## OPEN API
 
