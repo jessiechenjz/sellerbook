@@ -55,10 +55,7 @@
 ![](/sellerapp/images/app-product8.png)
 
 
-
-
-
-###### 多元化销售设置
+* **多元化销售设置**
 
 1.设为预订商品
 
