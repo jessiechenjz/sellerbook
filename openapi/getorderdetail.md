@@ -43,10 +43,10 @@
 | m\_coupon\_discount | Decimal | 5 | 买手优惠券分摊金额 |
 | m\_promotion\_discount | Decimal | 10 | 买手促销活动分摊金额 |
 | m\_adjust\_discount | Decimal |  -5.00| 买手调价分摊金额 |
-| order\_time | DateTime |  | 下单时间 |
-| paid\_time | DateTime |  | 付款时间 |
-| shipping\_time | DateTime |  | 发货时间 |
-| cancel\_time | DateTime |  | 取消时间 |
+| order\_time | String |  | 下单时间 yyyy-MM-dd HH:mm:ss|
+| paid\_time | String |  | 付款时间 yyyy-MM-dd HH:mm:ss|
+| shipping\_time | String |  | 发货时间 yyyy-MM-dd HH:mm:ss |
+| cancel\_time | String |  | 取消时间 yyyy-MM-dd HH:mm:ss|
 | seller\_memo | String |  | 买手备注 |
 | buyer\_remark | String |  | 买家留言 |
 | buyer\_id | String | vera\_1214 | 买家id |
