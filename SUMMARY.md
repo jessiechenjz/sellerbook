@@ -119,10 +119,10 @@
 ## 买手APP
 
 * [买手工作台](sellerapp/seller-app-dashboard.md)
-* [seller app product](sellerapp/seller-app-product.md)
-* [seller app liveshow](sellerapp/seller-app-liveshow.md)
+* [商品管理](sellerapp/seller-app-product.md)
+* [直播管理](sellerapp/seller-app-liveshow.md)
 * [seller app orders](sellerapp/seller-app-orders.md)
-* [买手优惠券](sellerapp/add-coupon.md)
+* [优惠券管理](sellerapp/add-coupon.md)
 * [seller app message](sellerapp/seller-app-message.md)
 * [创建直播](sellerapp/liveshow.md)
 * [订单管理](sellerapp/order-management.md)
