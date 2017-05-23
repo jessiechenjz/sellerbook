@@ -125,7 +125,6 @@
 * [买手优惠券](sellerapp/add-coupon.md)
 * [seller app message](sellerapp/seller-app-message.md)
 * [创建直播](sellerapp/liveshow.md)
-* [商品操作](sellerapp/editproduct.md)
 * [订单管理](sellerapp/order-management.md)
   * [订单修改](order-management/order-modify.md)
   * [取消订单](order-management/cancel.md)
