@@ -10,15 +10,20 @@
 
 2.在直播管理模块，可点击右上角的“发布直播”，直接进入发布直播页
 
-![](叔叔最好啦叔叔帮我传一下吧.fld/image030.gif)
+![](/sellerapp/images/app-liveshow-2.png)
+
+
+
 
 ###### 填写直播信息
 
 1.选择直播类型，更推荐精品直播，更聚焦，对买家更有吸引力，且会获得更多流量。
 
 
+![](/sellerapp/images/app-liveshow-3.png)
 
-![](叔叔最好啦叔叔帮我传一下吧.fld/image032.gif)
+
+
 
 
 
