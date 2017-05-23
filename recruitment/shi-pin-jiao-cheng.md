@@ -10,12 +10,8 @@
 
 [优酷播放](http://v.youku.com/v_show/id_XMTc0MjA4MTc2MA==.html)
 
-#### 
-
 
 ### 2016年培训课程
-
----
 
 #### 产品培训
 
@@ -59,7 +55,6 @@ PC端可发布直播，商品库功能上线，app直播功能优化。
 
 [优酷播放](http://i.youku.com/u/creative_center)
 
----
 
 #### 运营技巧
 
@@ -127,7 +122,6 @@ PC端可发布直播，商品库功能上线，app直播功能优化。
 
 [优酷播放](http://v.youku.com/v_show/id_XMTY4MDY1OTczNg==.html)
 
-* #### 
 
 
 
