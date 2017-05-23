@@ -129,6 +129,8 @@
 * [消息管理](sellerapp/messages.md)
 * [账户设置](sellerapp/account-setting.md)
 * [seller app product](sellerapp/seller-app-product.md)
+* [seller app liveshow](sellerapp/seller-app-liveshow.md)
+* [seller app orders](sellerapp/seller-app-orders.md)
 
 ## OPEN API
 
