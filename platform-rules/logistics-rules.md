@@ -154,7 +154,7 @@
 
 #### 附件二:贝海海外仓地址
 
-**1.北美**
+**1. 北美**
 
 洛杉矶分拨中心 14351 Bonelli St. City of Industry CA 91746
 
@@ -168,7 +168,7 @@
 
 波特兰分拨中心8055 SW Nimbus Ave, Beaverton, OR 97008
 
-**2.欧洲**
+**2. 欧洲**
 
 伦敦分拨中心 Unit A12， National Works, Bath Road, Hounslow, Middlesex TW4 7EA
 
@@ -176,13 +176,13 @@
 
 巴黎分拨中心 Zone Cargo 4, 2 rue des Voyelles, 95723 Roissy CDG
 
-**3.澳洲**
+**3. 澳洲**
 
 墨尔本分拨中心 42 terracotta drive, nunawading, 3131
 
 悉尼分拨中心 1/5 Green Street, Revesby NSW 2212
 
-**4.亚洲**
+**4. 亚洲**
 
 东京分拨中心埼玉県川口市安行慈林379 334-0071
 
