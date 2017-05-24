@@ -45,16 +45,16 @@
 * [隐私权规则](platform-rules/service-standards/privacy-policy.md)
 * [平台服务协议](platform-rules/service-standards/service-rules.md)
 * [买手处罚规则](platform-rules/punishment.md)
-* [买手交易行为规范细则](platform-rules/trading-activies.md)
+* [交易行为规范](platform-rules/trading-activies.md)
 * [争议处理规则](platform-rules/agreement.md)
-* [物流规范及处罚细则](platform-rules/logistics-rules.md)
+* [物流规范及处罚](platform-rules/logistics-rules.md)
 
 ## 买手业务后台
 
 * [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
 * [DSR业务](seller-platform/dsr.md)
-  * [DSR运营指标解读](seller-platform/dsr-explaination.md)
+  * [指标解读](seller-platform/dsr-explaination.md)
 * [买手客服工作台](seller-platform/user-settings/platform.md)
 * [系统设置](seller-platform/user-settings.md)
 * [常见问题](seller-platform/system-function-faq.md)
