@@ -21,7 +21,7 @@
 
 #### 了解系统调用
 
-* 平台调用URL, 接口采用HTTPS加密协议 \([https://open.ymatou.com/apigateway/api/v1/{app\_id}/{method}](https://open.ymatou.com/apigateway/api/v1/{app_id}/{method})
+* 平台调用URL, 接口采用HTTPS加密协议 \([https://open.ymatou.com/apigateway/v1/{app\_id}/{method}](https://open.ymatou.com/apigateway/v1/{app_id}/{method})
 
 * 接口系统参数说明 [指南](/openapi/how-to-call-api.md)
 
