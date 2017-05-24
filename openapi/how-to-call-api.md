@@ -4,7 +4,7 @@
 
 #### 调用URL(POST)
 
-[https://open.ymatou.com/api/v1?app_id={app_id}&method={method}](https://open.ymatou.com/api/v1?app_id={app_id}&method={method})
+[https://open.ymatou.com/apigateway/api/v1?app_id={app_id}&method={method}](https://open.ymatou.com/apigateway/api/v1?app_id={app_id}&method={method})
 
 其中:<br/>
 * {app_id}：洋码头分配的应用appId。示例值: zWYVVFagTfenOHDPTm
