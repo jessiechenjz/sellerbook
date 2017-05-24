@@ -120,7 +120,7 @@
 | 加拿大 | N | EMS；Fedex；DHL；UPS，泛捷；AAE |
 | 台湾 | Y | EMS；Fedex；DHL；UPS，台湾（中华邮政），顺丰速运 |
 | 尼泊尔 | Y | EMS；Fedex；DHL；UPS， |
-| 瑞典 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 瑞典 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政(Correos de Espa?a)，EMS；Fedex；DHL；UPS， |
 | 波兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS；启辰物流 |
 | 俄罗斯 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
 | 印度 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
