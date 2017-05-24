@@ -2,13 +2,9 @@
 
 ---
 
-* “待发货”的订单，须登陆洋码头PC买手后台[（http://seller.ymatou.com）](http://seller.ymatou.com/)，进行发货。
+* 在洋码头PC买手后台，“交易”-“订单管理”下， 在“待发货”页签下对“等待发货”订单进行发货。
 
-  ![](/order-management/images/ddfh_1.jpg)
-
-  在洋码头PC买手后台，“交易”-“订单管理”下，对“等待发货”订单进行发货。
-
-  ![](/order-management/images/ddfh_2.jpg)
+  ![](/order-management/images/DDFH1.png)
 
   物流发货方式  
   1、贝海直邮:前往贝海（www.xlobo.com），登陆贝海账户创建运单，完成运单创建和订单发货。
@@ -24,9 +20,9 @@
 
   2、其它物流:前往对应的物流公司网站创建运单，在洋码头PC买手后台，对“待发货”订单点击“发货”，选择“物流公司”和填写“运单号”，完成发货。（务必使用平台认证的物流公司发货）
 
-  ![](/order-management/images/ddfh_2.jpg)
+  ![](/order-management/images/DDFH2.png)
 
-  ![](/order-management/images/ddfh_3.jpg)
+
 
   包裹更新物流信息后，买家可在洋码头账户中追踪状态，或者在物流公司的网站上追踪包裹状态。
 
