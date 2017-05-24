@@ -6,7 +6,6 @@
 
 * [平台介绍](whatsymt.md)
 * [平台优势](ymtbenifits.md)
-* [最新公告](ymtnews.md)
 
 ## 买手招募
 
