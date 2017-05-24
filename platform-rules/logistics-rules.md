@@ -1,24 +1,24 @@
 ### 洋码头平台物流规范及处罚细则
 
-为保障洋码头所有用户的合法权益，更好地维护洋码头的正常经营秩序，洋码头会对洋码头买手的违规行为采取对应的处罚措施。本规则的规定适用所有在洋码头官网，洋码头移动客户端（以下简称“洋码头平台”）注册的买手的任何违规行为。本规则所称“买手”指所有入驻洋码头平台的企业商户和个人卖家。凡本规则已有规定的，适用本规则；本规则尚无规定的，洋码头有权视情节严重性进行处理。
+    为保障洋码头所有用户的合法权益，更好地维护洋码头的正常经营秩序，洋码头会对洋码头买手的违规行为采取对应的处罚措施。本规则的规定适用所有在洋码头官网，洋码头移动客户端（以下简称“洋码头平台”）注册的买手的任何违规行为。本规则所称“买手”指所有入驻洋码头平台的企业商户和个人卖家。凡本规则已有规定的，适用本规则；本规则尚无规定的，洋码头有权视情节严重性进行处理。
 
-违规行为根据严重程度分为一般违规行为及严重违规行为，两者分别扣分、分别累计、分别执行。一般违规行为，是指除严重违规行为外的违规行为。严重违规行为，是指严重破坏洋码头经营秩序或涉嫌违反国家法律法规的行为，包括但不限于：违反国家法律法规，侵犯他人合法权利，发售禁销商品等。洋码头买手必须承诺其所售卖及代购物品来源合法，绝无假货。如买手发生出售假冒商品的情况，属严重违规行为，一经核实，一次性扣除60分，直接清退处理，并不再接受该买手再次注册。
+    违规行为根据严重程度分为一般违规行为及严重违规行为，两者分别扣分、分别累计、分别执行。一般违规行为，是指除严重违规行为外的违规行为。严重违规行为，是指严重破坏洋码头经营秩序或涉嫌违反国家法律法规的行为，包括但不限于：违反国家法律法规，侵犯他人合法权利，发售禁销商品等。洋码头买手必须承诺其所售卖及代购物品来源合法，绝无假货。如买手发生出售假冒商品的情况，属严重违规行为，一经核实，一次性扣除60分，直接清退处理，并不再接受该买手再次注册。
 
 审核方式包括但不限于：系统核查，人工抽查，投诉举报等。
 
-* 一、一般违规行为（一类），包括但不限于：
+#### 一、一般违规行为（一类），包括但不限于：
 
-  1、接单延迟：自买家支付全款开始，买手超时未接单
+1、接单延迟：自买家支付全款开始，买手超时未接单
 
-  2、系统发货延迟：国际段物流自买家支付全款开始，国内段物流自国际段物流被签收时起，买手超时未进行系统发货
+2、系统发货延迟：国际段物流自买家支付全款开始，国内段物流自国际段物流被签收时起，买手超时未进行系统发货
 
-  3、物流揽收延迟：自买家支付全款开始，订单所对应的物流单号超时未有流转信息
+3、物流揽收延迟：自买家支付全款开始，订单所对应的物流单号超时未有流转信息
 
-  4、违背承诺：买手实际使用的物流方式和相关商品页面上呈现的物流方式不一致
+4、违背承诺：买手实际使用的物流方式和相关商品页面上呈现的物流方式不一致
 
-  | 审核方法 | 处理规则 | 备注 |
-  | :--- | :--- | :--- |
-  | 主动监控/人工抽查/投诉举报 | 每5单扣1分，不足5单扣0.5分注：物流发货、揽收等延迟数据直接计入DSR，不重复进行违规扣分 | 情节严重的计店铺严重违规6分，并对店铺、商品的搜索进行降权操作 |
+| 审核方法 | 处理规则 | 备注 |
+| :--- | :--- | :--- |
+| 主动监控/人工抽查/投诉举报 | 每5单扣1分，不足5单扣0.5分注：物流发货、揽收等延迟数据直接计入DSR，不重复进行违规扣分 | 情节严重的计店铺严重违规6分，并对店铺、商品的搜索进行降权操作 |
 
 * 二、一般违规行为（二类），包括但不限于：
 
@@ -28,9 +28,9 @@
 
   如以上因未和买家做好及时沟通导致投诉产生，每单计店铺一般违规3分。情节严重的计店铺严重违规6分，并对店铺、商品的搜索进行降权操作。
 
-  | 审核方法 | 处理规则 | 备注 |
-  | :--- | :--- | :--- |
-  | 主动监控/人工抽查/投诉举报 | 每5单扣1分，不足5单扣0.5分注：物流揽收时间、签收时间早于订单付款时间，拼邮国内段物流揽收时间、签收时间早于国际段物流签收时间等异常数据直接计入DSR，不重复进行违规扣分 | 情节严重的计店铺严重违规6分，并对店铺、商品的搜索进行降权操作 |
+| 审核方法 | 处理规则 | 备注 |
+| :--- | :--- | :--- |
+| 主动监控/人工抽查/投诉举报 | 每5单扣1分，不足5单扣0.5分注：物流揽收时间、签收时间早于订单付款时间，拼邮国内段物流揽收时间、签收时间早于国际段物流签收时间等异常数据直接计入DSR，不重复进行违规扣分 | 情节严重的计店铺严重违规6分，并对店铺、商品的搜索进行降权操作 |
 
 * 三、严重违规行为，包括但不限于：
 
@@ -40,42 +40,42 @@
 
   3、凡买手出现上述严重违规情形的，除按照本处罚细则进行处罚外，还应按照中华人民共和国相关法律自行承担责任，洋码头有权向相关主管机构提供买手信息。当买家质疑假货时，买手须在洋码头要求的时间期限内提供相关证据材料，洋码头有权以普通或非专业人员的知识水平标准，根据相关证据材料和规则进行判定，涉假商品须按照《中华人民共和国消费者权益保护法》、《中华人民共和国食品安全法》等相关法律法规进行赔付。如买手发生出售假冒商品的情况，属严重违规行为，一经核实，一次性扣除60分，直接清退处理，并不再接受该买手再次注册，若该买手注册或掌握多个账户，洋码头有权清退其余账户。同时，洋码头有权对买手在洋码头的资金、保证金进行冻结，冻结范围以买手可能遭受的处罚或索赔金额为限，直至买手妥善处理完毕相关事宜为止。
 
-  | 审核方法 | 店铺扣分 | 备注 |
-  | :--- | :--- | :--- |
-  | 每次系统识别/人工抽查/投诉举报成立 | 10 | 情节严重的洋码头有权给予账户清退处理 |
+| 审核方法 | 店铺扣分 | 备注 |
+| :--- | :--- | :--- |
+| 每次系统识别/人工抽查/投诉举报成立 | 10 | 情节严重的洋码头有权给予账户清退处理 |
 
 * 四、处罚措施（处罚分值=商品扣分+店铺扣分）
 
-  | 处罚措施 | 累积12分 | 累积24分 | 累积36分 | 累积48分 | 累积60分 |
-  | :--- | :--- | :--- | :--- | :--- | :--- |
-  | 搜索和分类降权 | 7天 |  |  |  |  |
-  | 推荐降权（相关好货、猜你喜欢、各类主题页等） | 7天 |  |  |  |  |
-  | 直播不置顶 | 7天 |  |  |  |  |
-  | 限制报名活动 | 7天 | 7天 | 14天 | 21天 |  |
-  | 搜索和分类屏蔽 |  | 7天 | 14天 | 21天 |  |
-  | 推荐屏蔽（相关好货、猜你喜欢、各类主题页等） |  | 7天 | 14天 | 21天 |  |
-  | 限制发布商品 |  | 7天 | 14天 | 21天 |  |
-  | 限制发布直播 |  | 7天 | 14天 | 21天 |  |
-  | 直播屏蔽 |  | 7天 | 14天 | 21天 |  |
-  | 店铺屏蔽 |  | 7天 | 14天 | 21天 |  |
-  | 冻结资金 |  | 7天 | 14天 | 21天 |  |
-  | 账号清退 |  |  |  |  | 查封账户永久，冻结资金永久，暂停洋码头推广永久 |
+| 处罚措施 | 累积12分 | 累积24分 | 累积36分 | 累积48分 | 累积60分 |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 搜索和分类降权 | 7天 |  |  |  |  |
+| 推荐降权（相关好货、猜你喜欢、各类主题页等） | 7天 |  |  |  |  |
+| 直播不置顶 | 7天 |  |  |  |  |
+| 限制报名活动 | 7天 | 7天 | 14天 | 21天 |  |
+| 搜索和分类屏蔽 |  | 7天 | 14天 | 21天 |  |
+| 推荐屏蔽（相关好货、猜你喜欢、各类主题页等） |  | 7天 | 14天 | 21天 |  |
+| 限制发布商品 |  | 7天 | 14天 | 21天 |  |
+| 限制发布直播 |  | 7天 | 14天 | 21天 |  |
+| 直播屏蔽 |  | 7天 | 14天 | 21天 |  |
+| 店铺屏蔽 |  | 7天 | 14天 | 21天 |  |
+| 冻结资金 |  | 7天 | 14天 | 21天 |  |
+| 账号清退 |  |  |  |  | 查封账户永久，冻结资金永久，暂停洋码头推广永久 |
 
-  **规则补充：**
+**规则补充：**
 
-  1，计分按照违规类型进行统计，并不区分计分来源，商品违规扣分、物流违规扣分等计分进行累计计算。
+1，计分按照违规类型进行统计，并不区分计分来源，商品违规扣分、物流违规扣分等计分进行累计计算。
 
-  2、一般违规分值每达12分进行处罚，超出则归零重新计算
+2、一般违规分值每达12分进行处罚，超出则归零重新计算
 
-  例1：买手在11分时被扣了2分，此时平台对买手处以“店铺屏蔽7天，搜索降权7天，限制发布商品7天”的处罚。此时计分从1分开始再次累计。
+例1：买手在11分时被扣了2分，此时平台对买手处以“店铺屏蔽7天，搜索降权7天，限制发布商品7天”的处罚。此时计分从1分开始再次累计。
 
-  例2：买手在11分时因两项违规被叠加扣除了15分，此时买手应接受搜索降权14天的惩罚
+例2：买手在11分时因两项违规被叠加扣除了15分，此时买手应接受搜索降权14天的惩罚
 
-  例3：买手已在处罚中的第5天，这时买手因恶意骚扰被扣了12分，这时第二轮处罚天数会从当下开始计算，故两次处罚时间相加为12天
+例3：买手已在处罚中的第5天，这时买手因恶意骚扰被扣了12分，这时第二轮处罚天数会从当下开始计算，故两次处罚时间相加为12天
 
-  3、同一个商品如触发多个违规原因都会扣分
+3、同一个商品如触发多个违规原因都会扣分
 
-  4、严重违规分值有效期为1个自然年，年度内累计的未达60分的分值会在当年的12月31日24时清零
+4、严重违规分值有效期为1个自然年，年度内累计的未达60分的分值会在当年的12月31日24时清零
 
 * 附件（一） 物流约束表
 
@@ -93,100 +93,100 @@
 
   洋码头基于买手注册所在国对买手的订单做以下物流配送约束：
 
-  | 地区 | 贝海直邮 | 第三方直邮 | 拼邮 |
-  | :--- | :--- | :--- | :--- |
-  | 北美洲 | Y | Y | N |
-  | 澳洲 | Y | Y | N |
-  | 亚洲 | Y | Y | Y |
-  | 欧洲 | Y | Y | Y |
+| 地区 | 贝海直邮 | 第三方直邮 | 拼邮 |
+| :--- | :--- | :--- | :--- |
+| 北美洲 | Y | Y | N |
+| 澳洲 | Y | Y | N |
+| 亚洲 | Y | Y | Y |
+| 欧洲 | Y | Y | Y |
 
-  \(洋码头将不定期更新下表，并在官方网站进行公示\)
+\(洋码头将不定期更新下表，并在官方网站进行公示\)
 
-  | 国家或地区 | 拼邮 | 第三方直邮（包含拼邮国际段） |
-  | :--- | :--- | :--- |
-  | 日本 | Y | 日本邮政（Japan Post）,宅急送，顺丰速运，韵达快递，EMS；Fedex；DHL；UPS， |
-  | 韩国 | Y | 韩国（Korea Post），顺丰速运，韵达快递，申通快递，卡蒙，启辰物流，EMS；Fedex；DHL；UPS， |
-  | 德国 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS；启辰物流，EMS；Fedex；DHL；UPS， |
-  | 意大利 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS |
-  | 法国 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 英国 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 西班牙 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 荷兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 比利时 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 香港 | Y | 顺丰速运，申通快递，宅急送，韵达快递，，EMS；Fedex；DHL；UPS， |
-  | 新西兰 | N | 新西兰（New Zealand Post）,顺丰速运，韵达快递,新顺丰（NSF），程光快递，EFS Post，EMS；Fedex；DHL；UPS， |
-  | 泰国 | Y | 顺丰速运，韵达快递，申通快递，EMS；Fedex；DHL；UPS， |
-  | 加拿大 | N | EMS；Fedex；DHL；UPS，泛捷；AAE |
-  | 台湾 | Y | EMS；Fedex；DHL；UPS，台湾（中华邮政），顺丰速运 |
-  | 尼泊尔 | Y | EMS；Fedex；DHL；UPS， |
-  | 瑞典 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 波兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS；启辰物流 |
-  | 俄罗斯 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 印度 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
-  | 匈牙利 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 土耳其 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 新加坡 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
-  | 葡萄牙 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 印度尼西亚 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
-  | 马来西亚 | Y | EMS；Fedex；DHL；UPS，顺丰速运；马来西亚邮政 |
-  | 捷克共和国 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 南非 | Y | EMS；Fedex；DHL；UPS，南非（South African Post Office） |
-  | 保加利亚 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 丹麦 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 澳门 | Y | EMS；Fedex；DHL；UPS，顺丰速运，韵达快递 |
-  | 挪威 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 埃及 | Y | EMS；Fedex；DHL；UPS， |
-  | 芬兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 摩洛哥 | Y | EMS；Fedex；DHL；UPS， |
-  | 希腊 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 越南 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
-  | 斯里兰卡 | Y | EMS；Fedex；DHL；UPS， |
-  | 奥地利 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 爱尔兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 瑞士 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
-  | 肯尼亚 | Y | EMS；Fedex；DHL；UPS， |
-  | 阿根廷 | Y | EMS；Fedex；DHL；UPS， |
-  | 巴西 | Y | EMS；Fedex；DHL；UPS， |
-  | 智利 | Y | EMS；Fedex；DHL；UPS， |
-  | 以色列 | Y | EMS；Fedex；DHL；UPS， |
+| 国家或地区 | 拼邮 | 第三方直邮（包含拼邮国际段） |
+| :--- | :--- | :--- |
+| 日本 | Y | 日本邮政（Japan Post）,宅急送，顺丰速运，韵达快递，EMS；Fedex；DHL；UPS， |
+| 韩国 | Y | 韩国（Korea Post），顺丰速运，韵达快递，申通快递，卡蒙，启辰物流，EMS；Fedex；DHL；UPS， |
+| 德国 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS；启辰物流，EMS；Fedex；DHL；UPS， |
+| 意大利 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS |
+| 法国 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 英国 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 西班牙 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 荷兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 比利时 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 香港 | Y | 顺丰速运，申通快递，宅急送，韵达快递，，EMS；Fedex；DHL；UPS， |
+| 新西兰 | N | 新西兰（New Zealand Post）,顺丰速运，韵达快递,新顺丰（NSF），程光快递，EFS Post，EMS；Fedex；DHL；UPS， |
+| 泰国 | Y | 顺丰速运，韵达快递，申通快递，EMS；Fedex；DHL；UPS， |
+| 加拿大 | N | EMS；Fedex；DHL；UPS，泛捷；AAE |
+| 台湾 | Y | EMS；Fedex；DHL；UPS，台湾（中华邮政），顺丰速运 |
+| 尼泊尔 | Y | EMS；Fedex；DHL；UPS， |
+| 瑞典 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 波兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS；启辰物流 |
+| 俄罗斯 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 印度 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
+| 匈牙利 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 土耳其 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 新加坡 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
+| 葡萄牙 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 印度尼西亚 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
+| 马来西亚 | Y | EMS；Fedex；DHL；UPS，顺丰速运；马来西亚邮政 |
+| 捷克共和国 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 南非 | Y | EMS；Fedex；DHL；UPS，南非（South African Post Office） |
+| 保加利亚 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 丹麦 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 澳门 | Y | EMS；Fedex；DHL；UPS，顺丰速运，韵达快递 |
+| 挪威 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 埃及 | Y | EMS；Fedex；DHL；UPS， |
+| 芬兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 摩洛哥 | Y | EMS；Fedex；DHL；UPS， |
+| 希腊 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 越南 | Y | EMS；Fedex；DHL；UPS，顺丰速运 |
+| 斯里兰卡 | Y | EMS；Fedex；DHL；UPS， |
+| 奥地利 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 爱尔兰 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 瑞士 | Y | 德国邮政\(Deutsche Post\)，比利时（Bpost），意大利邮政\(Poste Italiane\)，法国邮政\(La Poste\)，荷兰邮政国际挂号包裹\(PostNL\),荷兰邮政PostNL英国皇家邮政-Parcel Force，英国皇家邮政国际挂号包裹（Royal Mail），波兰邮政，葡萄牙邮政，俄罗斯邮政，瑞典邮政（Sweden Post），西班牙邮政\(Correos de Espa?a\)，EMS；Fedex；DHL；UPS， |
+| 肯尼亚 | Y | EMS；Fedex；DHL；UPS， |
+| 阿根廷 | Y | EMS；Fedex；DHL；UPS， |
+| 巴西 | Y | EMS；Fedex；DHL；UPS， |
+| 智利 | Y | EMS；Fedex；DHL；UPS， |
+| 以色列 | Y | EMS；Fedex；DHL；UPS， |
 
 * 附件二:贝海海外仓地址
 
-  **1.北美**
+**1.北美**
 
-  洛杉矶分拨中心 14351 Bonelli St. City of Industry CA 91746
+洛杉矶分拨中心 14351 Bonelli St. City of Industry CA 91746
 
-  旧金山分拨中心 382 S. Abbott Ave, Milpitas, CA 95035
+旧金山分拨中心 382 S. Abbott Ave, Milpitas, CA 95035
 
-  纽约分拨中心 154-01 Barclay Ave. Unit A Flushing, NY 11355
+纽约分拨中心 154-01 Barclay Ave. Unit A Flushing, NY 11355
 
-  芝加哥分拨中心 2705 S Archer AVE F1, Chicago IL 60608
+芝加哥分拨中心 2705 S Archer AVE F1, Chicago IL 60608
 
-  拉斯维加斯分拨中心 3585 S Decatur Blvd. \#B Las Vegas NV 89103
+拉斯维加斯分拨中心 3585 S Decatur Blvd. \#B Las Vegas NV 89103
 
-  波特兰分拨中心8055 SW Nimbus Ave, Beaverton, OR 97008
+波特兰分拨中心8055 SW Nimbus Ave, Beaverton, OR 97008
 
-  **2.欧洲**
+**2.欧洲**
 
-  伦敦分拨中心 Unit A12， National Works, Bath Road, Hounslow, Middlesex TW4 7EA
+伦敦分拨中心 Unit A12， National Works, Bath Road, Hounslow, Middlesex TW4 7EA
 
-  法兰克福分拨中心 Im Taubengrund 35 65451 Kelsterbach
+法兰克福分拨中心 Im Taubengrund 35 65451 Kelsterbach
 
-  巴黎分拨中心 Zone Cargo 4, 2 rue des Voyelles, 95723 Roissy CDG
+巴黎分拨中心 Zone Cargo 4, 2 rue des Voyelles, 95723 Roissy CDG
 
-  **3.澳洲**
+**3.澳洲**
 
-  墨尔本分拨中心 42 terracotta drive, nunawading, 3131
+墨尔本分拨中心 42 terracotta drive, nunawading, 3131
 
-  悉尼分拨中心 1/5 Green Street, Revesby NSW 2212
+悉尼分拨中心 1/5 Green Street, Revesby NSW 2212
 
-  **4.亚洲**
+**4.亚洲**
 
-  东京分拨中心埼玉県川口市安行慈林379 334-0071
+东京分拨中心埼玉県川口市安行慈林379 334-0071
 
-  仁川分拨中心1-3, DUC Co., Ltd., 1579-8, Oryu-dong, Seo-gu, Incheon, KoreaIncheon Hub
+仁川分拨中心1-3, DUC Co., Ltd., 1579-8, Oryu-dong, Seo-gu, Incheon, KoreaIncheon Hub
 
-  大阪分拔中心大阪府八尾市高砂町5-4-6
+大阪分拔中心大阪府八尾市高砂町5-4-6
 
 * 附件三：进出境检验检疫局禁运物品
 
