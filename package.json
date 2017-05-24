@@ -4,7 +4,7 @@
   "description": "洋码头买手运营手册",
   "main": "app.js",
   "scripts": {
-    "node-install": "npm install gitbook-cli && gitbook install",
+    "node-install": "npm install gitbook-cli --registry http://172.16.100.23:4873 && gitbook install --registry http://172.16.100.23:4873",
     "compile": "gitbook build . ./dist"
   },
   "author": "zhangyidong",
