@@ -47,7 +47,7 @@ POST报文体是如下请求参数组成的JSON报文
 
 * 请求示例\(ymatou.sku.stock.update 修改商品库存\)
 
-* url: [https://open.ymatou.com/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update](https://open.ymatou.com/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update)
+* url: [https://open.ymatou.com/apigateway/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update](https://open.ymatou.com/apigateway/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update)
 
 * header: Content-Type:application\/json
 
