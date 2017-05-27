@@ -21,7 +21,7 @@
 
 #### 了解系统调用
 
-* 平台调用URL, 接口采用HTTPS加密协议 \([https://open.ymatou.com/api/v1/{app\_id}/{method}](https://open.ymatou.com/api/v1/{app_id}/{method})
+* 平台调用URL, 接口采用HTTPS加密协议 \([https://open.ymatou.com/apigateway/v1/{app\_id}/{method}](https://open.ymatou.com/apigateway/v1/{app_id}/{method})
 
 * 接口系统参数说明 [指南](/openapi/how-to-call-api.md)
 
@@ -49,6 +49,3 @@
   “网店管家”是广泛应用于电商行业，开发历史悠久的电子商务ERP/CRM/O2O/跨境一体化解决方案。功能上囊括了订单处理、生产加工、财务账款、供应链、仓储、门店管家\(ePOS\)、跨境以及CRM、OA等主要模块。网店管家连续多年为淘宝（天猫）服务市场评为金牌淘拍档合作伙伴（最高级别），被京东评为金标杆合作伙伴（最高级别），为2万多家优质电商卖家提供ERP服务。网店管家优势：对接平台多（70多个），用户基数大，完善的功能和系统实施解决方案等。
 
   ![](/openapi/images/wangdianguanjia.png)
-
-
-

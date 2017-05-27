@@ -4,7 +4,7 @@
 
 #### 调用URL(POST)
 
-[https://open.ymatou.com/api/v1?app_id={app_id}&method={method}](https://open.ymatou.com/api/v1?app_id={app_id}&method={method})
+[https://open.ymatou.com/apigateway/v1?app_id={app_id}&method={method}](https://open.ymatou.com/apigateway/v1?app_id={app_id}&method={method})
 
 其中:<br/>
 * {app_id}：洋码头分配的应用appId。示例值: zWYVVFagTfenOHDPTm
@@ -47,7 +47,7 @@ POST报文体是如下请求参数组成的JSON报文
 
 * 请求示例\(ymatou.sku.stock.update 修改商品库存\)
 
-* url: [https://open.ymatou.com/api/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update](https://open.ymatou.com/api/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update)
+* url: [https://open.ymatou.com/apigateway/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update](https://open.ymatou.com/apigateway/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update)
 
 * header: Content-Type:application\/json
 

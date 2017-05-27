@@ -3,7 +3,7 @@
 ---
 
 
-一、修改个人信息
+#### 一、修改个人信息
 
 登录卖家版PC主页，点击左上角头像旁“设置”，跳转修改个人信息页面，这里可以修改用户名、联系电话等信息，用户名只可以修改一次。
 
@@ -12,17 +12,15 @@
 ![](/seller-platform/images/xggrxx_2.png)
 
 
-### 买手子账号设置
-
----
+#### 二、买手子账号设置
 
 **1、创建角色**
 
-![](/seller-platform/images/subaccount_6.png)
+  ![](/seller-platform/images/subaccount_6.png)
 
 1）在菜单“设置”下，点击“子账号管理”，选择“角色管理-新建角色”。
 
-![](/seller-platform/images/subaccount_7.png)
+  ![](/seller-platform/images/subaccount_7.png)
 
 2）角色名称可自定义创建。
 
@@ -30,7 +28,7 @@
 
 4）目前仅限设置PC端的功能权限；子账号由于无法登录APP端，所以暂时不考虑APP端的功能权限。
 
-![](/seller-platform/images/subaccount_8.png)
+  ![](/seller-platform/images/subaccount_8.png)
 
 **2、角色管理-编辑、删除**
 
@@ -40,21 +38,21 @@
 
 2. 如该角色已分配给相应的子账号，删除此角色后，拥有此角色权限的子账号无法使用此角色权限
 
-![](/seller-platform/images/subaccount_9.png)
+  ![](/seller-platform/images/subaccount_9.png)
 
 **3、创建子账号**
 
-![](/seller-platform/images/subaccount_10.png)
+  ![](/seller-platform/images/subaccount_10.png)
 
-1） 子账号全名称总长不能超过20个字符；
+1、子账号全名称总长不能超过20个字符；
 
-2） 子账号邮箱可使用客服提供的邮箱；
+2、子账号邮箱可使用客服提供的邮箱；
 
-3） 初始登录密码由主账号自行设置；
+3、初始登录密码由主账号自行设置；
 
-4） 备注可自行填写，比如客服姓名，联系方式等；
+4、备注可自行填写，比如客服姓名，联系方式等；
 
-5） 选择分配至该子账号的功能权限，系统提供4个角色（无法编辑删除）：客服、运营、发货、售后，如需其他角色，可自行创建。
+5、选择分配至该子账号的功能权限，系统提供4个角色（无法编辑删除）：客服、运营、发货、售后，如需其他角色，可自行创建。
 
 ![](/seller-platform/images/subaccount_11.png)
 
@@ -68,7 +66,7 @@
 
 使用子账号和密码登录PC端账户，账户页面只展示被分配到的功能权限操作按键。
 
-* 四、买手子账号应用
+#### 三、买手子账号应用
 
   有“消息”权限的子账户才能登陆多客服。点击“买手客服工作台”，页面会跳转到 “码头洋洋买手客服工作台”标签页。登陆后的界面同前面介绍的IM界面。
 
