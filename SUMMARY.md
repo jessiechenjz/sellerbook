@@ -13,7 +13,7 @@
   * [ 买手 “Jolin” 故事](recruitment/success-stories/successstories1md.md)
   * [ 买手 “Corria & Tony” 故事](recruitment/success-stories/successstories2.md)
   * [买手 “牛哥” 故事](recruitment/success-stories/successtories3.md)
-  * [邱妞妞的美国购](recruitment/seller-qiu-niuniu.md)
+  * [邱妞妞的美国购](recruitment/success-stories/seller-qiu-niuniu.md)
   * [Vicent转型路](recruitment/success-stories/seller-vincent.md)
   * [KT PANDORA](recruitment/success-stories/seller-kt.md)
   * [澳新健康Top路](recruitment/success-stories/seller-meredith.md)
