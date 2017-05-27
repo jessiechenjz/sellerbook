@@ -13,7 +13,7 @@
     display: none;
 }
 
-.book-header {
+/*.book-header {
     position: fixed;
     top: 0;
     width: 100%;
@@ -22,7 +22,7 @@
 
 .book-header h1 {
     display: none;
-}
+}*/
 
 .fa-align-justify:after {
     content: '导航';
