@@ -133,8 +133,8 @@
   * [获取物流状态](openapi/xlobogetlabelstatus.md)
   * [获取货站](openapi/xlobogetterminallist.md)
   * [获取申报分类](openapi/xlobogetcatelogue.md)
-  * [getproductlist](openapi/getproductlist.md)
-  * [getproductdetail](openapi/getproductdetail.md)
+  * [获取商品列表](openapi/getproductlist.md)
+  * [获取商品详情](openapi/getproductdetail.md)
 * [常见问题](openapi/faq.md)
 
 ## 贝海物流
