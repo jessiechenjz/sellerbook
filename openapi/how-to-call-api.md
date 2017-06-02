@@ -49,7 +49,7 @@ POST报文体是如下请求参数组成的JSON报文
 
 * url: [https://open.ymatou.com/apigateway/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update](https://open.ymatou.com/apigateway/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update)
 
-* header: Content-Type:application\/json
+* header: Content-Type:application/json
 
 * body:
 > {
