@@ -4,7 +4,12 @@
 
 码头会陆续开放平台的服务能力，帮助买手完成自动化、全平台的作业流程
 
-#### 码头业务接口 （计划5月底提供）
+#### 接口更新说明：
+
+* 2017.5.26 提供的接口
+* 2017.6月份提供的接口
+
+#### 码头业务接口 
 
 | 接口名称 | 接口描述 |
 | :--- | :--- |
@@ -15,7 +20,7 @@
 | [ymatou.logistics.send](/openapi/sendlogistics.md) | 订单发货接口 |
 | [ymatou.logistics.companies.get](/openapi/getlogisticscompanies.md) | 获取买手物流公司信息 |
 | [ymatou.products.list.get](/openapi/getproductlist.md) | 获取商品列表 |
-| [ymatou.product.get](/openapi/getproductdetail.md) | 获取单个商品信息 |
+| [ymatou.product.detail.get](/openapi/getproductdetail.md) | 获取单个商品信息 |
 
 #### 贝海物流接口 （计划6月份提供）
 
