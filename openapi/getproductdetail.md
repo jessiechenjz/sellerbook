@@ -22,24 +22,25 @@
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| productId |  |  |  |
-| product\_name |  |  |  |
-| category\_id |  |  |  |
-| brand\_id |  |  |  |
-| brand\_name |  |  |  |
-| product\_images |  |  |  |
-| create\_time |  |  |  |
-| update\_time |  |  |  |
-| skus\[\] |  |  |  |
-| sku\_id |  |  |  |
-| properties |  |  |  |
-| outer\_id |  |  |  |
-| price |  |  |  |
-| vip\_price |  |  |  |
-| new\_price |  |  |  |
-| stock\_num |  |  |  |
-| weight |  |  |  |
-| extra\_info |  |  |  |
+| productId |  |  | 商品ID |
+| product\_name |  |  | 商品名称 |
+| category\_id |  |  | 类目ID |
+| brand\_id |  |  | 品牌ID |
+| brand\_name |  |  | 品牌名称 |
+| product\_images |  |  | 商品图片 |
+| product\_url |  |  | 商品显示URL |
+| create\_time |  |  | 创建时间 |
+| update\_time |  |  | 最后一次更新时间 |
+| skus\[\] | sku信息 |  |  |
+| sku\_id |  |  | SKU ID |
+| properties |  |  | SKU属性信息 |
+| outer\_id |  |  | 外部商品编码 |
+| price |  |  | 商品价格 |
+| vip\_price |  |  | vip商品价 |
+| new\_price |  |  | 新客价 |
+| stock\_num |  |  | 库存数量 |
+| weight |  |  | 规格重量 |
+| extra\_info |  |  | 扩充信息 |
 
 
 
