@@ -28,7 +28,9 @@
 | brand\_id |  |  |  |
 | brand\_name |  |  |  |
 | product\_images |  |  |  |
-| skus |  |  |  |
+| create\_time |  |  |  |
+| update\_time |  |  |  |
+| skus\[\] |  |  |  |
 | sku\_id |  |  |  |
 | properties |  |  |  |
 | outer\_id |  |  |  |
@@ -36,9 +38,8 @@
 | vip\_price |  |  |  |
 | new\_price |  |  |  |
 | stock\_num |  |  |  |
+| weight |  |  |  |
 | extra\_info |  |  |  |
-| create\_time |  |  |  |
-| update\_time |  |  |  |
 
 
 
