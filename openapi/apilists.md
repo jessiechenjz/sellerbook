@@ -14,8 +14,8 @@
 | [ymatou.order.detail.get](/openapi/getorderdetail.md) | 获取单个订单详情 |
 | [ymatou.logistics.send](/openapi/sendlogistics.md) | 订单发货接口 |
 | [ymatou.logistics.companies.get](/openapi/getlogisticscompanies.md) | 获取买手物流公司信息 |
-| ymatou.products.list.get | 获取商品列表 |
-| ymatou.product.get | 获取单个商品信息 |
+| [ymatou.products.list.get](/openapi/getproductlist.md) | 获取商品列表 |
+| [ymatou.product.get](/openapi/getproductdetail.md) | 获取单个商品信息 |
 
 #### 贝海物流接口 （计划6月份提供）
 
