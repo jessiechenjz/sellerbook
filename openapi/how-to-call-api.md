@@ -49,7 +49,7 @@ POST报文体是如下请求参数组成的JSON报文
 
 * url: [https://open.ymatou.com/apigateway/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update](https://open.ymatou.com/apigateway/v1?app_id=zWYVVFagTfenOHDPTm&method=ymatou.sku.stock.update)
 
-* header: Content-Type:application\/json
+* header: Content-Type:application/json
 
 * body:
 > {
@@ -58,7 +58,7 @@ POST报文体是如下请求参数组成的JSON报文
 > "timestamp":"2017-01-01 12:00:00",
 > "sign":"A950EEDA1342BBDB83AB8C79B759BE44",
 > "nonce\_str":"3g3jJVfI9CWwKMr45x9SkB0gbi9kAn28",
-> "biz\_content": "{\"sku_stocks\": \[{\"outer\_sku\_id\":\"393992\",\"stock\_num\":10},{\"outer\_sku\_id\":\"393993\",\"stock\_num\":12}\]}"
+> "biz\_content": "{"sku_stocks": \[{"outer\_sku\_id":"393992","stock\_num":10},{"outer\_sku\_id":"393993","stock\_num":12}\]}"
 > }
 
 * resp
