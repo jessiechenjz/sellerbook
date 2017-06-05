@@ -8,9 +8,9 @@
 
 其中:<br/>
 * {app_id}：洋码头分配的应用appId。示例值: zWYVVFagTfenOHDPTm
-* {method}：api名称。此参数在url上替换{method}。示例值: ymatou.sku.stock.update
+* {method}：api名称。示例值: ymatou.sku.stock.update
 
-POST报文体是如下请求参数组成的JSON报文
+POST请求报文体是如下请求参数组成的JSON报文<br/>
 响应报文体是如下响应参数组成JSON报文
 
 #### 请求参数格式
