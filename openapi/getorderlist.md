@@ -29,7 +29,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | code |  |  |  |  |
 | message |  |  |  |  |
-| orders\_info | OrderInfo\[\] |  |  |  |
+| orders\_info | JSON Object |  |  |  OrderInfo\[\] JSON报文体|
 |  |  |  |  |  |
 
 
