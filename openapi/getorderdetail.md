@@ -26,7 +26,7 @@
 | :--- | :--- | :--- | :--- |
 | code |  |  |  |
 | message |  |  |  |
-| order\_info | OrderInfo |  |  |
+| content | JSON Object |  |OrderInfo的JSON报文体  |
 
 * 类型描述 \(OrderInfo\)
 
