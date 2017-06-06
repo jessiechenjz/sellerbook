@@ -22,25 +22,31 @@
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| productId |  |  | 商品ID |
-| product\_name |  |  | 商品名称 |
-| category\_id |  |  | 类目ID |
-| brand\_id |  |  | 品牌ID |
-| brand\_name |  |  | 品牌名称 |
-| product\_images |  |  | 商品图片 |
-| product\_url |  |  | 商品显示URL |
-| create\_time |  |  | 创建时间 |
-| update\_time |  |  | 最后一次更新时间 |
+| productId | String |  | 商品ID |
+| product\_name | String |  | 商品名称 |
+| category\_id | int |  | 三级类目ID |
+| category\_name | String |  | 三级类目名称 |
+| brand\_id | int |  | 品牌ID |
+| brand\_name | String |  | 品牌名称 |
+| product\_images\[\] | String |  | 商品图片链接地址 |
+| product\_url | String |  | 商品显示URL |
+| create\_time | Datetime |  | 创建时间 |
+| update\_time | Datetime |  | 最后一次更新时间 |
+| listing\_start\_time | Datetime |  | 上架开始时间 |
+| listing\_end\_time | Datetime |  | 上架结束时间 |
 | skus\[\] | sku信息 |  |  |
-| sku\_id |  |  | SKU ID |
-| properties |  |  | SKU属性信息 |
-| outer\_id |  |  | 外部商品编码 |
-| price |  |  | 商品价格 |
-| vip\_price |  |  | vip商品价 |
-| new\_price |  |  | 新客价 |
-| stock\_num |  |  | 库存数量 |
-| weight |  |  | 规格重量 |
-| extra\_info |  |  | 扩充信息 |
+| sku\_id | String |  | SKU ID |
+| properties | String |  | SKU属性信息 |
+| outer\_id | String |  | 外部商品编码 |
+| sku\_image\_url | String |  | 规格图片链接 |
+| is\_used | Boolean |  | 是否启用 |
+| price | Decimal |  | 商品价格 |
+| vip\_price | Decimal |  | vip商品价 |
+| new\_price | Decimal |  | 新客价 |
+| stock\_num | Integer |  | 库存数量 |
+| weight | double |  | 规格重量 |
+| weight\_unit | Int |  | 重量单位（公斤、磅） |
+| extra\_info | String |  | 扩充信息 |
 
 
 
