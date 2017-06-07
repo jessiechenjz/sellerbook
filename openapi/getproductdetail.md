@@ -49,7 +49,7 @@
 | weight | double |  | 规格重量 |
 | weight\_unit | Int |  | 重量单位（公斤、磅） |
 | extra\_info | String |  | 扩充信息 |
-| properties[] | String |  | SKU属性信息|
+| properties[] | SKU属性信息 |  | |
 | name | String |  | 名称 |
 | value | String |  | 值  |
 | picUrl | String |  | 规格图片链接 |
