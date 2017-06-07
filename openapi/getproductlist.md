@@ -36,7 +36,7 @@
 | update\_time | Datetime |  | 最后一次更新时间 |
 | listing\_start\_time | Datetime |  | 上架开始时间 |
 | listing\_end\_time | Datetime |  | 上架结束时间 |
-| delivery\_type | int |  | 商品物流方式  |
+| delivery\_type | int |  | 商品物流方式 <br> 2. 直邮 3. 官方（贝海）直邮 4. 第三方保税 5. 官方（贝海）保税 7. 拼邮  |
 | is_fbx | int | | 是否FBX商品标识 |
 | skus\[\] | sku信息 |  |  |
 | sku\_id | String |  | SKU ID |
