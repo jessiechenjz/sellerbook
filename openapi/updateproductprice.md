@@ -55,7 +55,67 @@
 * url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.sku.price.update
 * 请求报文:    
 <br  />
-{"app_id":"CgZcxYhQaCXOt31YQe","method":"ymatou.sku.price.update","sign_method":"MD5","auth_code":"JmhUXrDRP4Mw7zEHs2p3iQJ4T7mUOGr3","timestamp":"2017-06-07 14:43:58","sign":"F945939585DFCD03EB14A3C2D9A93E87","nonce_str":"1008683644611559580007241663284","biz_content":"{\"sku_prices\":[{\"outer_sku_id\":\"SKU1186243233\",\"product_price\":3616.18,\"product_vip_price\":190.09,\"product_newuser_price\":18.38},{\"outer_sku_id\":\"SKU762135311\",\"product_price\":2052.64,\"product_vip_price\":492.56,\"product_newuser_price\":48.62},{\"outer_sku_id\":\"SKU1104016908\",\"product_price\":5548.32,\"product_vip_price\":961.57,\"product_newuser_price\":63.70},{\"outer_sku_id\":\"SKU433961823\",\"product_price\":4194.38,\"product_vip_price\":710.87,\"product_newuser_price\":94.46},{\"outer_sku_id\":\"SKU867183967\",\"product_price\":7127.79,\"product_vip_price\":282.46,\"product_newuser_price\":1.53},{\"outer_sku_id\":\"SKU482472743\",\"product_price\":516.54,\"product_vip_price\":828.61,\"product_newuser_price\":95.28},{\"outer_sku_id\":\"SKU83659384\",\"product_price\":4106.42,\"product_vip_price\":194.65,\"product_newuser_price\":2.00},{\"outer_sku_id\":\"SKU411660022\",\"product_price\":4505.02,\"product_vip_price\":624.28,\"product_newuser_price\":29.38}]}"}
+
+
+```
+{
+	"app_id": "CgZcxYhQaCXOt31YQe",
+	"method": "ymatou.sku.price.update",
+	"sign_method": "MD5",
+	"auth_code": "JmhUXrDRP4Mw7zEHs2p3iQJ4T7mUOGr3",
+	"timestamp": "2017-06-07 14:43:58",
+	"sign": "F945939585DFCD03EB14A3C2D9A93E87",
+	"nonce_str": "1008683644611559580007241663284",
+	"biz_content": "{\"sku_prices\":[{\"outer_sku_id\":\"SKU1186243233\",\"product_price\":3616.18,\"product_vip_price\":190.09,\"product_newuser_price\":18.38},{\"outer_sku_id\":\"SKU762135311\",\"product_price\":2052.64,\"product_vip_price\":492.56,\"product_newuser_price\":48.62},{\"outer_sku_id\":\"SKU1104016908\",\"product_price\":5548.32,\"product_vip_price\":961.57,\"product_newuser_price\":63.70},{\"outer_sku_id\":\"SKU433961823\",\"product_price\":4194.38,\"product_vip_price\":710.87,\"product_newuser_price\":94.46},{\"outer_sku_id\":\"SKU867183967\",\"product_price\":7127.79,\"product_vip_price\":282.46,\"product_newuser_price\":1.53},{\"outer_sku_id\":\"SKU482472743\",\"product_price\":516.54,\"product_vip_price\":828.61,\"product_newuser_price\":95.28},{\"outer_sku_id\":\"SKU83659384\",\"product_price\":4106.42,\"product_vip_price\":194.65,\"product_newuser_price\":2.00},{\"outer_sku_id\":\"SKU411660022\",\"product_price\":4505.02,\"product_vip_price\":624.28,\"product_newuser_price\":29.38}]}"
+}
+```
+
+
+
 * 返回报文:   
 <br  />
-{"code":"0000","message":"操作成功","content":{"results":[{"msg":"成功","outer_sku_id":"SKU1186243233","success":true},{"msg":"成功","outer_sku_id":"SKU762135311","success":true},{"msg":"成功","outer_sku_id":"SKU1104016908","success":true},{"msg":"成功","outer_sku_id":"SKU433961823","success":true},{"msg":"成功","outer_sku_id":"SKU867183967","success":true},{"msg":"成功","outer_sku_id":"SKU482472743","success":true},{"msg":"成功","outer_sku_id":"SKU83659384","success":true},{"msg":"成功","outer_sku_id":"SKU411660022","success":true}]}}
+
+
+```
+{
+	"code": "0000",
+	"message": "操作成功",
+	"content": {
+		"results": [{
+			"msg": "成功",
+			"outer_sku_id": "SKU1186243233",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU762135311",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU1104016908",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU433961823",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU867183967",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU482472743",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU83659384",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU411660022",
+			"success": true
+		}]
+	}
+}
+```
+
+
