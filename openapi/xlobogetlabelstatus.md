@@ -9,28 +9,29 @@
 
 ### 业务参数
 
+
 | 字段名 | 类型 | 可否为空 | 含义 |
 | :--- | :--- | :--- | :--- |
-| BillCodes |  | N | 一个或者多个面单号 |
+| billcodes |  | N | 一个或者多个面单号 |
 
 ### 输出：
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| TotalCount | Int | N | 更新数量 |
-| ErrorCount | Int | N | 出错数量 |
-| ErrorInfoList\(ErroInfo\) |  |  |  |
-| Identity | String | Y | 错误数据的标识 |
-| ErrorCode | String | Y | 错误代码 |
-| ErrorDescription | String | Y | 错误描述 |
-| Result\(BillTrackInfo\) |  |  |  |
-| BillCode | String | N | 面单号 |
-| BusinessNo | String | Y | 业务编号 |
-| BillStatusList |  |  | 面单状态列表 |
-| StartTime | String | N | 状态发生时间 |
-| Operator | String | N | 操作人 |
-| Status | String | N | 状态名称 |
-| StatusDetail | String | Y | 状态描述 |
+| total_count | Int | N | 更新数量 |
+| error_count | Int | N | 出错数量 |
+| error_info_list\(erroinfo\) |  |  |  |
+| identity | String | Y | 错误数据的标识 |
+| error_code | String | Y | 错误代码 |
+| error_description | String | Y | 错误描述 |
+| result\(BillTrackInfo\) |  |  |  |
+| billcode | String | N | 面单号 |
+| business_no | String | Y | 业务编号 |
+| bill_status_list |  |  | 面单状态列表 |
+| start_time | String | N | 状态发生时间 |
+| operator | String | N | 操作人 |
+| status | String | N | 状态名称 |
+| status_detail | String | Y | 状态描述 |
 
 
 ### 错误信息描述
@@ -41,5 +42,3 @@
 | Xlobo.bill.param\_error | 参数{0}错误或者不合法，检查传入的参数是否正确 |
 | Xlobo.bill.parm\_length\_over | 面单/运单信息列表过长，最多支持同时查询20个面单运单 |
 | Xlobo.bill.param\_code\_not\_exists | 面单/运单号{0}不存在，检查传入的面单/运单号是否有效 |
-
-
