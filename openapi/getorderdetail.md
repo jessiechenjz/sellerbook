@@ -74,6 +74,7 @@
 | product\_id | String |  | 商品Id |
 | product\_title | String |  | 商品名称 |
 | sku\_properties\_name | String | 颜色:红色;尺码:36 | SKU的属性值 |
+| delivery\_type | int |  | 商品物流方式 <br> 2. 直邮 3. 官方（贝海）直邮 4. 第三方保税 5. 官方（贝海）保税 7. 拼邮  |
 | price | Decimal | 200.00 | 商品价格 |
 | num | Integer | 2 | 商品数量 |
 | payment | Decimal | 380.00 | 支付金额 |
