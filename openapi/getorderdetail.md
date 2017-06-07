@@ -37,12 +37,12 @@
 | trade\_id | String | 232654104 | 主单号，合并支付产生的id |
 | order\_status | Integer | 4 | 1 未付款:ORDER_ESTABLISH, <br> 2 已付款待接单:ACCOUNT_PAID <br> 3 已发货:SHIPPED <br> 4 确认收货:RECEIVED <br> 12 买家取消订单:USER_ACCEPT_CANCEL <br> 13 卖家取消订单:SELLER_ACCEPT_CANCEL <br> 14 系统自动取消:SYSTEM_CANCEL <br> 17 已接单:SELLER_ACCEPT |
 | amount | Decimal | 200.00 | 订单金额 |
-| payment | Decimal | 190.00 | 买家实付金额 |
-| shipping\_fee | Decimal | 20.00 | 订单邮费分摊金额 |
+| payment | Decimal | 190.00 | 买家应付金额 |
+| shipping\_fee | Decimal | 20.00 | 订单运费金额 |
 | p\_coupon\_discount | Decimal | 10 | 平台优惠券分摊金额 |
 | m\_coupon\_discount | Decimal | 5 | 买手优惠券分摊金额 |
 | m\_promotion\_discount | Decimal | 10 | 买手促销活动分摊金额 |
-| m\_adjust\_discount | Decimal |  -5.00| 买手调价分摊金额 |
+| m\_adjust\_discount | Decimal |  -5.00| 买手调价金额 |
 | order\_time | String |  | 下单时间 yyyy-MM-dd HH:mm:ss|
 | paid\_time | String |  | 付款时间 yyyy-MM-dd HH:mm:ss|
 | shipping\_time | String |  | 发货时间 yyyy-MM-dd HH:mm:ss |
@@ -77,7 +77,7 @@
 | price | Decimal | 200.00 | 商品价格 |
 | num | Integer | 2 | 商品数量 |
 | payment | Decimal | 380.00 | 支付金额 |
-| shipping\_fee | Decimal | 20.00 | 邮费分摊金额 |
+| shipping\_fee | Decimal | 20.00 | 运费分摊金额 |
 | p\_coupon\_discount| Decimal|20 |	平台优惠券分摊金额 |
 | m\_coupon\_discount| Decimal |10 | 买手优惠券分摊金额 |
 | m\_promotion\_discount| Decimal |5 |买手促销活动分摊金额 |
