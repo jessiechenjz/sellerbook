@@ -22,7 +22,7 @@
 | comment | String | N | 面单备注 |
 | logistic_id | Integer | N | 货站Id，验证有效性，货站是否存在，用版本进行验证 |
 | logistic_version | String | N | 货站最新版本时间，格式为（yyyy-MM-dd HH：mm：ss），验证版本有效性 |
-| linetype_id | Integer | N | 线路类型Id，1-个人快件 3-电商快件 9-奶粉专线 |
+| line_type_id | Integer | N | 线路类型Id，1-个人快件 3-电商快件 9-奶粉专线 |
 | is_contain_tax | Integer | Y | 价格是否包税，0-不包税 1-包税（电商快件必填） |
 | bill_sender_info |  |  | 发件人信息 |
 | name | String | N | 发件人姓名 |
