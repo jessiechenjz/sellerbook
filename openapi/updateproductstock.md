@@ -53,7 +53,65 @@
 * url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.sku.stock.update
 * 请求报文:    
 <br  />
-{"app_id":"CgZcxYhQaCXOt31YQe","method":"ymatou.sku.stock.update","sign_method":"MD5","auth_code":"JmhUXrDRP4Mw7zEHs2p3iQJ4T7mUOGr3","timestamp":"2017-06-07 14:23:05","sign":"8674B04AC90BC832F30F96F722AE737A","nonce_str":"9766600700979402217096246554958","biz_content":"{\"sku_stocks\":[{\"outer_sku_id\":\"SKU1155239418\",\"stock_num\":79},{\"outer_sku_id\":\"SKU171412919\",\"stock_num\":41},{\"outer_sku_id\":\"SKU217813146\",\"stock_num\":70},{\"outer_sku_id\":\"SKU1330677937\",\"stock_num\":38},{\"outer_sku_id\":\"SKU1256079248\",\"stock_num\":26},{\"outer_sku_id\":\"SKU354224187\",\"stock_num\":82},{\"outer_sku_id\":\"SKU860303309\",\"stock_num\":50},{\"outer_sku_id\":\"SKU100948397\",\"stock_num\":84}]}"}
+
+
+```
+{
+	"app_id": "CgZcxYhQaCXOt31YQe",
+	"method": "ymatou.sku.stock.update",
+	"sign_method": "MD5",
+	"auth_code": "JmhUXrDRP4Mw7zEHs2p3iQJ4T7mUOGr3",
+	"timestamp": "2017-06-07 14:23:05",
+	"sign": "8674B04AC90BC832F30F96F722AE737A",
+	"nonce_str": "9766600700979402217096246554958",
+	"biz_content": "{\"sku_stocks\":[{\"outer_sku_id\":\"SKU1155239418\",\"stock_num\":79},{\"outer_sku_id\":\"SKU171412919\",\"stock_num\":41},{\"outer_sku_id\":\"SKU217813146\",\"stock_num\":70},{\"outer_sku_id\":\"SKU1330677937\",\"stock_num\":38},{\"outer_sku_id\":\"SKU1256079248\",\"stock_num\":26},{\"outer_sku_id\":\"SKU354224187\",\"stock_num\":82},{\"outer_sku_id\":\"SKU860303309\",\"stock_num\":50},{\"outer_sku_id\":\"SKU100948397\",\"stock_num\":84}]}"
+}
+```
+
+
 * 返回报文:   
 <br  />
-{"code":"0000","message":"操作成功","content":{"results":[{"msg":"成功","outer_sku_id":"SKU1155239418","success":true},{"msg":"成功","outer_sku_id":"SKU171412919","success":true},{"msg":"成功","outer_sku_id":"SKU217813146","success":true},{"msg":"成功","outer_sku_id":"SKU1330677937","success":true},{"msg":"成功","outer_sku_id":"SKU1256079248","success":true},{"msg":"成功","outer_sku_id":"SKU354224187","success":true},{"msg":"成功","outer_sku_id":"SKU860303309","success":true},{"msg":"成功","outer_sku_id":"SKU100948397","success":true}]}}
+
+
+```
+{
+	"code": "0000",
+	"message": "操作成功",
+	"content": {
+		"results": [{
+			"msg": "成功",
+			"outer_sku_id": "SKU1155239418",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU171412919",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU217813146",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU1330677937",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU1256079248",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU354224187",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU860303309",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU100948397",
+			"success": true
+		}]
+	}
+}
+```
+
