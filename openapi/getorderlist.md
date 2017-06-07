@@ -32,6 +32,64 @@
 | orders\_info | JSON Object |  |  |  OrderInfo\[\] JSON报文体|
 |  |  |  |  |  |
 
+* 类型描述 \(OrderInfo\)
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| seller\_id | String | 洋妈咪甄选 | 买手名称 |
+| order\_id | Long | 121736528 | 订单编号 |
+| trade\_id | String | 232654104 | 主单号，合并支付产生的id |
+| order\_status | Integer | 4 | 1 未付款:ORDER_ESTABLISH, <br> 2 已付款待接单:ACCOUNT_PAID <br> 3 已发货:SHIPPED <br> 4 确认收货:RECEIVED <br> 12 买家取消订单:USER_ACCEPT_CANCEL <br> 13 卖家取消订单:SELLER_ACCEPT_CANCEL <br> 14 系统自动取消:SYSTEM_CANCEL <br> 17 已接单:SELLER_ACCEPT |
+| amount | Decimal | 200.00 | 订单金额 |
+| payment | Decimal | 190.00 | 买家应付金额 |
+| shipping\_fee | Decimal | 20.00 | 订单运费金额 |
+| p\_coupon\_discount | Decimal | 10 | 平台优惠券分摊金额 |
+| m\_coupon\_discount | Decimal | 5 | 买手优惠券分摊金额 |
+| m\_promotion\_discount | Decimal | 10 | 买手促销活动分摊金额 |
+| m\_adjust\_discount | Decimal |  -5.00| 买手调价金额 |
+| order\_time | String |  | 下单时间 yyyy-MM-dd HH:mm:ss|
+| paid\_time | String |  | 付款时间 yyyy-MM-dd HH:mm:ss|
+| outer_order_no | String | | 提供给支付公司的外部商户订单号 |
+| shipping\_time | String |  | 发货时间 yyyy-MM-dd HH:mm:ss |
+| cancel\_time | String |  | 取消时间 yyyy-MM-dd HH:mm:ss|
+| seller\_memo | String |  | 买手备注 |
+| buyer\_remark | String |  | 买家留言 |
+| buyer\_id | String | vera\_1214 | 买家id |
+| receiver\_name | String | 李四 | 收件人姓名 |
+| receiver\_state | String |  | 收件人国家 |
+| receiver\_address | String |  | 收件人地址 |
+| receiver\_zip | String |  | 收件人邮编 |
+| receiver\_mobile | String |  | 收件人手机 |
+| receiver\_phone | String |  | 收件人电话 |
+| receiver\_email | String |  | 收件人邮箱 |
+| order\_items\_info | OrderItemInfo\[\] |  | 订单商品明细 |  
+
+
+* 类型描述 \(OrderItemInfo\)
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| order\_id | Long |  | 订单号 |
+| order\_item\_id | String |  | 子订单编号 |
+| refund\_id | String |  | 退货退款单ID |
+| refund\_status | Integer | 1 | 退货退款状态 -1审核拒绝, 0:退款审核中, 1:退款审核成功 |
+| refund\_num | Integer | 1 | 退货数量 |
+| sku\_id | String | 399393920-333 | SkuId |
+| outer\_sku\_id | String | 3838822 | 买手商品编码 |
+| product\_id | String |  | 商品Id |
+| product\_title | String |  | 商品名称 |
+| sku\_properties\_name | String | 颜色:红色;尺码:36 | SKU的属性值 |
+| delivery\_type | int |  | 商品物流方式 <br> 2. 直邮 3. 官方（贝海）直邮 4. 第三方保税 5. 官方（贝海）保税 7. 拼邮  |
+| price | Decimal | 200.00 | 商品价格 |
+| num | Integer | 2 | 商品数量 |
+| payment | Decimal | 380.00 | 支付金额 |
+| shipping\_fee | Decimal | 20.00 | 运费分摊金额 |
+| p\_coupon\_discount| Decimal|20 |	平台优惠券分摊金额 |
+| m\_coupon\_discount| Decimal |10 | 买手优惠券分摊金额 |
+| m\_promotion\_discount| Decimal |5 |买手促销活动分摊金额 |
+| m\_adjust\_discount | Decimal | -5.00 | 买手调整分摊金额 |
+
+
 
 ### 错误信息描述
 
