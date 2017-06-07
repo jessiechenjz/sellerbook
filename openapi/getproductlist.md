@@ -62,4 +62,19 @@
 * url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.order.list.get
 * 请求报文:    
 <br  />
-{"app_id":"aBNgc6RkDwYkdckavF","method":"ymatou.order.list.get","sign_method":"MD5","auth_code":"8UyV9ryKksAAlPwpduneO5rJ4l369yDT","timestamp":"2017-06-07 14:56:40","sign":"725C28BE74AD25364B572127456052D8","nonce_str":"0059636705582427847896181253219","biz_content":"{\"order_status\":\"2\",\"date_type\":1,\"sort_type\":1,\"start_date\":\"2017-06-02 14:56:40\",\"end_date\":\"2017-06-07 14:56:40\",\"page_no\":1,\"page_rows\":10}"}
+
+
+```
+{
+	"app_id": "aBNgc6RkDwYkdckavF",
+	"method": "ymatou.order.list.get",
+	"sign_method": "MD5",
+	"auth_code": "8UyV9ryKksAAlPwpduneO5rJ4l369yDT",
+	"timestamp": "2017-06-07 14:56:40",
+	"sign": "725C28BE74AD25364B572127456052D8",
+	"nonce_str": "0059636705582427847896181253219",
+	"biz_content": "{\"order_status\":\"2\",\"date_type\":1,\"sort_type\":1,\"start_date\":\"2017-06-02 14:56:40\",\"end_date\":\"2017-06-07 14:56:40\",\"page_no\":1,\"page_rows\":10}"
+}
+```
+
+
