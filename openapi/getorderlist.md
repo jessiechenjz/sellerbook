@@ -34,3 +34,14 @@
 
 
 ### 错误信息描述
+
+
+
+#### 示例报文
+
+* url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.order.list.get
+* 请求报文:    
+<br  />
+{"app_id":"CgZcxYhQaCXOt31YQe","method":"ymatou.order.list.get","sign_method":"MD5","auth_code":"JmhUXrDRP4Mw7zEHs2p3iQJ4T7mUOGr3","timestamp":"2017-06-07 14:51:21","sign":"7A3C0386906D77997A1B1AA4947A996D","nonce_str":"3376836157552545834527182511616","biz_content":"{\"order_status\":\"2\",\"date_type\":1,\"sort_type\":1,\"start_date\":\"2017-06-02 14:51:21\",\"end_date\":\"2017-06-07 14:51:21\",\"page_no\":1,\"page_rows\":10}"}
+* 返回报文:   
+<br  />
