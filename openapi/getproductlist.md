@@ -54,3 +54,15 @@
 | name | String |  | 名称 |
 | value | String |  | 值  |
 | picUrl | String |  | 规格图片链接 |
+
+
+
+#### 示例报文
+
+* url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.order.list.get
+* 请求报文:    
+<br  />
+{"app_id":"aBNgc6RkDwYkdckavF","method":"ymatou.order.list.get","sign_method":"MD5","auth_code":"8UyV9ryKksAAlPwpduneO5rJ4l369yDT","timestamp":"2017-06-07 14:56:40","sign":"725C28BE74AD25364B572127456052D8","nonce_str":"0059636705582427847896181253219","biz_content":"{\"order_status\":\"2\",\"date_type\":1,\"sort_type\":1,\"start_date\":\"2017-06-02 14:56:40\",\"end_date\":\"2017-06-07 14:56:40\",\"page_no\":1,\"page_rows\":10}"}
+* 返回报文:   
+<br  />
+{"code":"0000","message":"操作成功","content":{"results":[{"msg":"成功","outer_sku_id":"SKU1155239418","success":true},{"msg":"成功","outer_sku_id":"SKU171412919","success":true},{"msg":"成功","outer_sku_id":"SKU217813146","success":true},{"msg":"成功","outer_sku_id":"SKU1330677937","success":true},{"msg":"成功","outer_sku_id":"SKU1256079248","success":true},{"msg":"成功","outer_sku_id":"SKU354224187","success":true},{"msg":"成功","outer_sku_id":"SKU860303309","success":true},{"msg":"成功","outer_sku_id":"SKU100948397","success":true}]}}
