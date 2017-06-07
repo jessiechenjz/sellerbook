@@ -30,7 +30,7 @@
 | category\_name | String |  | 三级类目名称 |
 | brand\_id | int |  | 品牌ID |
 | brand\_name | String |  | 品牌名称 |
-| product\_images\[\] | String |  | 商品图片链接地址 |
+| product\_images | String\[\] |  | 商品图片链接地址 |
 | product\_url | String |  | 商品显示URL |
 | create\_time | Datetime |  | 创建时间 |
 | update\_time | Datetime |  | 最后一次更新时间 |
@@ -40,9 +40,7 @@
 | is_fbx | int | | 是否FBX商品标识 |
 | skus\[\] | sku信息 |  |  |
 | sku\_id | String |  | SKU ID |
-| properties | String |  | SKU属性信息 |
 | outer\_id | String |  | 外部商品编码 |
-| sku\_image\_url | String |  | 规格图片链接 |
 | is\_used | Boolean |  | 是否启用 |
 | price | Decimal |  | 商品价格 |
 | vip\_price | Decimal |  | vip商品价 |
@@ -51,6 +49,7 @@
 | weight | double |  | 规格重量 |
 | weight\_unit | Int |  | 重量单位（公斤、磅） |
 | extra\_info | String |  | 扩充信息 |
-
-
-
+| properties[] | String |  | SKU属性信息|
+| name | String |  | 名称 |
+| value | String |  | 值  |
+| picUrl | String |  | 规格图片链接 |
