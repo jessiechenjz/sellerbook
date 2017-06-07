@@ -16,12 +16,11 @@
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| Version | String | N | 版本号（yyyy-MM-dd HH：mm：ss） |
-| LogisticInfoList[] |  |  |  |
-| LogisticId | Integer | N | 货站Id |
-| LogisticName | String | N | 货站名称 |
-| LogisticAddress | String | N | 货站地址 |
+| version | String | N | 版本号（yyyy-MM-dd HH：mm：ss） |
+| logistic_info_list[] |  |  |  |
+| logistic_id | integer | N | 货站Id |
+| logistic_name | String | N | 货站名称 |
+| logistic_address | String | N | 货站地址 |
 
 
 ### 错误信息描述
-
