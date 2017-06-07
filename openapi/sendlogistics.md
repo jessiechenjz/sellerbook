@@ -44,3 +44,14 @@
 | order_id | long | 105913276 | 订单号 |
 | exec_success | boolean | true | 是否执行成功 |
 | msg | string |  | 处理信息 |
+
+
+#### 示例报文
+
+* url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.order.deliver
+* 请求报文:    
+<br  />
+{"app_id":"CgZcxYhQaCXOt31YQe","method":"ymatou.order.deliver","sign_method":"MD5","auth_code":"JmhUXrDRP4Mw7zEHs2p3iQJ4T7mUOGr3","timestamp":"2017-06-07 14:49:38","sign":"8F01503D6352988B8CDB3CE4EA5FAF0C","nonce_str":"9204667338768330660933423992945","biz_content":"{\"deliver_orders\":[{\"order_id\":112532318,\"logistics_company_id\":\"Y073\",\"tracking_number\":\"89049482110\",\"is_domestic_delivery\":false}]}"}
+* 返回报文:   
+<br  />
+{"code":"0000","message":"","content":{"results":[{"msg":"","exec_success":true,"order_id":112532318}]}}
