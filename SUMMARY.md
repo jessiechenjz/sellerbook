@@ -89,8 +89,8 @@
 
 ## 码头优选计划
 
-* [业务介绍](pspseller/pspintro.md)
-* [业务操作](pspseller/preferred-intro.md)
+* [业务介绍](pspseller/psprules.md)
+* [业务操作](pspseller/pspoperation.md)
 * [优选商品](pspseller/pspproducts.md)
 * [码头优选FAQ](pspseller/preferred-faq.md)
 
