@@ -89,9 +89,9 @@
 
 ## 码头优选计划
 
-* [优选业务介绍](pspseller/pspintro.md)
-* [优选业务功能](pspseller/preferred-intro.md)
-* [pspproducts](pspseller/pspproducts.md)
+* [业务介绍](pspseller/pspintro.md)
+* [业务功能](pspseller/preferred-intro.md)
+* [优选商品](pspseller/pspproducts.md)
 * [码头优选FAQ](pspseller/preferred-faq.md)
 
 ## 码头精准营销
