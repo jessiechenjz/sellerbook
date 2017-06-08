@@ -92,6 +92,7 @@
 * [优选业务介绍](pspseller/pspintro.md)
 * [优选业务功能](pspseller/preferred-intro.md)
 * [码头优选FAQ](pspseller/preferred-faq.md)
+* [pspproducts](pspseller/pspproducts.md)
 
 ## 码头精准营销
 
