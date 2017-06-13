@@ -26,8 +26,8 @@
 | version | String | N | 版本号（yyyy-MM-dd HH：mm：ss） |
 | categorys |  |  |  |
 | category_id | String | N | 分类Id |
-| categorycn_name | String | N | 分类中文名 |
-| categoryen_name | String | N | 分类英文名 |
+| category_cn_name | String | N | 分类中文名 |
+| category_en_name | String | N | 分类英文名 |
 | category_level | Int | N | 分类级别 |
 | category_parent_id | Int | N | 分类父ID |
 
