@@ -11,6 +11,7 @@
 | productid_list|String[]|否| | 产品id列表，用","区分，最多100个|
 | page\_no | Integer | 是 | 3 | 请求分页页码(大于0) |
 | page\_rows | Integer | 是 | 50 | 每页记录数量(大于0且小于等于100 )|
+| total_count | Integer | 是 | 50 | 总行数 |
 
 ### 返回参数
 
