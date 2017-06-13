@@ -52,4 +52,4 @@
 | properties[] | SKU属性信息 |  | |
 | name | String |  | 名称 |
 | value | String |  | 值  |
-| picUrl | String |  | 规格图片链接 |
+| pic_url | String |  | 规格图片链接 |
