@@ -8,7 +8,7 @@
 
 | 名称 | 类型 | 必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
-| productid_list|String|否| | 产品id列表，用","区分，最多100个|
+| productid_list|String[]|否| | 产品id列表，用","区分，最多100个|
 | page\_no | Integer | 是 | 3 | 请求分页页码(大于0) |
 | page\_rows | Integer | 是 | 50 | 每页记录数量(大于0且小于等于100 )|
 
@@ -24,7 +24,7 @@
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| productId | String |  | 商品ID |
+| product_id | String |  | 商品ID |
 | product\_name | String |  | 商品名称 |
 | category\_id | int |  | 三级类目ID |
 | category\_name | String |  | 三级类目名称 |
@@ -76,5 +76,3 @@
 	"biz_content": "{\"order_status\":\"2\",\"date_type\":1,\"sort_type\":1,\"start_date\":\"2017-06-02 14:56:40\",\"end_date\":\"2017-06-07 14:56:40\",\"page_no\":1,\"page_rows\":10}"
 }
 ```
-
-
