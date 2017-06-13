@@ -19,7 +19,7 @@
 | :--- | :--- | :--- | :--- |
 | code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
 | message | String |  |  |
-| product\_infos | ProductInfo\[\] |  |  |  |
+| product\_infos | JSON Object |  |  |  |
 | total_count | Integer | 是 | 50 | 总行数 |
 
 * Product\_Info
