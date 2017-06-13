@@ -40,10 +40,10 @@
 | brand\_name | String |  | 品牌名称 |
 | product\_images | String\[\] |  | 商品图片链接地址 |
 | product\_url | String |  | 商品显示URL |
-| create\_time | String |  | 创建时间 |
-| update\_time | String |  | 最后一次更新时间 |
-| listing\_start\_time | String |  | 上架开始时间 |
-| listing\_end\_time | String |  | 上架结束时间 |
+| create\_time | String |  | 创建时间yyyy-MM-dd HH:mm:ss |
+| update\_time | String |  | 最后一次更新时间yyyy-MM-dd HH:mm:ss |
+| listing\_start\_time | String |  | 上架开始时间yyyy-MM-dd HH:mm:ss |
+| listing\_end\_time | String |  | 上架结束时间yyyy-MM-dd HH:mm:ss |
 | delivery\_type | int |  | 商品物流方式 <br> 2. 直邮 3. 官方（贝海）直邮 4. 第三方保税 5. 官方（贝海）保税 7. 拼邮  |
 | fbx | Boolean | | 是否FBX商品标识 |
 | skus |SkuInfo[] |  | sku信息  |
