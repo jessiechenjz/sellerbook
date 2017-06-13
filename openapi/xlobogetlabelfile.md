@@ -21,19 +21,32 @@ xlobo.labels.file.getFile10×15 EMS10×15 热敏纸面单
 | :--- | :--- | :--- | :--- |
 | billcodes | String | N | 一个或者多个面单号 |
 
-输出：
+### 返回参数
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
+| message | String |  |  |
+| total_count | Int | N | 更新数量 |
+| error_count | Int | N | 出错数量 |
+| error_info_list | ErrorInfo[] |  |错误描述   |
+| result | ResultInfo[] |  |结果  |
+
+
+### 类型类型描述 （ErrorInfo）
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| total_count | Int | N | 更新数量 |
-| error_count | Int | N | 出错数量 |
-| error_info_list\(errorinfo\) |  |  |  |
 | identity | String | Y | 错误数据的标识 |
 | error_code | String | Y | 错误代码 |
 | error_description | String | Y | 错误描述 |
-| result |  |  |  |
+
+
+### 类型类型描述 （ResultInfo）
+
+| 字段名称 | 类型 | 可空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | billcode | String | N | 面单号 |
-| \(bill_pdf\) |  |  |  |
 | bill_pdf_label | String | N | 面单PDF字节流，需要base64解码成byte。 |
 
 注：BillpdfLabel类型为String，需要base64解码成byte
