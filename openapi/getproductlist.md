@@ -22,7 +22,8 @@
 | product\_infos | JSON Object |  |  |  |
 | total_count | Integer | 是 | 50 | 总行数 |
 
-* Product\_Info
+
+### 类型描述（ProductInfo）  
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
@@ -39,8 +40,14 @@
 | listing\_start\_time | Datetime |  | 上架开始时间 |
 | listing\_end\_time | Datetime |  | 上架结束时间 |
 | delivery\_type | int |  | 商品物流方式 <br> 2. 直邮 3. 官方（贝海）直邮 4. 第三方保税 5. 官方（贝海）保税 7. 拼邮  |
-| is_fbx | int | | 是否FBX商品标识 |
-| skus\[\] | sku信息 |  |  |
+| fbx | int | | 是否FBX商品标识 |
+| skus |SkuInfo[] |  | sku信息  |
+
+
+### 类型描述（SkuInfo）  
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | sku\_id | String |  | SKU ID |
 | properties | String |  | SKU属性信息 |
 | outer\_id | String |  | 外部商品编码 |
@@ -52,11 +59,15 @@
 | weight | double |  | 规格重量 |
 | weight\_unit | Int |  | 重量单位（公斤、磅） |
 | extra\_info | String |  | 扩充信息 |
-| properties[] | SKU属性信息 |  | |
+| properties |  propertieInfo[]|  |SKU属性信息 |
+
+### 类型描述（propertieInfo）  
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | name | String |  | 名称 |
 | value | String |  | 值  |
 | pic_url | String |  | 规格图片链接 |
-
 
 
 #### 示例报文
