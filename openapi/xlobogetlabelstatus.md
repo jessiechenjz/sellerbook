@@ -14,25 +14,42 @@
 | :--- | :--- | :--- | :--- |
 | billcodes |  | N | 一个或者多个面单号 |
 
-### 输出：
+### 返回参数
 
-| 字段名称 | 类型 | 可否为空 | 描述 |
+| 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
+| code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
+| message | String |  |  |
 | total_count | Int | N | 更新数量 |
 | error_count | Int | N | 出错数量 |
-| error_info_list\(erroinfo\) |  |  |  |
+| error_info_list | ErrorInfo[] |  |错误描述   |
+| result | BillTrackInfo[] |  |结果  |
+
+
+### 类型描述 （ErrorInfo）
+
+| 字段名称 | 类型 | 可空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | identity | String | Y | 错误数据的标识 |
 | error_code | String | Y | 错误代码 |
 | error_description | String | Y | 错误描述 |
-| result\(BillTrackInfo\) |  |  |  |
+
+### 类型描述 （BillTrackInfo）
+
+| 字段名称 | 类型 | 可空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | billcode | String | N | 面单号 |
 | business_no | String | Y | 业务编号 |
-| bill_status_list |  |  | 面单状态列表 |
+| bill_status_list |BillStatusInfo[]  |  | 面单状态列表 |
+
+
+### 类型描述 （BillStatusInfo）
+| 字段名称 | 类型 | 可空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | start_time | String | N | 状态发生时间 |
 | operator | String | N | 操作人 |
 | status | String | N | 状态名称 |
 | status_detail | String | Y | 状态描述 |
-
 
 ### 错误信息描述
 
