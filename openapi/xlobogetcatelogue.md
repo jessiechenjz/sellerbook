@@ -18,13 +18,20 @@
 
 ### 业务参数
 
+### 返回参数
 
-### 输出：
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
+| message | String |  |  |
+| categorys | JSON Object |  |  |  |
+| version | String | N | 版本号（yyyy-MM-dd HH：mm：ss） |
+
+
+### 类型描述（CategoryInfo） ：
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| version | String | N | 版本号（yyyy-MM-dd HH：mm：ss） |
-| categorys |  |  |  |
 | category_id | String | N | 分类Id |
 | category_cn_name | String | N | 分类中文名 |
 | category_en_name | String | N | 分类英文名 |
