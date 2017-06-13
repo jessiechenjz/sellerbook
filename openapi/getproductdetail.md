@@ -56,7 +56,7 @@
 | sku\_id | String |  | SKU ID |
 | properties | String |  | SKU属性信息 |
 | outer\_id | String |  | 外部商品编码 |
-| is\_used | Boolean |  | 是否启用 |
+| used | Boolean |  | 是否启用 |
 | price | Decimal |  | 商品价格 |
 | vip\_price | Decimal |  | vip商品价 |
 | new\_price | Decimal |  | 新客价 |
