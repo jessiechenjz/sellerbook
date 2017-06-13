@@ -24,7 +24,7 @@
 | :--- | :--- | :--- | :--- |
 | code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
 | message | String |  |  |
-| Product\_Info | JsonObject |  |  |  |
+| Product\_Info | JSON Object |  |  |  |
 
 * 
 
