@@ -24,7 +24,7 @@
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| productId | String |  | 商品ID |
+| product_id | String |  | 商品ID |
 | product\_name | String |  | 商品名称 |
 | category\_id | int |  | 三级类目ID |
 | category\_name | String |  | 三级类目名称 |
@@ -53,5 +53,3 @@
 | name | String |  | 名称 |
 | value | String |  | 值  |
 | picUrl | String |  | 规格图片链接 |
-
-
