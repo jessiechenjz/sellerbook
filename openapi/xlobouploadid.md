@@ -26,15 +26,24 @@
 
 （3）现仅支持JPG.JPEG.PNG.BMP格式图片
 
+
 ### 返回参数
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
+| message | String |  |  |
+| update_count | Int | N | 更新数量 |
+| error_count | Int | N | 出错数量 |
+| error_info_list | ErrorInfo[] |  |错误描述   |
+
+
+### 类型描述 （ErrorInfo）
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| update_count | Int | N | 更新数量 |
-| error_count | Int | N | 出错数量 |
-| error_info_list\(ErrorInfo\) |  |  |  |
 | identity | String | Y | 错误数据的标识 |
-| error_code | String |  | 错误代码 |
+| error_code | String | Y | 错误代码 |
 | error_description | String | Y | 错误描述 |
 
 ### 错误信息描述
