@@ -11,7 +11,7 @@
 | productid_list|String[]|否| | 产品id列表，用","区分，最多100个|
 | page\_no | Integer | 是 | 3 | 请求分页页码(大于0) |
 | page\_rows | Integer | 是 | 50 | 每页记录数量(大于0且小于等于100 )|
-| total_count | Integer | 是 | 50 | 总行数 |
+
 
 ### 返回参数
 
@@ -20,6 +20,7 @@
 | code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
 | message | String |  |  |
 | product\_infos | ProductInfo\[\] |  |  |  |
+| total_count | Integer | 是 | 50 | 总行数 |
 
 * Product\_Info
 
@@ -54,7 +55,7 @@
 | properties[] | SKU属性信息 |  | |
 | name | String |  | 名称 |
 | value | String |  | 值  |
-| picUrl | String |  | 规格图片链接 |
+| pic_url | String |  | 规格图片链接 |
 
 
 
