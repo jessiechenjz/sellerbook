@@ -28,6 +28,8 @@
 
 * 
 
+### 类型描述（ProductInfo）  
+
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
 | product_id | String |  | 商品ID |
@@ -38,14 +40,21 @@
 | brand\_name | String |  | 品牌名称 |
 | product\_images | String\[\] |  | 商品图片链接地址 |
 | product\_url | String |  | 商品显示URL |
-| create\_time | Datetime |  | 创建时间 |
-| update\_time | Datetime |  | 最后一次更新时间 |
-| listing\_start\_time | Datetime |  | 上架开始时间 |
-| listing\_end\_time | Datetime |  | 上架结束时间 |
+| create\_time | String |  | 创建时间 |
+| update\_time | String |  | 最后一次更新时间 |
+| listing\_start\_time | String |  | 上架开始时间 |
+| listing\_end\_time | String |  | 上架结束时间 |
 | delivery\_type | int |  | 商品物流方式 <br> 2. 直邮 3. 官方（贝海）直邮 4. 第三方保税 5. 官方（贝海）保税 7. 拼邮  |
-| is_fbx | int | | 是否FBX商品标识 |
-| skus\[\] | sku信息 |  |  |
+| fbx | Boolean | | 是否FBX商品标识 |
+| skus |SkuInfo[] |  | sku信息  |
+
+
+### 类型描述（SkuInfo）  
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | sku\_id | String |  | SKU ID |
+| properties | String |  | SKU属性信息 |
 | outer\_id | String |  | 外部商品编码 |
 | is\_used | Boolean |  | 是否启用 |
 | price | Decimal |  | 商品价格 |
@@ -55,7 +64,12 @@
 | weight | double |  | 规格重量 |
 | weight\_unit | Int |  | 重量单位（公斤、磅） |
 | extra\_info | String |  | 扩充信息 |
-| properties[] | SKU属性信息 |  | |
+| properties |  propertieInfo[]|  |SKU属性信息 |
+
+### 类型描述（propertieInfo）  
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | name | String |  | 名称 |
 | value | String |  | 值  |
 | pic_url | String |  | 规格图片链接 |
