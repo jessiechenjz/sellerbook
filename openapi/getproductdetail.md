@@ -64,9 +64,9 @@
 | weight | double |  | 规格重量 |
 | weight\_unit | Int |  | 重量单位（公斤、磅） |
 | extra\_info | String |  | 扩充信息 |
-| properties |  propertieInfo[]|  |SKU属性信息 |
+| properties |  PropertyInfo[]|  |SKU属性信息 |
 
-### 类型描述（propertieInfo）  
+### 类型描述（PropertyInfo）  
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
