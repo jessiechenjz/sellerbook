@@ -18,15 +18,20 @@
 | :--- | :--- | :--- | :--- | :--- |
 | product\_id | String | 是 | 0000069e-7361-4986-b626-9aa5ed61ad03 | 商品ID |
 
+
+
 ### 返回参数
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
 | code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
 | message | String |  |  |
-| Product\_Info | JSON Object |  |  |  |
+| content | JSON Object |  |  |
 
-* 
+### 类型描述
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
+| Product\_Info | ProductInfo |  |  |  |
 
 ### 类型描述（ProductInfo）  
 
