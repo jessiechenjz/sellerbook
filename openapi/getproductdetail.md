@@ -34,7 +34,7 @@
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| Product\_Info | ProductInfo |  |  |  
+| Product\_Info | ProductInfo |  | 商品信息 |  
 
 
 
