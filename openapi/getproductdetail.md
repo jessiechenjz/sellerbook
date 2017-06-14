@@ -73,3 +73,69 @@
 | name | String |  | 名称 |
 | value | String |  | 值  |
 | pic_url | String |  | 规格图片链接 |
+
+
+
+#### 示例报文
+
+* url：http://open.ymatou.com/apigateway/v1?app_id=aBNgc6RkDwYkdckavF&method=ymatou.product.detail.get
+* 请求报文:    
+<br  />
+
+
+```
+{
+	"app_id" : "aBNgc6RkDwYkdckavF",
+	"method" : "ymatou.product.detail.get",
+	"sign_method" : "MD5",
+	"auth_code" : "8UyV9ryKksAAlPwpduneO5rJ4l369yDT",
+	"timestamp" : "2017-06-14 10:33:42",
+	"sign" : "51E281A8E259D382D496DA88ECA87E61",
+	"nonce_str" : "5083898275981716678561226722216",
+	"biz_content" : "{\"product_id\":\"883a4206-957f-409a-86e3-6aa734d1bade\"}"
+}
+```
+
+
+* 返回报文:   
+<br  />
+
+
+```
+{
+	"code" : "0000",
+	"message" : "",
+	"content" : {
+		"product_info" : {
+			"category_name" : "按键手机",
+			"product_url" : "www.ymatou.com/product/883a4206-957f-409a-86e3-6aa734d1bade.html",
+			"skus" : [{
+					"extra_info" : null,
+					"weight_unit" : 0,
+					"price" : 10.00,
+					"stock_num" : 300,
+					"weight" : 0.0,
+					"new_price" : 8.00,
+					"sku_id" : "ec21b8a1-e439-4bb4-9706-4818b3664149",
+					"used" : true,
+					"vip_price" : 9.00,
+					"outer_id" : "shangpinbianma123456",
+					"properties" : null
+				}
+			],
+			"create_time" : "2017-06-13 15:37:16",
+			"listing_start_time" : "2017-06-13 15:37:16",
+			"brand_name" : "IBM",
+			"product_name" : "自动化测试_立即上架商品 06-13 15:27:59",
+			"brand_id" : 10145,
+			"product_images" : ["http://pc1.img.ymatou.com/G01/shangou/M00/2A/17/rBBlD1eqnq-AEvUHAANhqAY9_CQ839_n_w_o.jpg"],
+			"update_time" : "2017-06-13 15:37:16",
+			"category_id" : 1003,
+			"delivery_type" : 2,
+			"product_id" : "883a4206-957f-409a-86e3-6aa734d1bade",
+			"listing_end_time" : "2017-06-20 15:37:16",
+			"fbx" : false
+		}
+	}
+}
+```
