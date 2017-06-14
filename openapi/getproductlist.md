@@ -27,7 +27,7 @@
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| product_infos | ProductInfo[] |  |   |
+| product_infos | ProductInfo[] |  | 商品信息   |
 | total_count | Integer | 是 |  总行数 |
 
 
