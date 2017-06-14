@@ -22,7 +22,9 @@
 | message | String |  |  |
 | content | JSON Object |  |  |
 
+
 *  类型描述
+
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
 | product_infos | ProductInfo[] |  |   |
