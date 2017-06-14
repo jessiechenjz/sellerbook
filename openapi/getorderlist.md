@@ -32,13 +32,13 @@
 | message | String |  |  |
 | content | JSON Object |  |  |
 
-### 类型描述
+*  类型描述
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
 | orders\_info | OrderInfo[] |  |  |  
 
-### 类型描述 \(OrderInfo\)
+*  类型描述 \(OrderInfo\)
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
