@@ -72,20 +72,156 @@
 
 #### 示例报文
 
-* url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.order.list.get
+
+#### 示例报文
+
+* url：http://open.ymatou.com/apigateway/v1?app_id=aBNgc6RkDwYkdckavF&method=ymatou.products.list.get
 * 请求报文:    
 <br  />
 
 
 ```
 {
-	"app_id": "aBNgc6RkDwYkdckavF",
-	"method": "ymatou.order.list.get",
-	"sign_method": "MD5",
-	"auth_code": "8UyV9ryKksAAlPwpduneO5rJ4l369yDT",
-	"timestamp": "2017-06-07 14:56:40",
-	"sign": "725C28BE74AD25364B572127456052D8",
-	"nonce_str": "0059636705582427847896181253219",
-	"biz_content": "{\"order_status\":\"2\",\"date_type\":1,\"sort_type\":1,\"start_date\":\"2017-06-02 14:56:40\",\"end_date\":\"2017-06-07 14:56:40\",\"page_no\":1,\"page_rows\":10}"
+	"app_id" : "aBNgc6RkDwYkdckavF",
+	"method" : "ymatou.products.list.get",
+	"sign_method" : "MD5",
+	"auth_code" : "8UyV9ryKksAAlPwpduneO5rJ4l369yDT",
+	"timestamp" : "2017-06-14 10:29:14",
+	"sign" : "8902FC85F63E434B68BB484975A51E7A",
+	"nonce_str" : "0370396742786436508050743559877",
+	"biz_content" : "{\"productid_list\":[\"6e05b989-6f99-4cc1-a64e-65168324961b\",\"2b1809ac-3b1e-4ddf-a0f3-00c97e507a23\",\"0d46b251-9d91-42fb-b67e-112023fc9d6a\",\"2df1f622-c88b-4625-ab50-b71d2c7dd0df\"],\"page_no\":1,\"page_rows\":10}"
+}
+```
+
+
+* 返回报文:   
+<br  />
+
+
+```
+{
+	"code" : "0000",
+	"message" : "",
+	"content" : {
+		"total_count" : 4,
+		"product_infos" : [{
+				"category_name" : "按键手机",
+				"product_url" : "www.ymatou.com/product/0d46b251-9d91-42fb-b67e-112023fc9d6a.html",
+				"skus" : [{
+						"extra_info" : null,
+						"weight_unit" : 0,
+						"price" : 10.00,
+						"stock_num" : 300,
+						"weight" : 0.0,
+						"new_price" : 8.00,
+						"sku_id" : "e6461b0f-814a-4810-b1a4-0b0d5c3a5759",
+						"used" : true,
+						"vip_price" : 9.00,
+						"outer_id" : "shangpinbianma123456",
+						"properties" : null
+					}
+				],
+				"create_time" : "2017-06-14 10:38:21",
+				"listing_start_time" : "2017-06-14 10:38:21",
+				"brand_name" : "IBM",
+				"product_name" : "自动化测试_立即上架商品 06-14 10:29:07",
+				"brand_id" : 10145,
+				"product_images" : ["http://pc1.img.ymatou.com/G01/shangou/M00/2A/17/rBBlD1eqnq-AEvUHAANhqAY9_CQ839_n_w_o.jpg"],
+				"update_time" : "2017-06-14 10:38:21",
+				"category_id" : 1003,
+				"delivery_type" : 2,
+				"product_id" : "0d46b251-9d91-42fb-b67e-112023fc9d6a",
+				"listing_end_time" : "2017-06-21 10:38:21",
+				"fbx" : false
+			}, {
+				"category_name" : "按键手机",
+				"product_url" : "www.ymatou.com/product/2b1809ac-3b1e-4ddf-a0f3-00c97e507a23.html",
+				"skus" : [{
+						"extra_info" : null,
+						"weight_unit" : 0,
+						"price" : 10.00,
+						"stock_num" : 300,
+						"weight" : 0.0,
+						"new_price" : 8.00,
+						"sku_id" : "17e2d4b2-bab7-4e3d-abe0-e7d069c57db0",
+						"used" : true,
+						"vip_price" : 9.00,
+						"outer_id" : "shangpinbianma123456",
+						"properties" : null
+					}
+				],
+				"create_time" : "2017-06-14 10:38:18",
+				"listing_start_time" : "2017-06-14 10:38:18",
+				"brand_name" : "IBM",
+				"product_name" : "自动化测试_立即上架商品 06-14 10:29:04",
+				"brand_id" : 10145,
+				"product_images" : ["http://pc1.img.ymatou.com/G01/shangou/M00/2A/17/rBBlD1eqnq-AEvUHAANhqAY9_CQ839_n_w_o.jpg"],
+				"update_time" : "2017-06-14 10:38:18",
+				"category_id" : 1003,
+				"delivery_type" : 2,
+				"product_id" : "2b1809ac-3b1e-4ddf-a0f3-00c97e507a23",
+				"listing_end_time" : "2017-06-21 10:38:18",
+				"fbx" : false
+			}, {
+				"category_name" : "按键手机",
+				"product_url" : "www.ymatou.com/product/2df1f622-c88b-4625-ab50-b71d2c7dd0df.html",
+				"skus" : [{
+						"extra_info" : null,
+						"weight_unit" : 0,
+						"price" : 10.00,
+						"stock_num" : 300,
+						"weight" : 0.0,
+						"new_price" : 8.00,
+						"sku_id" : "bf358761-6562-4054-bd0d-bc5d50399d5f",
+						"used" : true,
+						"vip_price" : 9.00,
+						"outer_id" : "shangpinbianma123456",
+						"properties" : null
+					}
+				],
+				"create_time" : "2017-06-14 10:38:25",
+				"listing_start_time" : "2017-06-14 10:38:25",
+				"brand_name" : "IBM",
+				"product_name" : "自动化测试_立即上架商品 06-14 10:29:11",
+				"brand_id" : 10145,
+				"product_images" : ["http://pc1.img.ymatou.com/G01/shangou/M00/2A/17/rBBlD1eqnq-AEvUHAANhqAY9_CQ839_n_w_o.jpg"],
+				"update_time" : "2017-06-14 10:38:25",
+				"category_id" : 1003,
+				"delivery_type" : 2,
+				"product_id" : "2df1f622-c88b-4625-ab50-b71d2c7dd0df",
+				"listing_end_time" : "2017-06-21 10:38:25",
+				"fbx" : false
+			}, {
+				"category_name" : "按键手机",
+				"product_url" : "www.ymatou.com/product/6e05b989-6f99-4cc1-a64e-65168324961b.html",
+				"skus" : [{
+						"extra_info" : null,
+						"weight_unit" : 0,
+						"price" : 10.00,
+						"stock_num" : 300,
+						"weight" : 0.0,
+						"new_price" : 8.00,
+						"sku_id" : "169da8e9-9474-4621-9385-15a03cbc5b73",
+						"used" : true,
+						"vip_price" : 9.00,
+						"outer_id" : "shangpinbianma123456",
+						"properties" : null
+					}
+				],
+				"create_time" : "2017-06-14 10:38:17",
+				"listing_start_time" : "2017-06-14 10:38:17",
+				"brand_name" : "IBM",
+				"product_name" : "自动化测试_立即上架商品 06-14 10:29:03",
+				"brand_id" : 10145,
+				"product_images" : ["http://pc1.img.ymatou.com/G01/shangou/M00/2A/17/rBBlD1eqnq-AEvUHAANhqAY9_CQ839_n_w_o.jpg"],
+				"update_time" : "2017-06-14 10:38:17",
+				"category_id" : 1003,
+				"delivery_type" : 2,
+				"product_id" : "6e05b989-6f99-4cc1-a64e-65168324961b",
+				"listing_end_time" : "2017-06-21 10:38:17",
+				"fbx" : false
+			}
+		]
+	}
 }
 ```
