@@ -28,12 +28,17 @@
 | message | String |  |  |
 | content | JSON Object |  |  |
 
-### 类型描述
+
+
+*  类型描述
+
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
-| Product\_Info | ProductInfo |  |  |  |
+| Product\_Info | ProductInfo |  |  |  
 
-### 类型描述（ProductInfo）  
+
+
+*  类型描述（ProductInfo）  
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
@@ -54,7 +59,8 @@
 | skus |SkuInfo[] |  | sku信息  |
 
 
-### 类型描述（SkuInfo）  
+
+* 类型描述（SkuInfo）  
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
@@ -71,7 +77,7 @@
 | extra\_info | String |  | 扩充信息 |
 | properties |  PropertyInfo[]|  |SKU属性信息 |
 
-### 类型描述（PropertyInfo）  
+*  类型描述（PropertyInfo）  
 
 | 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
