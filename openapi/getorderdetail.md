@@ -28,6 +28,7 @@
 | message |  |  |  |
 | content | JSON Object |  |OrderInfo的JSON报文体  |
 
+  
 * 类型描述 \(OrderInfo\)
 
 | 名称 | 类型 | 示例值 | 描述 |
@@ -58,13 +59,20 @@
 | receiver\_mobile | String |  | 收件人手机 |
 | receiver\_phone | String |  | 收件人电话 |
 | receiver\_email | String |  | 收件人邮箱 |
-| outer\_order\_no | String | 17061511145643596 | 外部商户订单号 |
+| payment_\order_\no | String | 17061511145643596 | 外部商户订单号 |
 | pay\_type | String | Alipay | 支付类型 CmbPay:招行一网通, Alipay:支付宝, Weixin:微信, ApplePay:ApplePay|
-| payer\_id\_type | String | 1 | 支付人证件类型 1:身份证, 2:护照  |
-| payer\_id\_no | String | 411222199701018674 | 支付人证件号 |
+| id\_cards | IdCard[\] | | 证件信息列表   |
 | order\_items\_info | OrderItemInfo\[\] |  | 订单商品明细 |  
 
+  
+* 类型描述 \(IdCard\)
 
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| receiver\_id\_type | Int | 1 | 支付人证件类型 1:身份证, 2:护照  |
+| receiver\_id\_no | String | 411222199701018674 | 支付人证件号 |
+
+  
 * 类型描述 \(OrderItemInfo\)
 
 | 名称 | 类型 | 示例值 | 描述 |
