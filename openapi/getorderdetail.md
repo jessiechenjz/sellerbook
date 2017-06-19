@@ -46,7 +46,6 @@
 | m\_adjust\_discount | Decimal |  -5.00| 买手调价金额 |
 | order\_time | String |  | 下单时间 yyyy-MM-dd HH:mm:ss|
 | paid\_time | String |  | 付款时间 yyyy-MM-dd HH:mm:ss|
-| outer_order_no | String | | 提供给支付公司的外部商户订单号 |
 | shipping\_time | String |  | 发货时间 yyyy-MM-dd HH:mm:ss |
 | cancel\_time | String |  | 取消时间 yyyy-MM-dd HH:mm:ss|
 | seller\_memo | String |  | 买手备注 |
