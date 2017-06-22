@@ -23,7 +23,7 @@
 | version | String | N | 版本号（yyyy-MM-dd HH：mm：ss） |
 
 
-### 类型描述（CategoryInfo） 
+*  类型描述（CategoryInfo） 
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
