@@ -19,7 +19,7 @@ xlobo.labels.file.getFile10×15 EMS10×15 热敏纸面单
 ### 业务参数
 | 字段名 | 类型 | 可空 | 含义 |
 | :--- | :--- | :--- | :--- |
-| billcodes | String | N | 一个或者多个面单号 |
+| billcodes | String | N | 一个或者多个面单号，不能超过10个 |
 
 
 ### 返回参数
