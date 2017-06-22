@@ -41,6 +41,8 @@
 | error_code | String | Y | 错误代码 |
 | error_description | String | Y | 错误描述 |
 
+
+
 *  类型描述 （BillTrackInfo）
 
 | 字段名称 | 类型 | 可空 | 描述 |
@@ -50,13 +52,16 @@
 | bill_status_list |BillStatusInfo[]  |  | 面单状态列表 |
 
 
-*   类型描述 （BillStatusInfo）
+
+*  类型描述 （BillStatusInfo）
+
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
 | start_time | String | N | 状态发生时间 |
 | operator | String | N | 操作人 |
 | status | String | N | 状态名称 |
 | status_detail | String | Y | 状态描述 |
+
 
 ### 错误信息描述
 
