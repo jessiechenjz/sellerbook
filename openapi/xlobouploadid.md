@@ -45,7 +45,7 @@
 | error_info_list | ErrorInfo[] |  |错误描述   |
 
 
-### 类型描述 （ErrorInfo）
+*  类型描述 （ErrorInfo）
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
@@ -53,4 +53,3 @@
 | error_code | String | Y | 错误代码 |
 | error_description | String | Y | 错误描述 |
 
-### 错误信息描述
