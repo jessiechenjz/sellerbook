@@ -10,7 +10,7 @@
 
 * 接口调用参数 [接口调用指南](/openapi/how-to-call-api.md)
 
-### 业务参数
+### 请求参数
 | 字段名 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
 | business_no | String | N | 业务编号，一个业务编号只能绑定一个物流面单 |
@@ -24,12 +24,26 @@
 | logistic_version | String | N | 货站最新版本时间，格式为（yyyy-MM-dd HH：mm：ss），验证版本有效性 |
 | line_type_id | Integer | N | 线路类型Id，1-个人快件 3-电商快件 9-奶粉专线 |
 | is_contain_tax | Integer | Y | 价格是否包税，0-不包税 1-包税（电商快件必填） |
-| bill_sender_info |  |  | 发件人信息 |
+| bill_sender_info | BillSenderInfo |  | 发件人信息 |
+| bill_receiver_info | BillReceiverInfo |  | 面单收件人信息 |
+| bill_supply_info | BillSupplyInfo  |  | 渠道信息 |
+| bill_category_list |BillCategoryInfo[]  |  | 货物信息，型号，规格，材质不能同时为空，最多只能有10个货物，包含10个 |
+
+
+*  类型描述（BillSenderInfo）
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | name | String | N | 发件人姓名 |
 | address | String | N | 发件人地址 |
 | phone | String | N | 发件人手机号 |
 | other_phone | String | Y | 发件人电话 |
-| bill_receiver_info |  |  | 面单收件人信息 |
+
+
+*  类型描述（BillReceiverInfo）
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | name | String | N | 收件人姓名 |
 | province | String | N | 收件人省份 |
 | city | String | N | 收件人城市 |
@@ -40,11 +54,21 @@
 | email | String | Y | 收件人Email |
 | post_code | String | N | 收件人邮编 |
 | id_code | String | Y | 收件人身份证号码 |
-| bill_supply_info |  |  | 渠道信息 |
-| other_code | String | Y | 渠道订单号。电商快件必填 |
+
+
+*  类型描述（BillSupplyInfo）
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
+| order_code | String | Y | 渠道订单号。电商快件必填 |
 | trading_no | String | Y | 渠道支付号。电商快件必填 |
 | channe_name | String | Y | 渠道名称。例：洋码头，淘宝，天猫等；注：电商快件只支持传入渠道：洋码头，淘宝，天猫，苏宁，京东，一号店，当当，Higo |
-| bill_category_list\[\] |  |  | 货物信息，型号，规格，材质不能同时为空，最多只能有10个货物，包含10个 |
+
+
+*  类型描述（BillCategoryInfo）
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | category_id | Integer | N | 分类Id。验证有效性 |
 | category_version | String | N | 分类最新版本时间，格式为（yyyy-MM-dd HH：mm：ss） 验证版本有效性 |
 | count | Integer | N |  |
@@ -57,23 +81,40 @@
 
 ### 返回参数
 
-面单信息
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
+| message | String |  |  |
+| content | JSON Object |  |  |
 
-| 字段名称 | 类型 | 可空 | 描述 |
+*  类型描述
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
 | :--- | :--- | :--- | :--- |
 | update_count | Int | N | 更新数量 |
 | error_count | Int | N | 出错数量 |
-| error_info_list（errorinfo） |  |  |  |
-| identity | String | Y | 错误数据的标识 |
-| error_code | String | Y | 错误代码 |
-| error_description | String | Y | 错误描述 |
-| result |  |  |  |
+| error_info_list | ErrorInfo[] |  | 错误描述  |
+| result | ResultInfo |  | 面单信息 |
+
+
+*  类型描述 （ResultInfo）
+
+| 字段名称 | 类型 | 可空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | billcode | String | Y | 面单号 |
 | business_no | String | N | 业务编号，传入的业务编号 |
 | is_post_pay | Int | Y | 是否后付费，1：后付费，0：预付费 |
 | delivery_fee | decimal\(10.2\) | Y | 运费 |
 | insurance | decimal\(10.2\) | Y | 保险费 |
 | tax_fee | decimal\(10.2\) | Y | 预交税费 |
+
+*  类型描述（ErrorInfo）
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
+| identity | String | Y | 错误数据的标识 |
+| error_code | String | Y | 错误代码 |
+| error_description | String | Y | 错误描述 |
 
 
 ### 错误信息描述
