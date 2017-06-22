@@ -52,7 +52,7 @@
 
 #### 示例报文
 
-* url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.sku.price.update
+* url：https://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.sku.price.update
 * 请求报文:    
 <br  />
 
@@ -117,5 +117,3 @@
 	}
 }
 ```
-
-
