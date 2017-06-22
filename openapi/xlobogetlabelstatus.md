@@ -20,13 +20,20 @@
 | :--- | :--- | :--- | :--- |
 | code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
 | message | String |  |  |
+| content | JSON Object |  |  |
+
+
+*  类型描述
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | total_count | Int | N | 更新数量 |
 | error_count | Int | N | 出错数量 |
 | error_info_list | ErrorInfo[] |  |错误描述   |
 | result | BillTrackInfo[] |  |结果  |
 
 
-### 类型描述 （ErrorInfo）
+*  类型描述 （ErrorInfo）
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
@@ -34,7 +41,7 @@
 | error_code | String | Y | 错误代码 |
 | error_description | String | Y | 错误描述 |
 
-### 类型描述 （BillTrackInfo）
+*  类型描述 （BillTrackInfo）
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
@@ -43,7 +50,7 @@
 | bill_status_list |BillStatusInfo[]  |  | 面单状态列表 |
 
 
-### 类型描述 （BillStatusInfo）
+*   类型描述 （BillStatusInfo）
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
 | start_time | String | N | 状态发生时间 |
