@@ -36,7 +36,7 @@
 
 #### 示例报文
 
-* url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.logistics.companies.get
+* url：https://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.logistics.companies.get
 * 请求报文:    
 <br  />
 
@@ -119,4 +119,3 @@
 	}
 }
 ```
-
