@@ -16,7 +16,7 @@
 | idcode | String | N | 身份证号码 |
 | front_picture | String | N | 正面身份证图片。图片转换为二进制流byte，再通过base64编码成字符串提交；注：现仅支持JPG.JPEG.PNG.BMP格式图片 |
 | back_picture | String | N | 背面身份证图片。图片转换为二进制流byte，再通过base64编码成字符串提交；注：现仅支持JPG.JPEG.PNG.BMP格式图片 |
-| billcode | String | N | 贝海面单号。不能为空|
+| billcode | String | N | 可为空；有面单号则会自动匹配|
 
 注：
 
