@@ -43,7 +43,14 @@
 | update_count | Int | N | 更新数量 |
 | error_count | Int | N | 出错数量 |
 | error_info_list | ErrorInfo[] |  |错误描述   |
+| result | UploadResultInfo |  |结果   |
+| succeed | boolean |  |true成功 false失败    |
 
+*  类型描述 （UploadResultInfo）
+
+| 字段名称 | 类型 | 可空 | 描述 |
+| :--- | :--- | :--- | :--- |
+| upload_result | int | Y | 结果  |
 
 *  类型描述 （ErrorInfo）
 
