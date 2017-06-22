@@ -19,12 +19,20 @@
 | :--- | :--- | :--- | :--- |
 | code | String | 0000 | 返回响应代码，都是公共返回码，无特殊业务响应码 |
 | message | String |  |  |
+| content | JSON Object |  |  |
+
+
+
+*  类型描述
+
+| 字段名称 | 类型 | 可否为空 | 描述 |
+| :--- | :--- | :--- | :--- |
 | version | String | N | 版本号（yyyy-MM-dd HH：mm：ss） |
 | logistic_info_list | LogisticInfo[] |  |结果  |
 
 
 
-### 类型描述 （LogisticInfo）
+*  类型描述 （LogisticInfo）
 
 | 字段名称 | 类型 | 可空 | 描述 |
 | :--- | :--- | :--- | :--- |
