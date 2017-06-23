@@ -2,9 +2,11 @@
 
 ---
 
-#### 网店管家![](/openapi/images/partner-wdgj1.jpg)
+#### 网店管家
 
-网店管家
+网店管家，12年沉淀成就电商ERP用户订购数排名第一，全渠道订单管理，品牌客户伊利、金仕顿、姚生记、洁柔明智之选。
+
+![](/openapi/images/partner-wdgj1.jpg)
 
 
   
