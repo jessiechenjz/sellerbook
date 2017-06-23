@@ -137,7 +137,7 @@
   * [获取货站](openapi/xlobogetterminallist.md)
   * [获取申报分类](openapi/xlobogetcatelogue.md)
 * [常见问题](openapi/faq.md)
-* [openapi partners](openapi/openapi-partners.md)
+* [合作伙伴](openapi/openapi-partners.md)
 
 ## 贝海物流
 
