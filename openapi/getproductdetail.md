@@ -89,7 +89,7 @@
 
 #### 示例报文
 
-* url：http://open.ymatou.com/apigateway/v1?app_id=aBNgc6RkDwYkdckavF&method=ymatou.product.detail.get
+* url：https://open.ymatou.com/apigateway/v1?app_id=aBNgc6RkDwYkdckavF&method=ymatou.product.detail.get
 * 请求报文:    
 <br  />
 

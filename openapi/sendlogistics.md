@@ -48,7 +48,7 @@
 
 #### 示例报文
 
-* url：http://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.order.deliver
+* url：https://open.ymatou.com/apigateway/v1?app_id=CgZcxYhQaCXOt31YQe&method=ymatou.order.deliver
 * 请求报文:    
 <br  />
 
@@ -84,5 +84,3 @@
 	}
 }
 ```
-
-

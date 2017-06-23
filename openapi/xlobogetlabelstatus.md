@@ -71,3 +71,101 @@
 | Xlobo.bill.param\_error | 参数{0}错误或者不合法，检查传入的参数是否正确 |
 | Xlobo.bill.parm\_length\_over | 面单/运单信息列表过长，最多支持同时查询20个面单运单 |
 | Xlobo.bill.param\_code\_not\_exists | 面单/运单号{0}不存在，检查传入的面单/运单号是否有效 |
+
+#### 示例报文
+
+* url：https://open.ymatou.com/apigateway/v1?app_id=T5vkxW5NPb64YdhXPo&method=xlobo.status.get
+* 请求报文:    
+<br  />
+
+
+```
+{
+	"code" : "0000",
+	"message" : null,
+	"content" : {
+		"result" : [{
+				"bill_status_list" : [{
+						"start_time" : "2017-02-15 16:15:06",
+						"operator" : "",
+						"status" : "面单已生成",
+						"status_detail" : "面单已生成"
+					}
+				],
+				"business_no" : "DB493222256US",
+				"billcode" : "DB493222256US"
+			}, {
+				"bill_status_list" : [{
+						"start_time" : "2017-02-15 16:15:06",
+						"operator" : "",
+						"status" : "面单已生成",
+						"status_detail" : "面单已生成"
+					}
+				],
+				"business_no" : "DB493222256US",
+				"billcode" : "DB493222256US"
+			}, {
+				"bill_status_list" : [{
+						"start_time" : "2017-02-10 13:23:31",
+						"operator" : "",
+						"status" : "面单已生成",
+						"status_detail" : "您的包裹尚未提交身份证明. 请至 www.xlobo.com/b 提交"
+					}
+				],
+				"business_no" : "DB003203478FR",
+				"billcode" : "DB003203478FR"
+			}
+		],
+		"total_count" : 3,
+		"error_info_list" : [],
+		"error_count" : 0
+	}
+}
+```
+
+
+* 返回报文:   
+<br  />
+
+
+```
+{
+	"code": "0000",
+	"message": "操作成功",
+	"content": {
+		"results": [{
+			"msg": "成功",
+			"outer_sku_id": "SKU1155239418",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU171412919",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU217813146",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU1330677937",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU1256079248",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU354224187",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU860303309",
+			"success": true
+		}, {
+			"msg": "成功",
+			"outer_sku_id": "SKU100948397",
+			"success": true
+		}]
+	}
+}
+```
