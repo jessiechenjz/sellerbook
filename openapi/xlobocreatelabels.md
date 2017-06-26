@@ -71,7 +71,7 @@
 | :--- | :--- | :--- | :--- |
 | category_id | Integer | N | 分类Id。验证有效性 |
 | category_version | String | N | 分类最新版本时间，格式为（yyyy-MM-dd HH：mm：ss） 验证版本有效性 |
-| count | Integer | N |  |
+| count | Integer | N |  数量 |
 | unit_price | Decimal\(10.2\) | N | 购买数量 购买单价，精确到2位小数，单位元，如 100.25，表示100.25元 |
 | product_name | String | N | 品名 |
 | brand | String | N | 品牌 |
