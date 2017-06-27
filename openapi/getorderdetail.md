@@ -60,6 +60,7 @@
 | receiver\_email | String |  | 收件人邮箱 |
 | payment\_order\_no | String | 17061511145643596 | 支付订单号 |
 | pay\_type | String | Alipay | 支付类型 CmbPay:招行一网通, Alipay:支付宝, Weixin:微信, ApplePay:ApplePay|
+| domestic\_delivered | Boolean | true | 是否国内段已发货  |
 | id\_cards | IdCard[\] | | 证件信息列表   |
 | order\_items\_info | OrderItemInfo\[\] |  | 订单商品明细 |  
 
