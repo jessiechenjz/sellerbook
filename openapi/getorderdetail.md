@@ -81,7 +81,7 @@
 | order\_id | Long |  | 订单号 |
 | order\_item\_id | String |  | 子订单编号 |
 | refund\_id | String |  | 退货退款单ID |
-| refund\_status | Integer | 1 | 退货退款状态 -1审核拒绝, 0:退款审核中, 1:退款审核成功 |
+| refund\_status | Integer | 1 | 退货退款状态 null: 无退款,-1:退款审核拒绝, 0:退款审核中, 1:退款审核通过 |
 | refund\_num | Integer | 1 | 退货数量 |
 | sku\_id | String | 399393920-333 | SkuId |
 | outer\_sku\_id | String | 3838822 | 买手商品编码 |
