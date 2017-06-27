@@ -48,6 +48,7 @@
 | paid\_time | String |  | 付款时间 yyyy-MM-dd HH:mm:ss|
 | shipping\_time | String |  | 发货时间 yyyy-MM-dd HH:mm:ss |
 | cancel\_time | String |  | 取消时间 yyyy-MM-dd HH:mm:ss|
+| accept\_time | String |  | 接单时间 yyyy-MM-dd HH:mm:ss|
 | seller\_memo | String |  | 买手备注 |
 | buyer\_remark | String |  | 买家留言 |
 | buyer\_id | String | vera\_1214 | 买家id |
