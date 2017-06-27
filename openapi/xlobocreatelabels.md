@@ -95,7 +95,7 @@
 | error_count | Int | N | 出错数量 |
 | error_info_list | ErrorInfo[] |  | 错误描述  |
 | result | ResultInfo |  | 面单信息 |
-
+| succeed | boolean |  |true成功 false失败    |
 
 *  类型描述 （ResultInfo）
 
