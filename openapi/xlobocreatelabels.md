@@ -131,3 +131,52 @@
 | Xlobo.bill.user.banlance | 用户余额不足，检查用户余额 |
 | Xlobo.bill.good\_length\_over | 包裹物品种类只能选择10个以内，包含10个。 |
 | Xlobo.bill.extra\_money\_exists | 存在补款，请先补款再做单 |
+
+
+
+#### 示例报文
+
+* url：https://open.ymatou.com/apigateway/v1?app_id=6QcDcCtvV3pJknJUEp&method=xlobo.labels.create
+* 请求报文:    
+<br  />
+
+```
+{
+	"app_id" : "6QcDcCtvV3pJknJUEp",
+	"method" : "xlobo.labels.create",
+	"sign_method" : "MD5",
+	"auth_code" : "2teKsa6gaiSUwxsACry9hXIaVsTEXqqV",
+	"timestamp" : "2017-06-28 16:43:20",
+	"sign" : "05B3A9E573C3C64798B8A4C89C8EF4A8",
+	"nonce_str" : "7273896771426693011897238496387",
+	"biz_content" : "{\"business_no\":\"1\",\"weight\":11,\"insure\":100,\"is_repacking\":1,\"is_pre_tax\":1,\"is_rec_tax\":1,\"comment\":\"test\",\"logistic_id\":1,\"logistic_version\":\"1.0\",\"line_type_id\":1,\"is_contain_tax\":0,\"bill_sender_info\":{\"name\":\"点点点\",\"address\":\"的说法啊沙发发\",\"phone\":\"17216214569878\"},\"bill_receiver_info\":{\"name\":\"zhangsan\",\"province\":\"湖南\",\"city\":\"长沙\",\"district\":\"湘潭\",\"address\":\"jkhdsjkhdsfjkhds\",\"phone\":\"13126682379\",\"post_code\":\"100000\"},\"bill_supply_info\":{\"order_code\":\"112524641\",\"trading_no\":\"14172801\",\"channe_name\":\"洋码头\"},\"bill_category_list\":[{\"category_id\":15,\"category_version\":\"1.0\",\"count\":1,\"unit_price\":100,\"product_name\":\"【kstore2.28】无规格1\",\"brand\":\"1\",\"model\":\"ss\",\"specification\":\"1\",\"size\":\"1\"}]}"
+}
+```
+
+
+* 返回报文:   
+<br  />
+
+
+```
+{
+	"code" : "0000",
+	"message" : null,
+	"content" : {
+		"result" : {
+			"insurance" : 0,
+			"delivery_fee" : 94.13,
+			"tax_fee" : 0,
+			"business_no" : "1",
+			"billcode" : "DB293257610US",
+			"is_post_pay" : 0
+		},
+		"succeed" : true,
+		"update_count" : 0,
+		"error_info_list" : [],
+		"error_count" : 0,
+		"message" : null
+	},
+	"success" : true
+}
+```
