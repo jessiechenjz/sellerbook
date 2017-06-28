@@ -97,7 +97,7 @@
 	"timestamp" : "2017-06-14 10:29:14",
 	"sign" : "8902FC85F63E434B68BB484975A51E7A",
 	"nonce_str" : "0370396742786436508050743559877",
-	"biz_content" : "{\"productid_list\":[\"6e05b989-6f99-4cc1-a64e-65168324961b\",\"2b1809ac-3b1e-4ddf-a0f3-00c97e507a23\",\"0d46b251-9d91-42fb-b67e-112023fc9d6a\",\"2df1f622-c88b-4625-ab50-b71d2c7dd0df\"],\"page_no\":1,\"page_rows\":10}"
+	"biz_content" : "{\"productid_list\":[\"2b1809ac-3b1e-4ddf-a0f3-00c97e507a23\",\"0d46b251-9d91-42fb-b67e-112023fc9d6a\"],\"page_no\":1,\"page_rows\":10}"
 }
 ```
 
@@ -170,51 +170,7 @@
 				"product_id" : "2b1809ac-3b1e-4ddf-a0f3-00c97e507a23",
 				"listing_end_time" : "2017-06-21 10:38:18",
 				"fbx" : false
-			}, {
-				"category_name" : "按键手机",
-				"product_url" : "www.ymatou.com/product/2df1f622-c88b-4625-ab50-b71d2c7dd0df.html",
-				"skus" : [{
-						"extra_info" : null,
-						"weight_unit" : 0,
-						"price" : 10.00,
-						"stock_num" : 300,
-						"weight" : 0.0,
-						"new_price" : 8.00,
-						"sku_id" : "bf358761-6562-4054-bd0d-bc5d50399d5f",
-						"used" : true,
-						"vip_price" : 9.00,
-						"outer_id" : "shangpinbianma123456",
-						"properties" : null
-					}
-				],
-				"create_time" : "2017-06-14 10:38:25",
-				"listing_start_time" : "2017-06-14 10:38:25",
-				"brand_name" : "IBM",
-				"product_name" : "自动化测试_立即上架商品 06-14 10:29:11",
-				"brand_id" : 10145,
-				"product_images" : ["http://pc1.img.ymatou.com/G01/shangou/M00/2A/17/rBBlD1eqnq-AEvUHAANhqAY9_CQ839_n_w_o.jpg"],
-				"update_time" : "2017-06-14 10:38:25",
-				"category_id" : 1003,
-				"delivery_type" : 2,
-				"product_id" : "2df1f622-c88b-4625-ab50-b71d2c7dd0df",
-				"listing_end_time" : "2017-06-21 10:38:25",
-				"fbx" : false
-			}, {
-				"category_name" : "按键手机",
-				"product_url" : "www.ymatou.com/product/6e05b989-6f99-4cc1-a64e-65168324961b.html",
-				"skus" : [{
-						"extra_info" : null,
-						"weight_unit" : 0,
-						"price" : 10.00,
-						"stock_num" : 300,
-						"weight" : 0.0,
-						"new_price" : 8.00,
-						"sku_id" : "169da8e9-9474-4621-9385-15a03cbc5b73",
-						"used" : true,
-						"vip_price" : 9.00,
-						"outer_id" : "shangpinbianma123456",
-						"properties" : null
-					}
+			}
 				],
 				"create_time" : "2017-06-14 10:38:17",
 				"listing_start_time" : "2017-06-14 10:38:17",
