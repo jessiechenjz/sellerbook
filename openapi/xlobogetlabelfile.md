@@ -1,10 +1,10 @@
-### 获取面单文件（xlobo.labels.file.getFileA4 / xlobo.labels.file.getFile10x15）
+### 获取面单文件（xlobo.labels.file.get.a4 / xlobo.labels.file.get.10x15）
 
 ---
 
-xlobo.labels.file.getfileA4  A4 格式面单
+xlobo.labels.file.get.a4  A4 格式面单
 
-xlobo.labels.file.getFile10×15 EMS10×15 热敏纸面单
+xlobo.labels.file.get.10x15 EMS10×15 热敏纸面单
 
 
 调用接口时，选择BillCodes或者DBNS其中一个参数进行查询，两个参数都不为空时以BillCodes进行查询
