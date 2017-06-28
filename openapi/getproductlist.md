@@ -171,20 +171,7 @@
 				"listing_end_time" : "2017-06-21 10:38:18",
 				"fbx" : false
 			}
-				],
-				"create_time" : "2017-06-14 10:38:17",
-				"listing_start_time" : "2017-06-14 10:38:17",
-				"brand_name" : "IBM",
-				"product_name" : "自动化测试_立即上架商品 06-14 10:29:03",
-				"brand_id" : 10145,
-				"product_images" : ["http://pc1.img.ymatou.com/G01/shangou/M00/2A/17/rBBlD1eqnq-AEvUHAANhqAY9_CQ839_n_w_o.jpg"],
-				"update_time" : "2017-06-14 10:38:17",
-				"category_id" : 1003,
-				"delivery_type" : 2,
-				"product_id" : "6e05b989-6f99-4cc1-a64e-65168324961b",
-				"listing_end_time" : "2017-06-21 10:38:17",
-				"fbx" : false
-			}
+			
 		]
 	}
 }
