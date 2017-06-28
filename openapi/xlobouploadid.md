@@ -1,4 +1,4 @@
-### 身份证上传（xlobo.idcard.add）
+### 身份证上传（xlobo.idcard.upload）
 
 ---
 
