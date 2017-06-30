@@ -9,7 +9,7 @@
 * 2017.5.26 提供的接口
 * 2017.6月份提供的接口
 
-#### 码头业务接口 
+#### 码头业务接口
 
 | 接口名称 | 接口描述 |
 | :--- | :--- |
@@ -21,13 +21,14 @@
 | [ymatou.logistics.companies.get](/openapi/getlogisticscompanies.md) | 获取买手物流公司信息 |
 | [ymatou.products.list.get](/openapi/getproductlist.md) | 获取商品列表 |
 | [ymatou.product.detail.get](/openapi/getproductdetail.md) | 获取单个商品信息 |
+| ymatou.order.accept | 批量接单接口 |
 
 #### 贝海物流接口 （计划6月份提供）
 
 | 接口名称 | 接口描述 |
 | :--- | :--- |
-| [xlobo.labels.createNoVerification](/openapi/xlobocreatelabels.md) | 任意发件人不使用商品编码做单接口 |
-| [xlobo.labels.file.getFileA4 / xlobo.labels.file.getFile10x15](/openapi/xlobogetlabelfile.md) | 获得单个面单文件 |
+| [xlobo.labels.create](/openapi/xlobocreatelabels.md) | 任意发件人不使用商品编码做单接口 |
+| [xlobo.labels.file.get.a4 / xlobo.labels.file.get.10x15](/openapi/xlobogetlabelfile.md) | 获得单个面单文件 |
 | [xlobo.status.get](/openapi/xlobogetlabelstatus.md) | 贝海运单物流状态获取 |
 | [xlobo.catalogue.get](/openapi/xlobogetcatelogue.md) | 获取贝海发货申报分类 |
 | [xlobo.idcard.add](/openapi/xlobouploadid.md) | 身份证上传 |

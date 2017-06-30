@@ -136,6 +136,7 @@
   * [获取物流状态](openapi/xlobogetlabelstatus.md)
   * [获取货站](openapi/xlobogetterminallist.md)
   * [获取申报分类](openapi/xlobogetcatelogue.md)
+  * [acceptorder](openapi/acceptorder.md)
 * [常见问题](openapi/faq.md)
 * [合作伙伴](openapi/openapi-partners.md)
 
