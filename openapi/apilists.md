@@ -16,12 +16,12 @@
 | [ymatou.skus.stock.update](/openapi/updateproductstock.md) | 批量更新商品库存数量 |
 | [ymatou.skus.price.update](/openapi/updateproductprice.md) | 批量更新商品价格 |
 | [ymatou.order.list.get](/openapi/getorderlist.md) | 获取订单列表信息 |
-| [ymatou.order.detail.get](/openapi/getorderdetail.md) | 获取单个订单详情 |
+| [ymatou.order.detail.get](/openapi/ymtgetorderdetail.md) | 获取单个订单详情 |
 | [ymatou.logistics.send](/openapi/sendlogistics.md) | 订单发货接口 |
 | [ymatou.logistics.companies.get](/openapi/getlogisticscompanies.md) | 获取买手物流公司信息 |
 | [ymatou.products.list.get](/openapi/getproductlist.md) | 获取商品列表 |
 | [ymatou.product.detail.get](/openapi/getproductdetail.md) | 获取单个商品信息 |
-| ymatou.order.accept | 批量接单接口 |
+| [ymatou.order.accept](/openapi/ymtacceptorder.md) | 批量接单接口 |
 
 #### 贝海物流接口 （计划6月份提供）
 
