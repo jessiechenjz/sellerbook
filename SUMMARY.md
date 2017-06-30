@@ -123,7 +123,7 @@
 * [调用指南](openapi/how-to-call-api.md)
 * [接口列表](openapi/apilists.md)
   * [获取商品列表](openapi/getproductlist.md)
-  * [获取商品详情](openapi/getproductdetail.md)
+  * [获取商品详情](openapi/ymtgetproductdetail.md)
   * [获取单个订单](openapi/getorderdetail.md)
   * [获取订单列表](openapi/getorderlist.md)
   * [订单发货](openapi/sendlogistics.md)
