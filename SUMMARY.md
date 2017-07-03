@@ -153,4 +153,5 @@
     * [商品库维护](logistics/xlobo-logistics/oversee-warehouse/merchandise-library.md)
     * [海外仓运单](logistics/xlobo-logistics/oversee-warehouse/create-waybill.md)
   * [清关流程](logistics/xlobo-logistics/clearance-process.md)
+* [terminal address](logistics/terminal-address.md)
 
