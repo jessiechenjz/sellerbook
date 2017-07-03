@@ -26,7 +26,7 @@
 | 新西兰 |  |  |
 | 奥克兰分拨中心 | 52a stonedon drive， east tamaki，auckland，2013 NEW ZEALAND | 周一至周五：9:00-18:00 |
 | 香港 |  |  |
-| 香港分拨中心 | HK Logistics | 周一至周五：9:00-18:00 |
+| 香港分拨中心 | HK Logistics 新界葵涌健康街15-23號泉基工業大廈地下 | 周一至周五：9:00-18:00 |
 
 #### 
 
