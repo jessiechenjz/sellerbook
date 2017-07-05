@@ -65,6 +65,7 @@
 * [预订商品](product-management/pre-sale-product.md)
 * [优化在架商品](product-management/new-listing.md)
 * [商品发布FAQ](product-management/product-faqs.md)
+* [freight rate](product-management/freight-rate.md)
 
 ## 订单管理
 
