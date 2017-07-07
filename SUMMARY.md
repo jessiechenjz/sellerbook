@@ -52,7 +52,7 @@
 
 * [首页指南](seller-platform/main-page.md)
 * [数据罗盘](seller-platform/data-compass.md)
-* [DSR业务](seller-platform/dsr.md)
+* [买手运营能力](seller-platform/dsr.md)
 * [买手客服工作台](seller-platform/user-settings/platform.md)
 * [系统设置](seller-platform/user-settings.md)
 * [常见问题](seller-platform/system-function-faq.md)
