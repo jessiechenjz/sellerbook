@@ -4,7 +4,22 @@
 
 #### 一、操作介绍
 
-1、 模板管理
+1、 使用运费模板
+
+买手在发布商品的时候，可以选择包邮或者选择使用”运费模板“
+
+![](/product-management/images/freight_rate4.png)
+
+运费的设置可以使用简单的按件的计费方式
+
+![](/product-management/images/freight_rate3.png)
+
+
+也可以使用按重量的计费方式
+
+
+
+模板管理
 
 设置运费模板
 
