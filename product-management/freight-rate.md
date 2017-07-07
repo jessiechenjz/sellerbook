@@ -22,13 +22,17 @@
 ![](/product-management/images/freight_rate5.png)
 
 
-
 2、运费模板管理
 
+可以通过菜单统一的查看运费模板，买手买手总共可以设置30个运费模板
+
+![](/product-management/images/freight_rate2.png)
 
 #### 二、规则解释
 
-三、
+为了指导买手如何进行运费的设置，特别是如何选择按件、按重、包邮之间的选择
+
+
 
 #### 
 
