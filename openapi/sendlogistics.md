@@ -20,7 +20,7 @@
 | order_id | long | 是 | 1729299393 | 待发货的订单编号 |
 | logistics_company\_id | String | 是 | Y073 | 平台物流公司标识 |
 | tracking_number | String | 是 | DB1234567800111 | 物流面单号 |
-| is_domestic_delivery | boolean | 是 | true | 是否国内段发货 |
+| is_domestic_delivery | boolean | 是 | true | 是否国内段发货 , 拼邮订单国内段发货时这个参数为true，其他订单发货，此参数为false|
 
 
 ### 返回参数
