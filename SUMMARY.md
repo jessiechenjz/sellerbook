@@ -85,7 +85,7 @@
 * [交易服务费说明](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 * [结算增值服务说明](fund-management/value-add-services.md)
-* [资金管理FAQ](fund-management/fund-faq.md)
+* [资金常见问题](fund-management/fund-faq.md)
 
 ## 码头优选计划
 
