@@ -99,7 +99,7 @@
 * [业务介绍](precision-marketing/precision-markting-intro.md)
 * [操作指南](precision-marketing/operation-manual.md)
 * [计费说明](precision-marketing/commission-setting.md)
-* [faq](precision-marketing/faq.md)
+* [常见问题](precision-marketing/faq.md)
 
 ## 买手促销
 
