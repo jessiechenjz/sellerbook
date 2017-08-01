@@ -65,7 +65,7 @@
 * [优化在架商品](product-management/new-listing.md)
 * [商品运费](product-management/freight-rate.md)
 * [商品发布FAQ](product-management/product-faqs.md)
-* [bundle prods](product-management/bundle-prods.md)
+* [组合商品](product-management/bundle-prods.md)
 
 ## 订单管理
 
