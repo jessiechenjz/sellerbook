@@ -47,6 +47,7 @@
 * [交易行为规范](platform-rules/trading-activies.md)
 * [争议处理规则](platform-rules/agreement.md)
 * [物流规范及处罚](platform-rules/logistics-rules.md)
+* [商品处罚规则](platform-rules/service-standards/shang-pin-chu-fa-gui-ze.md)
 
 ## 买手业务后台
 
