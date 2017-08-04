@@ -84,9 +84,9 @@
 ## 资金管理
 
 * [资金提现](fund-management/withdrawmoneymd.md)
-* [交易服务费说明](fund-management/transactionfee.md)
+* [交易服务费](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
-* [结算增值服务说明](fund-management/value-add-services.md)
+* [结算增值服务](fund-management/value-add-services.md)
 * [资金常见问题](fund-management/fund-faq.md)
 
 ## 码头优选计划
