@@ -67,7 +67,6 @@
 * [商品运费](product-management/freight-rate.md)
 * [组合商品](product-management/bundle-prods.md)
 * [商品发布FAQ](product-management/product-faqs.md)
-* [组合套装商品](product-management/zu-he-tao-zhuang-shang-pin.md)
 
 ## 订单管理
 
