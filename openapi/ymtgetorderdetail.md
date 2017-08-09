@@ -17,6 +17,7 @@
 | 名称 | 类型 | 是否必须 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- | :--- |
 | order\_id | Long | 是 | 17392939 | 订单编号 |
+| needs\_delivery\_info | Boolean | 否 | true | 是否需要发货信息(默认否 ) |
 
 ### 返回参数
 
@@ -64,6 +65,7 @@
 | domestic\_delivered | Boolean | true | 是否国内段已发货  |
 | id\_cards | IdCard[\] | | 证件信息列表   |
 | order\_items\_info | OrderItemInfo\[\] |  | 订单商品明细 |  
+| logistics\_info | LogisticsInfo\[\] |  | 物流发货信息 |  
 
   
 * 类型描述 \(IdCard\)
@@ -98,6 +100,15 @@
 | m\_promotion\_discount| Decimal |5 |买手促销活动分摊金额 |
 | m\_adjust\_discount | Decimal | -5.00 | 买手调整分摊金额 |
 
+
+* 类型描述 \(LogisticsInfo\)
+
+| 名称 | 类型 | 示例值 | 描述 |
+| :--- | :--- | :--- | :--- |
+| logistics\_company\_code | String |  | 平台物流公司标识 |
+| tracking\_number | String |  | 物流面单号 |
+| delivery\_time | Date |  | 发货时间 |
+| logistics\_type | Integer |  | 物流类型 1:国际段 2:国内段 |
 ### 错误信息描述
 
 
