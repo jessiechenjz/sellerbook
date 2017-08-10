@@ -22,7 +22,7 @@
 | end\_date | DateTime | 是 | 2017-03-30 23:59:59 | 查询结束时间 |
 | page\_no | Integer | 是 | 3 | 请求分页页码(大于0) |
 | page\_rows | Integer | 是 | 50 | 每页记录数量(大于0且小于等于100 )|
-
+| needs\_delivery\_info | Boolean | 否 | true | 是否需要发货信息(默认否 ) |
 
 ### 返回参数
 
