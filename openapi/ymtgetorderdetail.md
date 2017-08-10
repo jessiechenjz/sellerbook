@@ -65,7 +65,7 @@
 | domestic\_delivered | Boolean | true | 是否国内段已发货  |
 | id\_cards | IdCard[\] | | 证件信息列表   |
 | order\_items\_info | OrderItemInfo\[\] |  | 订单商品明细 |  
-| logistics\_info | LogisticsInfo\[\] |  | 物流发货信息 |  
+| delivery\_info | DeliveryInfo\[\] |  | 物流发货信息 |  
 
   
 * 类型描述 \(IdCard\)
@@ -101,7 +101,7 @@
 | m\_adjust\_discount | Decimal | -5.00 | 买手调整分摊金额 |
 
 
-* 类型描述 \(LogisticsInfo\)
+* 类型描述 \(DeliveryInfo\)
 
 | 名称 | 类型 | 示例值 | 描述 |
 | :--- | :--- | :--- | :--- |
