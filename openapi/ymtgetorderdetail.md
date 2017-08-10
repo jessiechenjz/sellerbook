@@ -120,16 +120,17 @@
 <br  />
 
 ```
-{
-	"app_id": "aBNgc6RkDwYkdckavF",
+ {
+	"app_id": "CgZcxYhQaCXOt31YQe",
 	"method": "ymatou.order.detail.get",
 	"sign_method": "MD5",
-	"auth_code": "8UyV9ryKksAAlPwpduneO5rJ4l369yDT",
-	"timestamp": "2017-06-07 15:19:14",
-	"sign": "D69BD086ACFD99EF65F1A97D0643943D",
-	"nonce_str": "5878893037341814334175660900460",
-	"biz_content": "{\"order_id\":112532332}"
+	"auth_code": "JmhUXrDRP4Mw7zEHs2p3iQJ4T7mUOGr3",
+	"timestamp": "2017-08-10 14:08:50",
+	"sign": "AE6DF7A2A792F89B0FF391FD15918884",
+	"nonce_str": "4833365348737993403783583543813",
+	"biz_content": "{\"order_id\":2138527766,\"needs_delivery_info\":true}"
 }
+
 ```
 
 
@@ -143,71 +144,87 @@
 	"message": null,
 	"content": {
 		"order_info": {
+			"payment_order_no": null,
 			"m_adjust_discount": 0.00,
-			"receiver_email": null,
-			"order_time": "2017-06-07 15:19:12",
-			"buyer_id": null,
+			"receiver_email": "tCj3lEq3Ogzt@163.com",
+			"order_time": "2017-08-10 14:09:38",
+			"buyer_id": "autotest_Dw8x9EvLqS",
+			"domestic_delivered": false,
 			"receiver_state": null,
 			"m_coupon_discount": 0.00,
-			"order_status": 1,
-			"trade_id": "14180600",
-			"receiver_zip": "100100",
-			"receiver_name": "autotest",
-			"payment": 443.00,
+			"order_status": 3,
+			"trade_id": "2133467688",
+			"receiver_zip": "200001",
+			"receiver_name": "钱翼",
+			"pay_type": null,
+			"payment": 403.00,
 			"p_coupon_discount": 0.00,
-			"shipping_time": null,
-			"seller_id": null,
+			"accept_time": "2017-08-10 14:09:44",
+			"shipping_time": "2017-08-10 14:09:51",
+			"seller_id": "wesper",
 			"cancel_time": null,
-			"amount": 401.00,
+			"amount": 403.00,
 			"seller_memo": null,
-			"paid_time": null,
-			"receiver_mobile": "13938393374",
-			"shipping_fee": 42.00,
+			"paid_time": "2017-08-10 14:09:44",
+			"receiver_mobile": "13673201578",
+			"shipping_fee": 0.00,
 			"buyer_remark": "尽快发货",
 			"order_items_info": [{
-				"outer_sku_id": null,
-				"m_adjust_discount": 0.00,
-				"refund_status": null,
-				"num": 5,
-				"sku_id": "1da69d4c-91ed-4966-b620-ad8eb9f2d05a",
-				"sku_properties_name": "06f25e0c-e431-44ae-8a07-4d0bc824e3bd#尺寸:951a814e-2ded-4241-b9a0-91b2cd9a44fd#6,d2f663ea-3214-4344-abce-a8eaffcc43ce#颜色:f3ed3ad7-a084-450b-b698-256542963306#红色",
-				"refund_id": null,
-				"product_title": "自动化测试商品+9430290420",
-				"order_item_id": "5937a903ef2e883c3a2cfb6e",
-				"shipping_fee": 19.37,
-				"m_coupon_discount": 0.00,
-				"price": 37.00,
-				"product_id": "1e58ed92-ae44-433c-8c24-086310b3456b",
-				"refund_num": null,
-				"payment": 185.00,
-				"p_coupon_discount": 0.00,
-				"order_id": 112532332,
-				"m_promotion_discount": 0.00
-			}, {
-				"outer_sku_id": null,
-				"m_adjust_discount": 0.00,
-				"refund_status": null,
-				"num": 4,
-				"sku_id": "e4629e62-d500-4c26-a945-811a12b27268",
-				"sku_properties_name": "06f25e0c-e431-44ae-8a07-4d0bc824e3bd#尺寸:951a814e-2ded-4241-b9a0-91b2cd9a44fd#6,d2f663ea-3214-4344-abce-a8eaffcc43ce#颜色:f3ed3ad7-a084-450b-b698-256542963306#红色",
-				"refund_id": null,
-				"product_title": "自动化测试商品+5356257995",
-				"order_item_id": "5937a903ef2e883c3a2cfb6f",
-				"shipping_fee": 22.63,
-				"m_coupon_discount": 0.00,
-				"price": 54.00,
-				"product_id": "abdb3649-e910-4910-aafa-3675a40c4a8d",
-				"refund_num": null,
-				"payment": 216.00,
-				"p_coupon_discount": 0.00,
-				"order_id": 112532332,
-				"m_promotion_discount": 0.00
-			}],
-			"receiver_address": "autotest11131113",
-			"receiver_phone": "100100",
-			"order_id": 112532332,
+					"outer_sku_id": null,
+					"m_adjust_discount": 0.00,
+					"refund_status": null,
+					"num": 5,
+					"sku_id": "e94a65bf-bc66-4bba-a8cc-c9a6344a9a81",
+					"sku_properties_name": "06f25e0c-e431-44ae-8a07-4d0bc824e3bd#尺寸:951a814e-2ded-4241-b9a0-91b2cd9a44fd#6,d2f663ea-3214-4344-abce-a8eaffcc43ce#颜色:f3ed3ad7-a084-450b-b698-256542963306#红色",
+					"refund_id": null,
+					"product_title": "自动化测试商品+0783278314",
+					"order_item_id": "598bf8adef2e886803134e0c",
+					"shipping_fee": 0.00,
+					"m_coupon_discount": 0.00,
+					"delivery_type": 7,
+					"price": 68.00,
+					"product_id": "5a158c72-63ce-4418-bd53-25d707ef5a1b",
+					"refund_num": null,
+					"payment": 340.00,
+					"p_coupon_discount": 0.00,
+					"order_id": 2138527766,
+					"m_promotion_discount": 0.00
+				}, {
+					"outer_sku_id": null,
+					"m_adjust_discount": 0.00,
+					"refund_status": null,
+					"num": 1,
+					"sku_id": "ef9fa88e-1429-4e48-975d-24a63ed9cf1d",
+					"sku_properties_name": "06f25e0c-e431-44ae-8a07-4d0bc824e3bd#尺寸:951a814e-2ded-4241-b9a0-91b2cd9a44fd#6,d2f663ea-3214-4344-abce-a8eaffcc43ce#颜色:f3ed3ad7-a084-450b-b698-256542963306#红色",
+					"refund_id": null,
+					"product_title": "自动化测试商品+9656456444",
+					"order_item_id": "598bf8adef2e886803134e0d",
+					"shipping_fee": 0.00,
+					"m_coupon_discount": 0.00,
+					"delivery_type": 7,
+					"price": 63.00,
+					"product_id": "9f389e0d-222d-44ba-b4ed-cc34c4514279",
+					"refund_num": null,
+					"payment": 63.00,
+					"p_coupon_discount": 0.00,
+					"order_id": 2138527766,
+					"m_promotion_discount": 0.00
+				}
+			],
+			"delivery_info": [{
+					"logistics_company_code": "",
+					"tracking_number": "DB683214922US",
+					"delivery_time": 1502345396053,
+					"logistics_type": 1
+				}
+			],
+			"id_cards": null,
+			"receiver_address": "灵石路695号3号楼1404室",
+			"receiver_phone": "",
+			"order_id": 2138527766,
 			"m_promotion_discount": 0.00
 		}
 	}
 }
+
 ```
