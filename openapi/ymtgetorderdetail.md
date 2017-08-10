@@ -107,7 +107,7 @@
 | :--- | :--- | :--- | :--- |
 | logistics\_company\_code | String |  | 平台物流公司标识 |
 | tracking\_number | String |  | 物流面单号 |
-| delivery\_time | Date |  | 发货时间 |
+| delivery\_time | String |  | 发货时间 yyyy-MM-dd HH:mm:ss|
 | logistics\_type | Integer |  | 物流类型 1:国际段 2:国内段 |
 ### 错误信息描述
 
