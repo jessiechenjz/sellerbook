@@ -27,22 +27,22 @@
 
   * 点击发货之后，跳转至拼邮发货页面，输入国际物流单号（每个国际物流单号只能对应50个拼邮订单）,国内物流单号和国际物流单号无法同时填写。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/pinyou_2.jpg)
+  ![](/order-management/images/pinyou_2.jpg)
 
   * 完成国际段物流发货之后，操作国内段物流发货。点击“交易-订单管理-已发货”，选择“拼邮国内段待发货”，点击“国内段发货”。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/pinyou_3.jpg)
+  ![](/order-management/images/pinyou_3.jpg)
 
   * 输入国内段物流单号，确认发货即可
 
-  ![](http://sellerhub.ymatou.com/helpview/img/pinyou_4.jpg)
+  ![](/order-management/images/pinyou_4.jpg)
 
 
 #### 三、批量操作订单发货
 
 * 1、将待发货的拼邮订单导出，订单导出后，在“导出任务列表”中下载。
 
-  ![](http://sellerhub.ymatou.com/helpview/img/pinyou_5.jpg)
+  ![](/order-management/images/pinyou_5.jpg)
 
 * 2、下载批量发货模板，按照发货模板填写发货信息，填写后分别导入发货（国际段发货和国内段发货）即可
 
