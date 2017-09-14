@@ -46,13 +46,13 @@
 
 * 2、下载批量发货模板，按照发货模板填写发货信息，填写后分别导入发货（国际段发货和国内段发货）即可
 
-  ![](http://sellerhub.ymatou.com/helpview/img/pinyou_6.jpg)
+  ![](/order-management/images/pinyou_6.jpg)
 
 * 3、发货模板填写如下：序号，订单号，物流公司编号，物流单号。
 
   订单合并发货是可以用表格导入的形式来实现的
 
-  ![](http://sellerhub.ymatou.com/helpview/img/pinyou_7.jpg)
+  ![](/order-management/images/pinyou_7.jpg)
 
 
 
