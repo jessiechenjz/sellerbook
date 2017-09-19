@@ -119,6 +119,7 @@
 * [优惠券管理](sellerapp/coupon-manage.md)
 * [消息管理](sellerapp/seller-app-message.md)
 * [账户设置](sellerapp/account-setting.md)
+* [sub account](sellerapp/sub-account.md)
 
 ## OPEN API
 
