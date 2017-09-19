@@ -45,9 +45,10 @@
 
 注意：新增APP端登录使用功能，首次登录需验证手机号。建议在个人中心的安全设置中，修改初始密码。
 
+<div align=center>
 ![](/sellerapp/images/subaccount6.png)
 ![](/sellerapp/images/subaccount6-1.png)
-
+</div>
 
 #### 四、消息功能说明
 
