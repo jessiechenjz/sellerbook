@@ -113,13 +113,13 @@
 ## 买手APP
 
 * [APP工作台](sellerapp/seller-app-dashboard.md)
+* [子账号登录](sellerapp/sub-account.md)
 * [商品管理](sellerapp/seller-app-product.md)
 * [直播管理](sellerapp/seller-app-liveshow.md)
 * [订单管理](sellerapp/seller-app-orders.md)
 * [优惠券管理](sellerapp/coupon-manage.md)
 * [消息管理](sellerapp/seller-app-message.md)
 * [账户设置](sellerapp/account-setting.md)
-* [sub account](sellerapp/sub-account.md)
 
 ## OPEN API
 
