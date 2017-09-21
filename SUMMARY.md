@@ -84,7 +84,7 @@
 ## 资金管理
 
 * [资金提现](fund-management/withdrawmoneymd.md)
-* [码头资金提现到贝海](fund-management/ma-tou-zi-jin-ti-xian-dao-bei-hai-gui-ze.md)
+* [提现到贝海](fund-management/ma-tou-zi-jin-ti-xian-dao-bei-hai-gui-ze.md)
 * [交易服务费](fund-management/transactionfee.md)
 * [洋码头日账单](fund-management/sellerledger.md)
 * [结算增值服务](fund-management/value-add-services.md)
